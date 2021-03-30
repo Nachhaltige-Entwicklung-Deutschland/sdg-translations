@@ -61,6 +61,7 @@
 'observation status': 'Beobachtungsstatus'
 'profession': 'Beruf'
 'organisational form': 'Organisationsform'
+'antimicrobial-resistant organisms': 'Antimikrobiell-resistente Organismen'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
 'reporting type': 'Berichtstyp'
@@ -70,6 +71,7 @@
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
 'speed': 'Geschwindigkeit'
+'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 'subject': 'Schulfach'
 'substance': 'Substanz'
 'technology': 'Technologie'
@@ -86,6 +88,7 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -112,7 +115,7 @@
 '21 to under 25 years': '21 bis unter 25 Jahre'
 '21 to under 60 years': '21 bis unter 60 Jahre'
 '25 to under 45 years': '25 bis unter 45 Jahre'
-'25 to under 64 years': '25 bis unter 64 Jahre'
+'25 to under 65 years': '25 bis unter 65 Jahre'
 '25 to under 75 years': '25 bis unter 75 Jahre'
 '25 years and over': '25 Jahre und älter'
 '30 to under 45 years': '30 bis unter 45 Jahre'
@@ -121,6 +124,7 @@
 '45 to under 65 years': '45 bis unter 65 Jahre'
 '55 to under 65 years': '55 bis unter 65 Jahre'
 '60 years and over': '60 Jahre und älter'
+'65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
 'area 4 marriage and family': 'Area 4: Ehe und Familie'
@@ -178,6 +182,8 @@
 'b) dentists': 'Zahnärzte'
 'public': 'Öffentlich'
 'private': 'Privat'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, die gegen Cephalosporine der 3. Generation resistent sind (z. B. ESBL- E. coli)'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistentem Staphylococcus aureus (MRSA)'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -201,6 +207,8 @@
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
 'd) 30 mbps to under 100 mbps': 'd) 30 Mbit/s bis unter 100 Mbit/s'
 'e) 100 mbps and over': 'e) 100 Mbit/s und mehr'
+'seea tables': 'SEEA Tabellen'
+'tsa tables': 'TSA Tabellen'
 'reading': 'Lesen'
 'mathematics': 'Mathematik'
 'a) drugs': 'Drogen'
@@ -247,14 +255,16 @@
 'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
 'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
 'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'greater 10 percentage': 'Größer 10 %'
+'greater 25 percentage': 'Größer 25 %'
 
 #Zeitreihen
 #Z_01021_1
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
 #Z_01022_1
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
+'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 #Z_01022_2
-'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01031_1
 'unemployed persons with unemployment benefits (%)': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
@@ -299,6 +309,8 @@
 'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben für die Landwirtschaft'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
+#Z_02081_1
+'food price index (food items and alcohol-free beverages)': 'Verbraucherpreisindex Nahrungsmittel (Nahrungsmittel und alkoholfreie Getränke)'
 #Z_03011_1
 'maternal mortality (per 100 000 live births)': 'Müttersterblichkeit'
 #Z_03012_1
@@ -355,6 +367,8 @@
 'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal (mit direktem Patientenkontakt)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
+#Z_03132_1
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil von Infektionen des Blutkreislaufs durch ausgewählte antimikrobiell-resistente Organismen'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -390,7 +404,7 @@
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
 #Z_05081_1
-'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
+'mobile penetration rate': 'Penetrationsrate Mobilfunk'
 #Z_05081_2
 'private households with at least one mobile phone (%)': 'Privathaushalte mit mindestens einem Mobiltelefon'
 #Z_06011_1
@@ -471,6 +485,8 @@
 'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
 #Z_08111_2
 'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+#Z_09011_1
+'rural access index': 'Index der ländlichen Anbindung'
 #Z_09012_1
 'passenger transport': 'Personenverkehr'
 #Z_09012_2
@@ -562,15 +578,15 @@
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_12041_1
-'compliance with the basel convention (%)': 'Übereinstimmung mit dem Basler Übereinkommen'
+'compliance with the basel convention (%)': 'Basler Übereinkommen'
 #Z_12041_2
-'compliance with the montreal protocol (%)': 'Übereinstimmung mit dem Montrealer Protokoll'
+'compliance with the montreal protocol (%)': 'Montrealer Protokoll'
 #Z_12041_3
-'compliance with the rotterdam convention (%)': 'Übereinstimmung mit dem Rotterdamer Übereinkommen'
+'compliance with the rotterdam convention (%)': 'Rotterdamer Übereinkommen'
 #Z_12041_4
-'compliance with the stockholm convention (%)': 'Übereinstimmung mit dem Stockholmer Übereinkommen'
+'compliance with the stockholm convention (%)': 'Stockholmer Übereinkommen'
 #Z_12041_5
-'compliance with the minamata convention (%)': 'Übereinstimmung mit dem Minamata Übereinkommen'
+'compliance with the minamata convention (%)': 'Minamata Übereinkommen'
 #Z_12042_1
 'a) hazardous waste generated per capita': 'Erzeugte gefährliche Abfälle'
 #Z_12042_2
@@ -583,6 +599,8 @@
 'organisations with emas registration (number)': 'Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)'
 #Z_12071_1
 'sustainability programme': 'Nachhaltigkeitsstrategie'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
 #Z_13021_2
@@ -633,6 +651,8 @@
 'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
+#Z_16012_1
+'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
 'population subjected to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
 #Z_16013_2
@@ -688,7 +708,7 @@
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
-'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
+'proportion of individuals using the internet': 'Anteil der Internetnutzerinnen und -nutzer'
 #Z_17091_1
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17091_2
@@ -739,8 +759,19 @@
 'birth registration': 'Registrierung der Geburten'
 #Z_17192_3
 'death registration': 'Registrierung der Sterbefälle'
+#Z_03082_1
+'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 
 #Zusatz
-'total': 'Insgesamt'
-'timeseries': 'Zeitreihe'
-'year': 'Jahr'
+total: Insgesamt
+timeseries: Zeitreihe
+Series: Zeitreihe
+year: Jahr
+Year: Jahr
+
+#Old stuff that may still be needed
+'25 to under 64 years': '25 bis unter 64 Jahre'
+'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
+'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
+'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
+'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
