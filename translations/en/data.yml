@@ -4,6 +4,7 @@
 'eur': 'EUR'
 'eur/h': 'EUR per hour'
 'eur per inhabitant': 'EUR per inhabitant'
+'g/dl': 'Grams per decilitre'
 'g/eur constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -46,6 +47,7 @@
 'area of law': 'Area of law'
 'classification': 'Classification'
 'conversion': 'Conversion'
+'declination': 'Declination'
 'disability': 'Disability status'
 'economic sector': 'Economic sector'
 'educational level': 'Educational level'
@@ -53,6 +55,7 @@
 'facilities': 'Facilities'
 'region': 'Region'
 'frequency': 'Frequency'
+'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
@@ -68,6 +71,7 @@
 'level of risk of extinction': 'Level of risk of extinction'
 'sea': 'Sea'
 'sector': 'Sector'
+'time series': 'Time series'
 'sex': 'Sex'
 'skill': 'Skill'
 'speed': 'Speed'
@@ -88,7 +92,6 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
-'household expenditures on health': 'Household expenditures on health'
 
 #Characteristics
 'copied or moved a file and folder': 'Copying or moving of files and folders'
@@ -103,11 +106,18 @@
 'under 18 years': '17 years and younger'
 '10 to under 15 years': '10 to under 15 years'
 '14 to under 18 years': '14 to under 18 years'
+'15 years': '15 years'
+'15.5 years': '15.5 years'
 '15 to under 20 years': '15 to under 20 years'
 '15 to under 25 years': '15 to under 25 years'
 '15 years and over': '15 years and older'
+'16 years': '16 years'
+'16.5 years': '16.5 years'
 '16 to under 25 years': '16 to under 25 years'
 '16 to under 75 years': '16 to under 75 years'
+'17 years': '17 years'
+'17.5 years': '17.5 years'
+'18 years': '18 years'
 '18 to under 21 years': '18 to under 21 years'
 '18 to under 30 years': '18 to under 30 years'
 '18 to under 65 years': '18 to under 65 years'
@@ -137,6 +147,8 @@
 'class 6 areas (elevation  300-1000 meters)': 'Class 6 areas (elavation 300-1000 meters)'
 'by un factors': 'By UN factors'
 'by national factors': 'By national factors'
+'admissible applications': 'Admissible applications'
+'rejected applications': 'Rejected applications'
 'persons with disability': 'Persons with disability'
 'mobility impaired people': 'Mobility impaired people'
 'c) services (nace rev 2, sections e, g to t)': 'Services (NACE Rev. 2, sections E, G to T)'
@@ -166,6 +178,8 @@
 'mecklenburg western pomerania': 'Mecklenburg Western Pomerania'
 'lower saxony': 'Lower Saxony'
 'north rhine-westphalia': 'North Rhine-Westphalia'
+'greater 10 percentage': 'Greater 10 %'
+'greater 25 percentage': 'Greater 25 %'
 'sdg indicator 4-2-2': 'SDG indicator 4.2.2'
 'sdg indicator 4-3-1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
 'sdg indicator 4-3-1 (youth)': 'SDG-Indicator 4.3.1 (Youth)'
@@ -182,7 +196,7 @@
 'b) dentists': 'Dentists'
 'public': 'Public'
 'private': 'Private'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)'
 'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistant Staphylococcus aureus (MRSA)'
 'minimum requirement level i': 'Minimum requirement level I'
 'minimum requirement level ii': 'Minimum requirement level II'
@@ -196,6 +210,8 @@
 'greater north sea': 'Greater North Sea'
 'general government': 'General government'
 'corporations': 'Corporations'
+'applications finally processed': 'Applications finally processed'
+'applications received': 'Applications received'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -255,8 +271,6 @@
 'other wastewater that does not have to undergo treatment': 'Other wastewater'
 'safely treated wastewater (total)': 'Wastewater safely treated (total)'
 'untreated wastewater that does not have to undergo treatment': 'Untreated wastewater that does not have to undergo treatment'
-'greater 10 percentage': 'Greater 10 %'
-'greater 25 percentage': 'Greater 25 %'
 
 #Time series
 #Z_01021_1
@@ -271,10 +285,6 @@
 'population covered by health insurance (%)': 'Population covered by health insurance'
 #Z_01053_1
 'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
-#Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health (COFOG division 7)'
 #Z_01062_2
@@ -305,8 +315,6 @@
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': '"Agriculture orientation index" for government expenditures'
-#Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
 'export refunds': 'Export refunds'
 #Z_02081_1
@@ -361,14 +369,10 @@
 'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
 #Z_03111_4
 'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
-#Z_03112_1
-'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
 'health workers, according to the practising concept (with direct patient contact)': 'Health workers (practising concept)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
-#Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -383,10 +387,6 @@
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills'
 #Z_04081_1
 'equipment of schools': 'Proportion of schools offering basic services'
-#Z_04091_1
-'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
-#Z_04091_2
-'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
@@ -403,14 +403,6 @@
 'seats held by women in regional parliaments': 'Seats held by women in regional parliaments'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
-#Z_05081_1
-'mobile penetration rate': 'Mobile penetration rate'
-#Z_05081_2
-'private households with at least one mobile phone (%)': 'Private households with at least one mobile phone'
-#Z_06011_1
-'population using safely managed drinking water services (%)': 'Population using safely managed drinking water services'
-#Z_06011_2
-'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
 #Z_06021_1
 'a) population using safely managed sanitation services (%)': 'Population using safely managed sanitation services'
 #Z_06021_2
@@ -435,10 +427,6 @@
 'sub-indicator 3:  quantity discharge of water in rivers': 'Sub-indicator 3:  Quantity discharge of water in rivers'
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Sub-indicator 4: Water bodies with good quality'
-#Z_06071_1
-'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
-#Z_06071_2
-'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -473,20 +461,12 @@
 'fatal occupational accidents (per 100 000 employees)': 'Fatal'
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
-#Z_08091_1
-'share of tourism industries to total value added (%)': 'Share of tourism industries to total value added'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Branches of payment service providers'
 #Z_08101_2
 'b) atms of national payment service providers (per 100 000 adults)': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Accounts at payment service providers'
-#Z_08111_1
-'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
-#Z_08111_2
-'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
-#Z_09011_1
-'rural access index': 'Rural Access Index'
 #Z_09012_1
 'passenger transport': 'Passenger transport'
 #Z_09012_2
@@ -509,10 +489,6 @@
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 #Z_09052_1
 'researchers in full-time equivalents (per 1 mn inhabitants)': 'Researchers in full-time equivalents'
-#Z_09061_1
-'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to infrastructure'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
@@ -521,8 +497,6 @@
 'growth rate of income of the total population (%)': 'Growth rate of income of the total population'
 #Z_10011_2
 'growth rate of income of the bottom 40 per cent of the population (%)': 'Growth rate of income of the bottom 40 per cent of the population'
-#Z_10021_1
-'population living below 50% of median income, by sex and age': 'Population living below 50% of median income'
 #Z_10041_1
 'labour share of gdp (%)': 'Labour share of GDP'
 #Z_10051_1
@@ -539,8 +513,6 @@
 'liquid assets to short-term liabilities (%)': 'Liquid assets to short-term liabilities'
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Net open position in foreign exchange to capital'
-#Z_10091_1
-'net development expenditures': 'Net development expenditures'
 #Z_11011_1
 'population living in households with moisture damages': 'Population living in households with moisture damages'
 #Z_11011_2
@@ -595,12 +567,8 @@
 'recycling rate': 'Recycling rate'
 #Z_12051_2
 'recycled waste': 'Recycled waste'
-#Z_12061_1
-'organisations with emas registration (number)': 'Organisations with EMAS registration'
 #Z_12071_1
 'sustainability programme': 'Sustainability Programme'
-#Z_12101_1
-'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 #Z_13021_2
@@ -651,8 +619,6 @@
 'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
-#Z_16012_1
-'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
 'population subjected to physical violence': 'Population subjected to physical violence'
 #Z_16013_2
@@ -691,28 +657,18 @@
 'children under 5 years of age whose births have been registered with a civil authority (%)': 'Children under 5 years of age whose births have been registered with a civil authority'
 #Z_16102_1
 'public access to information (number)': 'Public access to information'
-#Z_16111_1
-'membership ganhri (category a) (number)': 'Membership GANHRI (category A)'
 #Z_17011_1
 'proportion of total government revenue to gdp (%)': 'Proportion of total government revenue to GDP'
 #Z_17012_1
 'proportion of domestic expenditures funded by national taxes (%)': 'Proportion of domestic expenditures funded by national taxes'
 #Z_17012_2
 'proportion of domestic expenditures funded by national taxes and insurance contributions (%)': 'Proportion of domestic expenditures funded by national taxes and insurance contributions'
-#Z_17021_1
-'proportion of net oda to gni (%)': 'Proportion of net ODA to GNI'
-#Z_17021_2
-'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI'
 #Z_17061_1
 'fixed internet broadband access lines': 'Fixed internet broadband access lines'
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
-#Z_17091_1
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
-#Z_17091_2
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -749,18 +705,12 @@
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
-#Z_17191_1
-'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries'
-#Z_17191_2
-'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 #Z_17192_2
 'birth registration': 'Birth registration'
 #Z_17192_3
 'death registration': 'Death registration'
-#Z_03082_1
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 
 #Addition
 
@@ -772,6 +722,39 @@ year: Year
 Year: Year
 
 #Old stuff that may still be needed
+'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
+'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
+'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
+'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'
+'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
+'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
+'mobile penetration rate': 'Mobile penetration rate'
+'private households with at least one mobile phone (%)': 'Private households with at least one mobile phone'
+'population using safely managed drinking water services (%)': 'Population using safely managed drinking water services'
+'population connected to the public water supply system (%)': 'Population connected to the public water supply system'
+'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
+'share of tourism industries to total value added (%)': 'Share of tourism industries to total value added'
+'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
+'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+'rural access index': 'Rural Access Index'
+'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to infrastructure'
+'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA (gross disbursements) to infrastructure'
+'population living below 50% of median income, by sex and age': 'Population living below 50% of median income'
+'net development expenditures': 'Net development expenditures'
+'organisations with emas registration (number)': 'Organisations with EMAS registration'
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
+'conflict-related deaths': 'Conflict-related deaths'
+'membership ganhri (category a) (number)': 'Membership GANHRI (category A)'
+'proportion of net oda to gni (%)': 'Proportion of net ODA to GNI'
+'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI'
+'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries'
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries'
+'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 '25 to under 64 years': '25 to under 64 years'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'At-risk-of-poverty or social exclusion'
 'extensive material deprivation (%)': 'Extensive material deprivation'
