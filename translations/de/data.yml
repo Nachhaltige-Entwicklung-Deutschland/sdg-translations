@@ -11,6 +11,7 @@
 'kg per capita': 'Kilogramm pro Kopf'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
+'mj/d': 'Megajoule pro Tag'
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
 'mn h': 'Millionen Stunden'
@@ -20,6 +21,7 @@
 'mn tkm': 'Millionen Tonnenkilometer'
 'mn usd, constant prices (2016)': 'Millionen USD, konstante Preise (2016)'
 'mn usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
+'mn usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
 'number': 'Anzahl'
 'per 100 inhabitants': 'Je 100 Einwohner'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner'
@@ -47,7 +49,7 @@
 'area of law': 'Rechtsgebiet'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
-'declination': 'Bescheinigung'
+'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
@@ -55,7 +57,7 @@
 'facilities': 'Ausstattung'
 'region': 'Region'
 'frequency': 'Häufigkeit'
-'household expenditures on health': 'Anteil der Haushaltsausgaben für Gesundheit'
+'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
@@ -74,6 +76,7 @@
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
+'source': 'Datenquelle'
 'speed': 'Geschwindigkeit'
 'standard accounting system': 'Standard-Rechnungslegungsinstrument'
 'subject': 'Schulfach'
@@ -137,6 +140,9 @@
 '65 to under 75 years': '65 bis unter 75 Jahre'
 '65 years and over': '65 Jahre und älter'
 'unknown age': 'Alter unbekannt'
+'germany': 'Deutschland'
+'new german states': 'Neue Länder'
+'former federal territory': 'Früheres Bundesgebiet'
 'area 4 marriage and family': 'Area 4: Ehe und Familie'
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
@@ -218,6 +224,8 @@
 'unknown': 'Unbekannt'
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
+'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
+'who': 'Weltgesundheitsorganisation (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
 'b) 2 mbps to under 10 mbps': 'b) 2 Mbit/s bis unter 10 Mbit/s'
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
@@ -242,12 +250,20 @@
 'road transport': 'Straßenverkehr'
 'transport via pipeline crude oil': 'Rohrfernleitungen: Rohöl'
 'a) cardiovascular disease': 'a) Herz-Kreislauferkrankung'
+'leprosy': 'Lepra'
+'buruli ulcer': 'Buruli-Ulkus'
+'human african trypanosomiasis': 'Afrikanische Trypanosomiasis'
+'leishmaniases': 'Leishmaniose'
+'rabies': 'Tollwut'
+'yaws': 'Frambösie'
 'b) cancer': 'b) Bösartige Neubildungen'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronische Atemwegserkrankungen'
 'a) diarrhoea': 'a) Durchfallerkrankungen'
 'b) intestinal nematode infections': 'b) Intestinale Nematodeninfektionen'
 'c) protein-energy malnutrition': 'c) Energie- und Eiweißmangelernährung'
+'dengue': 'Dengue'
+'echinococcosis': 'Echinokokkose'
 'physical abuse': 'Körperliche Misshandlung'
 'psychological abuse': 'Psychische Misshandlung'
 'current accounts': 'Girokonten'
@@ -285,6 +301,10 @@
 'population covered by health insurance (%)': 'Bevölkerung mit Krankenversicherungsschutz'
 #Z_01053_1
 'strategy for adaptation to climate change': 'Anpassungsstrategie an den Klimawandel'
+#Z_01061_1
+'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA) zur Minderung der Armut'
+#Z_01061_2
+'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
 #Z_01062_1
 'a) government expenditure on health (cofog division 7) (%)': 'Staatsausgaben für Gesundheit (COFOG Abteilung 7)'
 #Z_01062_2
@@ -297,6 +317,8 @@
 'overweight among children under the age of 5 years (%)': 'Übergewicht bei Kindern'
 #Z_02022_2
 'wasting among children under the age of 5 years (%)': 'Untergewicht bei Kindern'
+#Z_02023_1
+'hb concentrations in female adolescents (g/dl)': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 #Z_02031_1
 'labour productivity': 'Arbeitsproduktivität'
 #Z_02041_1
@@ -315,6 +337,8 @@
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': '"Agriculture Orientation Index" für Staatsausgaben'
+#Z_02062_1
+'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben für die Landwirtschaft'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -337,6 +361,10 @@
 'malaria incidence (per 1 000 inhabitants)': 'Auftreten von Malaria'
 #Z_03034_1
 'hepatitis b incidence (per 100 000 inhabitants)': 'Auftreten von Hepatitis B'
+#Z_03035_1
+'people requiring interventions against neglected tropical diseases': 'Personen mit Behandlungsbedarf bei vernachlässigten Tropenkrankheiten'
+#Z_03035_2
+'inpatient treatment of neglected tropical diseases': 'Stationäre Behandlung bei vernachlässigten Tropenkrankheiten'
 #Z_03041_1
 'mortality at the age of 30 to under 70 years': 'Sterblichkeit im Alter von 30 bis unter 70 Jahren'
 #Z_03042_1
@@ -353,6 +381,8 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'giving birth': 'Geburten junger Frauen'
+#Z_03082_1
+'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03092_1
 'mortality due to wash': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
@@ -369,10 +399,14 @@
 'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
 #Z_03111_4
 'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
+#Z_03112_1
+'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor'
 #Z_03121_1
 'health workers, according to the practising concept (with direct patient contact)': 'Gesundheitspersonal (mit direktem Patientenkontakt)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
+#Z_03132_1
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil von Infektionen des Blutkreislaufs durch ausgewählte antimikrobiell-resistente Organismen'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -387,6 +421,10 @@
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Erwachsene Bevölkerung, die mindestens über Grundkompetenzen in a) Lesen und b) Rechnen verfügt'
 #Z_04081_1
 'equipment of schools': 'Anteil der Schulen mit Basisversorgung'
+#Z_04091_1
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
+#Z_04091_2
+'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben für Stipendien'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -403,6 +441,14 @@
 'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
+#Z_05081_1
+'mobile penetration rate': 'Penetrationsrate Mobilfunk'
+#Z_05081_2
+'private households with at least one mobile phone (%)': 'Privathaushalte mit mindestens einem Mobiltelefon'
+#Z_06011_1
+'population using safely managed drinking water services (%)': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
+#Z_06011_2
+'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
 'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserversorgung'
 #Z_06021_2
@@ -427,6 +473,10 @@
 'sub-indicator 3:  quantity discharge of water in rivers': 'Subindikator 3: Wasserabfluss über Flüsse'
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Subindikator 4: Gewässer mit guter Wasserqualität'
+#Z_06071_1
+'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
+#Z_06071_2
+'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -467,6 +517,12 @@
 'b) atms of national payment service providers (per 100 000 adults)': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Konten bei Zahlungsverkehrsdienstleistern'
+#Z_08111_1
+'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
+#Z_08111_2
+'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
+#Z_09011_1
+'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
 'passenger transport': 'Personenverkehr'
 #Z_09012_2
@@ -497,6 +553,8 @@
 'growth rate of income of the total population (%)': 'Wachstumsrate des Einkommens der gesamten Bevölkerung'
 #Z_10011_2
 'growth rate of income of the bottom 40 per cent of the population (%)': 'Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung'
+#Z_10021_1
+'population living below 50% of median income, by sex and age': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 #Z_10041_1
 'labour share of gdp (%)': 'Anteil des Arbeitnehmerentgelts am BIP'
 #Z_10051_1
@@ -513,6 +571,8 @@
 'liquid assets to short-term liabilities (%)': 'Verbindlichkeiten'
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+#Z_10091_1
+'net development expenditures': 'Nettoentwicklungsausgaben'
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
 #Z_11011_2
@@ -569,12 +629,16 @@
 'recycled waste': 'Stoffliche Verwertung'
 #Z_12071_1
 'sustainability programme': 'Nachhaltigkeitsstrategie'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
 #Z_13021_2
 'climate action plan 2050': 'Klimaschutzplan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
+#Z_13041_1
+'climate finance flows to developing countries': 'Zahlungen zur Klimafinanzierung an Entwicklungsländer'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -582,9 +646,9 @@
 #Z_14041_2
 'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Verhältnis der untersuchten Fischbestände (basierend auf dem Ansatz der höchsten nachhaltigen Ergiebigkeit) an allen bewirtschafteten Beständen'
 #Z_14051_1
-'protected marine area (%)': 'Meeresschutzgebiete'
-#Z_14051_2
 'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
+#Z_14051_2
+'protected marine area (%)': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
 'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei'
 #Z_14081_1
@@ -592,9 +656,9 @@
 #Z_15011_1
 'forest area (%)': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 #Z_15012_1
-'protected terrestrial areas (%)': 'Schutzgebiete an Land'
+'key biodiversity areas (kbas) covered by protected areas (%)': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 #Z_15012_2
-'key biodiversity areas (kbas) covered by protected areas (%)': 'Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
+'protected terrestrial areas (%)': 'Fläche der Land- und Süßwasserökosysteme , die unter Schutz steht'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
@@ -619,6 +683,8 @@
 'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
+#Z_16012_1
+'conflict-related deaths': 'Konfliktbezogene Todesfälle'
 #Z_16013_1
 'population subjected to physical violence': 'Bevölkerung, die körperlicher Gewalt ausgesetzt war'
 #Z_16013_2
@@ -637,6 +703,8 @@
 'c) police reporting rate for robbery (%)': 'Anzeigequote bei Raub'
 #Z_16032_1
 'unsentenced detainees (%)': 'Nicht-verurteilte Gefangene'
+#Z_16033_1
+'requests for the implementation of a dispute resolution procedure': 'Anträge auf Durchführung eines Streitbeilegungsverfahrens'
 #Z_16042_1
 'seized arms and parts (number)': 'Sichergestellte Waffen und Waffenteile'
 #Z_16051_1
@@ -645,6 +713,8 @@
 'private persons (donors) suspected in the context of corruption offences': 'Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten'
 #Z_16052_1
 'businesses who had the impression that public officials are corruptible': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
+#Z_16061_1
+'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years (%)': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
 #Z_16071_1
@@ -657,12 +727,18 @@
 'children under 5 years of age whose births have been registered with a civil authority (%)': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 #Z_16102_1
 'public access to information (number)': 'Öffentlicher Zugang zu Informationen'
+#Z_16111_1
+'membership ganhri (category a) (number)': 'Mitgliedschaft GANHRI (Kategorie A)'
 #Z_17011_1
 'proportion of total government revenue to gdp (%)': 'Verhältnis der Gesamteinnahmen des Staates zum BIP'
 #Z_17012_1
 'proportion of domestic expenditures funded by national taxes (%)': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
 #Z_17012_2
 'proportion of domestic expenditures funded by national taxes and insurance contributions (%)': 'Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden'
+#Z_17021_1
+'proportion of net oda to gni (%)': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE'
+#Z_17021_2
+'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE'
 #Z_17061_1
 'fixed internet broadband access lines': 'Internet-Breitband-Zugänge'
 #Z_17071_1
@@ -705,6 +781,10 @@
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
+#Z_17191_1
+'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
+#Z_17191_2
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -720,39 +800,14 @@ year: Jahr
 Year: Jahr
 
 #Old stuff that may still be needed
-'mobile penetration rate': 'Penetrationsrate Mobilfunk'
-'private households with at least one mobile phone (%)': 'Privathaushalte mit mindestens einem Mobiltelefon'
-'population using safely managed drinking water services (%)': 'Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung'
-'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil von Infektionen des Blutkreislaufs durch ausgewählte antimikrobiell-resistente Organismen'
 'share of tourism industries to total value added (%)': 'Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung'
 'rural access index': 'Index der ländlichen Anbindung'
-'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
-'conflict-related deaths': 'Konfliktbezogene Todesfälle'
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 'organisations with emas registration (number)': 'Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)'
-'membership ganhri (category a) (number)': 'Mitgliedschaft GANHRI (Kategorie A)'
 'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
 'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
-'oda (gross disbursements) for poverty reduction': 'Bruttozahlungen (ODA)zur Minderung der Armut'
-'oda (commitments) for poverty reduction': 'Verpflichtungen (ODA) zur Minderung der Armut'
-'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben für die Landwirtschaft'
-'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor'
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
-'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben für Stipendien'
 'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
-'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Wasser und Sanitär'
-'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für verwandte Zwecke'
-'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'Verpflichtungen zur Handelshilfe (ODA und OOF)'
-'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'Bruttoauszahlungen für Handelshilfe (ODA und OOF)'
 'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur'
 'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Infrastruktur'
-'population living below 50% of median income, by sex and age': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
-'net development expenditures': 'Nettoentwicklungsausgaben'
-'proportion of net oda to gni (%)': 'Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE'
-'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE'
 'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
 'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
-'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
-'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern'
