@@ -36,6 +36,7 @@
 'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 'ph-value': 'pH-value'
 'per real gdp (2010 = 100)': 'Per real GDP (2010 = 100)'
+'per real gdp (2015 = 100)': 'Per real GDP (2015 = 100)'
 'per 1 mn inhabitants': 'Per 1 million inhabitants'
 '%': 'Percentage'
 't per capita': 'Tonnes per capita'
@@ -51,7 +52,7 @@
 'conversion': 'Conversion'
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
-'economic sector': 'Economic sector'
+'economic sector': 'Economic activity'
 'educational level': 'Educational level'
 'education level': 'Education level'
 'facilities': 'Facilities'
@@ -140,6 +141,10 @@
 '65 to under 75 years': '65 to under 75 years'
 '65 years and over': '65 years and older'
 'unknown age': 'Unknown age'
+'(a) national education policies': '(a) national education policies'
+'(b) curricula': '(b) curricula'
+'(c) teacher education': '(c) teacher education'
+'(d) student assessment': '(d) student assessment'
 'germany': 'Germany'
 'new german states': 'New German states'
 'former federal territory': 'Former Federal territory'
@@ -162,7 +167,7 @@
 'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing (NACE Rev. 2, section A)'
 'agriculture': 'Agriculture'
 'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, sections B, C, D, F)'
-'b) at the end of lower primary education': 'b) At the end of lower primary education'
+'b) at the end of lower primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
 'a) schools with access to electricity': 'a) Schools with access to electricity'
 'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
@@ -188,7 +193,7 @@
 'greater 25 percentage': 'Greater 25 %'
 'sdg indicator 4-2-2': 'SDG indicator 4.2.2'
 'sdg indicator 4-3-1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
-'sdg indicator 4-3-1 (youth)': 'SDG-Indicator 4.3.1 (Youth)'
+'sdg indicator 4-3-1 (youth)': 'SDG-Indicator 4.3.1 (Youths)'
 'total (one to four items)': 'Total (one to four items)'
 'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
@@ -306,11 +311,11 @@
 #Z_01061_2
 'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
-'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health (COFOG division 7)'
+'a) government expenditure on health (cofog division 7) (%)': 'Government expenditure on health'
 #Z_01062_2
-'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education (COFOG division 9)'
+'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education'
 #Z_01062_3
-'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection (COFOG division 10)'
+'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -336,7 +341,7 @@
 #Z_02052_3
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
-'agriculture orientation index for government expenditures': '"Agriculture orientation index" for government expenditures'
+'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
 'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
@@ -392,13 +397,13 @@
 #Z_03101_2
 'current tobacco use among persons aged 15 years and older (%)': 'Current tobacco use among persons aged 15 years and older'
 #Z_03111_1
-'coverage of dtp containing vaccine at school entrance': 'Coverage of DTP containing vaccine at school entrance'
+'dtp vaccination rate at school entrance': 'DTP vaccination rate at school entrance'
 #Z_03111_2
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'Coverage of HPV containing vaccine of 15 years old girls'
+'hpv vaccination rate among 15 years old girls': 'HPV vaccination rate among 15 years old girls'
 #Z_03111_3
-'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
+'measles vaccination rate at sschool entrance': 'Measles vaccination rate at sschool entrance'
 #Z_03111_4
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
+'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination rate at school entrance'
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
@@ -419,26 +424,24 @@
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
 'adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills': 'Adult population achieving at least a fixed level of proficiency in functional literacy and numeracy skills'
+#Z_04071_1
+'integration of (i) global citizenship education and (ii) education for sustainable development in the education system': 'Integration of (i) global citizenship education and (ii) education for sustainable development in the education system'
 #Z_04081_1
 'equipment of schools': 'Proportion of schools offering basic services'
-#Z_04091_1
-'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
-#Z_04091_2
-'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
 'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Female victims of criminal offences having/ had an intimate relationship with the suspect'
+#Z_05022_1
+'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 #Z_05031_1
 'married girls': 'Married girls'
 #Z_05032_1
-'victims of female genital mutilation (number)': 'Victims of female genital mutilation'
+'victims of female genital mutilation (number)': 'Female victims of genital mutilation'
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Time spent on unpaid domestic and care work'
 #Z_05051_1
-'seats held by women in national parliament': 'Seats held by women in national parliament'
-#Z_05051_2
-'seats held by women in regional parliaments': 'Seats held by women in regional parliaments'
+'seats held by women in national parliament': 'Proportion of women in the parliament'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
 #Z_05081_1
@@ -487,16 +490,10 @@
 'renewable energy share in total final energy consumption': 'Renewable energy share in total final energy consumption'
 #Z_07021_2
 'renewable energy share in gross final energy consumption': 'Renewable energy share in gross final energy consumption'
-#Z_07031_1
-'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_08011_1
 'annual growth rate of real gdp per capita (%)': 'Annual growth rate of real GDP per capita'
 #Z_08021_1
 'annual growth rate of real gdp per employed person (%)': 'Annual growth rate of real GDP per employed person'
-#Z_08041_1
-'rmc': 'Raw material consumption (RMC)'
-#Z_08042_1
-'dmc': 'Domestic material consumption (DMC)'
 #Z_08051_1
 'average hourly earnings of employees': 'Average hourly earnings of employees'
 #Z_08051_2
@@ -524,9 +521,9 @@
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
-'passenger transport': 'Passenger transport'
+'passenger transports': 'Passenger transports'
 #Z_09012_2
-'freight transport': 'Freight transport'
+'freight transports': 'Freight transports'
 #Z_09021_1
 'manufacturing gross value added': 'Manufacturing gross value added'
 #Z_09021_2
@@ -609,6 +606,10 @@
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Population weighted annual mean levels of PM10'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
+#Z_11072_1
+'physical harassment': 'Physical harassment'
+#Z_11072_2
+'sexual harassment': 'Sexual harassment'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basel Convention'
 #Z_12041_2
@@ -626,11 +627,9 @@
 #Z_12051_1
 'recycling rate': 'Recycling rate'
 #Z_12051_2
-'recycled waste': 'Recycled waste'
+'recycled waste': 'Material recovery'
 #Z_12071_1
 'sustainability programme': 'Sustainability Programme'
-#Z_12101_1
-'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_13021_1
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 #Z_13021_2
@@ -642,9 +641,9 @@
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Average pH-concentration in the German Bight'
 #Z_14041_1
-'fish stocks within biologically sustainable levels (%)': 'Fish stocks within biologically sustainable levels'
+'fish stocks within biologically sustainable levels (%)': 'Proportion of sustainable managed stocks in all MSY examined stocks'
 #Z_14041_2
-'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Proportion of fish stocks monitored on maximum sustainable yield (MSY) approach in all managed stocks'
+'proportion of fish stocks monitored based on the maximum sustainable yield (msy) approach in all managed stocks': 'Proportion of MSY examined in all managed stocks'
 #Z_14051_1
 'marine key biodiversity areas (kbas) covered by protected areas (%)': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_14051_2
@@ -653,6 +652,10 @@
 'degree of combat illegal, unreported and unregulated fishing (/)': 'Degree of combat illegal, unreported and unregulated fishing'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
+#Z_14101_1
+'score for the implementation of unclos and ist two implementing agreements': 'Score for the implementation of UNCLOS and ist two implementing agreements'
+#Z_14101_2
+'score for the ratification of and accession to unclos and ist two implementing agreements': 'Score for the ratification of and accession to UNCLOS and ist two implementing agreements'
 #Z_15011_1
 'forest area (%)': 'Forest area as a proportion of total land area'
 #Z_15012_1
@@ -686,21 +689,17 @@
 #Z_16012_1
 'conflict-related deaths': 'Conflict-related deaths'
 #Z_16013_1
-'population subjected to physical violence': 'Population subjected to physical violence'
+'population subjected to physical violence': 'Population who were exposed to physical violence'
 #Z_16013_2
 'population who were victims of criminal offences': 'Population who were victims of criminal offences'
 #Z_16013_3
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
 'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
-#Z_16021_1
-'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
-#Z_16022_1
-'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
-'a) police reporting rate for physical assault (%)': 'Police reporting rate for physical assault'
+'a) police reporting rate for physical assault (%)': 'Reporting rate for physical assault'
 #Z_16031_2
-'c) police reporting rate for robbery (%)': 'Police reporting rate for robbery'
+'c) police reporting rate for robbery (%)': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees (%)': 'Unsentenced detainees'
 #Z_16033_1
@@ -800,8 +799,26 @@ timeseries: Time series
 Series: Time series
 year: Year
 Year: Year
+sex of victim: Gender of victims
+age of victim: Age of victims
+area2: Area
 
 #Old stuff that may still be needed
+'coverage of dtp containing vaccine at school entrance': 'Coverage of DTP containing vaccine at school entrance'
+'coverage of hpv containing vaccine of 15 years old girls (%)': 'Coverage of HPV containing vaccine of 15 years old girls'
+'coverage of measles containing vaccine at school entrance (%)': 'Coverage of measles containing vaccine at school entrance'
+'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Coverage of pneumococcal conjugate vaccine at school entrance'
+'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
+'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
+'seats held by women in regional parliaments': 'Seats held by women in regional parliaments'
+'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
+'rmc': 'Raw material consumption (RMC)'
+'dmc': 'Domestic material consumption (DMC)'
+'passenger transport': 'Passenger transport'
+'freight transport': 'Freight transport'
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
+'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
+'victims of human trafficking': 'Victims of human trafficking'
 'share of tourism industries to total value added (%)': 'Share of tourism industries to total value added'
 'rural access index': 'Rural Access Index'
 'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) to infrastructure'
