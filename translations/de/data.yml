@@ -594,9 +594,7 @@ no unit: "Keine Einheit"
 #Z_11031_4
 'population growth rate': 'Bevölkerungsentwicklung'
 #Z_11032_1
-'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Anteil der Städte mit einer regulär und
-> demokratisch funktionierenden Struktur für die Direktbeteiligung der
-> Zivilgesellschaft an Stadtplanung und -management'
+'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
 'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Staatsausgaben für Umweltschutz (COFOG Abteilung 5)'
 #Z_11041_2
@@ -805,29 +803,3 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
-'coverage of dtp containing vaccine at school entrance': 'DTP-Impfquote zum Schuleintritt'
-'coverage of hpv containing vaccine of 15 years old girls (%)': 'HPV-Impfquote bei 15-jährigen Mädchen'
-'coverage of measles containing vaccine at school entrance (%)': 'Masern-Impfquote zum Schuleintritt'
-'coverage of pneumococcal conjugate vaccine at school entrance (%)': 'Pneumokokken-Impfquote zum Schuleintritt'
-'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben für Studienplatzkosten'
-'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben für Stipendien'
-'seats held by women in regional parliaments': 'Sitze in den Landesparlamenten, die Frauen inne haben'
-'energy intensity measured in primary energy in relation to gdp': 'Energieintensität gemessen in Primärenergie in Relation zum BIP'
-'rmc': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
-'dmc': 'Inländische Materialverwendung (DMC)'
-'passenger transport': 'Personenverkehr'
-'freight transport': 'Güterverkehr'
-'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
-'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
-'victims of human trafficking': 'Opfer von Menschenhandel'
-'share of tourism industries to total value added (%)': 'Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung'
-'rural access index': 'Index der ländlichen Anbindung'
-'organisations with emas registration (number)': 'Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)'
-'at-risk-of-poverty or social exclusion (according to eurostat definition) (%)': 'Armutsgefährdung oder soziale Ausgrenzung'
-'extensive material deprivation (%)': 'Erhebliche materielle Deprivation'
-'penetration rate mobile communication': 'Penetrationsrate Mobilfunk'
-'oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur'
-'oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))': 'Bruttoentwicklungsausgaben für Infrastruktur'
-'population (16 to 74 years) using the internet in the last three months': 'Bevölkerung (16 bis 74 Jahre), die das Internet in den letzten drei Monaten genutzt hat'
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))': 'Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
