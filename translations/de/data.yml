@@ -317,6 +317,8 @@ no unit: "Keine Einheit"
 'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
+#Z_02012_1
+'average energy supply': 'Mittlere Energiezufuhr'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Kleinwuchs bei Kindern'
 #Z_02022_1
@@ -331,16 +333,6 @@ no unit: "Keine Einheit"
 'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
-#Z_02051_1
-'animal genetic resources (number)': 'Tiergenetische Ressourcen'
-#Z_02051_2
-'plant genetic resources (number)': 'Pflanzengenetische Ressourcen'
-#Z_02052_1
-'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
-#Z_02052_2
-'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
-#Z_02052_3
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
 #Z_02062_1
@@ -509,6 +501,8 @@ no unit: "Keine Einheit"
 'fatal occupational accidents (per 100 000 employees)': 'Tödlich'
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Nicht-tödlich'
+#Z_08091_1
+'share of tourism industries to total value added (%)': 'Touristischer BWS-Anteil an gesamter inländischer Bruttowertschöpfung (BWS)'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 #Z_08101_2
@@ -607,10 +601,6 @@ no unit: "Keine Einheit"
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM10'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
-#Z_11072_1
-'physical harassment': 'Körperliche Belästigung'
-#Z_11072_2
-'sexual harassment': 'Sexuelle Belästigung'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basler Übereinkommen'
 #Z_12041_2
@@ -697,6 +687,8 @@ no unit: "Keine Einheit"
 'victims of criminal offences': 'Opfer von Straftaten'
 #Z_16014_1
 'population not living in an area with crime, violence or vandalism (%)': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
+#Z_16021_1
+'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Akute Kindeswohlgefährdung mit Anzeichen für Misshandlung'
 #Z_16031_1
 'a) police reporting rate for physical assault (%)': 'Anzeigequote bei Körperverletzung'
 #Z_16031_2
@@ -803,3 +795,10 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'animal genetic resources (number)': 'Tiergenetische Ressourcen'
+'plant genetic resources (number)': 'Pflanzengenetische Ressourcen'
+'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
+'level of risk of extinction (according to national classification)': 'Gefährdungskategorie (nach nationaler Klassifikation)'
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
+'physical harassment': 'Körperliche Belästigung'
+'sexual harassment': 'Sexuelle Belästigung'

@@ -317,6 +317,8 @@ no unit: "No Unit"
 'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
+#Z_02012_1
+'average energy supply': 'Average energy supply'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -331,16 +333,6 @@ no unit: "No Unit"
 'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
-#Z_02051_1
-'animal genetic resources (number)': 'Animal genetic resources'
-#Z_02051_2
-'plant genetic resources (number)': 'Plant genetic resources'
-#Z_02052_1
-'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
-#Z_02052_2
-'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
-#Z_02052_3
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
@@ -509,6 +501,8 @@ no unit: "No Unit"
 'fatal occupational accidents (per 100 000 employees)': 'Fatal'
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
+#Z_08091_1
+'share of tourism industries to total value added (%)': 'Tourism gross value added (GVA) as a proportion of total GVA'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Branches of payment service providers'
 #Z_08101_2
@@ -607,10 +601,6 @@ no unit: "No Unit"
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Population weighted annual mean levels of PM10'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
-#Z_11072_1
-'physical harassment': 'Physical harassment'
-#Z_11072_2
-'sexual harassment': 'Sexual harassment'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basel Convention'
 #Z_12041_2
@@ -697,6 +687,8 @@ no unit: "No Unit"
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
 'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
+#Z_16021_1
+'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
 #Z_16031_1
 'a) police reporting rate for physical assault (%)': 'Reporting rate for physical assault'
 #Z_16031_2
@@ -805,3 +797,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'animal genetic resources (number)': 'Animal genetic resources'
+'plant genetic resources (number)': 'Plant genetic resources'
+'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
+'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
+'physical harassment': 'Physical harassment'
+'sexual harassment': 'Sexual harassment'
