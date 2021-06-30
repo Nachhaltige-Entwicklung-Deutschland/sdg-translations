@@ -404,7 +404,7 @@ no unit: "Keine Einheit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil von Infektionen des Blutkreislaufs durch ausgewählte antimikrobiell-resistente Organismen'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Prozentanteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -625,10 +625,6 @@ no unit: "Keine Einheit"
 'recycled waste': 'Stoffliche Verwertung'
 #Z_12071_1
 'sustainability programme': 'Nachhaltigkeitsstrategie'
-#Z_13021_1
-'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
-#Z_13021_2
-'climate action plan 2050': 'Klimaschutzplan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -799,6 +795,8 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'intended nationally determined contribution of the eu and its member states': 'National festgelegte Beiträge (NDCs) der EU und ihrer Mitgliedsstaaten'
+'climate action plan 2050': 'Klimaschutzplan 2050'
 'animal genetic resources (number)': 'Tiergenetische Ressourcen'
 'plant genetic resources (number)': 'Pflanzengenetische Ressourcen'
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'

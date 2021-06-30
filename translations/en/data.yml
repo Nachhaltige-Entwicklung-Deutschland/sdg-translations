@@ -625,10 +625,6 @@ no unit: "No Unit"
 'recycled waste': 'Material recovery'
 #Z_12071_1
 'sustainability programme': 'Sustainability Programme'
-#Z_13021_1
-'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
-#Z_13021_2
-'climate action plan 2050': 'Climate Action Plan 2050'
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -801,6 +797,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
+'climate action plan 2050': 'Climate Action Plan 2050'
 'animal genetic resources (number)': 'Animal genetic resources'
 'plant genetic resources (number)': 'Plant genetic resources'
 'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
