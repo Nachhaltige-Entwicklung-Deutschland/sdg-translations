@@ -9,6 +9,7 @@
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 'kg per capita': 'Kilogram per capita'
+'kcal/d': 'Kilocalories per day'
 'litres of pure alcohol per capita': 'Litres of pure alcohol per capita'
 'micrograms per qubic meters': 'Micrograms per cubic meters'
 'mj/d': 'Megajoule per day'
@@ -27,12 +28,12 @@ no unit: "No Unit"
 'per 100 inhabitants': 'Per 100 inhabitants'
 'per 1 000 inhabitants': 'Per 1,000 inhabitants'
 'per 1 000 women of same age': 'Per 1,000 women of same age'
-'per 1 000 live birth': 'Per 1,000 live birth'
+'per 1 000 live births': 'Per 1,000 live births'
 'per 10 000 inhabitants': 'Per 10,000 inhabitants'
-'per 10 000 adults': 'Per 10,000 adults'
+'per 100 000 adults': 'Per 100,000 adults'
 'per 100 000 inhabitants': 'Per 100,000 inhabitants'
-'per 100 000 live birth': 'Per 100,000 live birth'
-'per 100 000 in employment': 'Per 100,000 employees'
+'per 100 000 live births': 'Per 100,000 live births'
+'per 100 000 in employment': 'Per 100,000 persons in employment'
 'relative to gdp': 'Relative to GDP (%)'
 'as proportion of total gross value added': 'As proportion of total gross value added (%)'
 'ph-value': 'pH-value'
@@ -53,9 +54,11 @@ no unit: "No Unit"
 'conversion': 'Conversion'
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
+'domain': 'Domain'
 'economic sector': 'Economic activity'
 'educational level': 'Educational level'
 'education level': 'Education level'
+'ownership': 'Ownership'
 'facilities': 'Facilities'
 'region': 'Region'
 'frequency': 'Frequency'
@@ -69,6 +72,7 @@ no unit: "No Unit"
 'profession': 'Profession'
 'organisational form': 'Organisational form'
 'antimicrobial-resistant organisms': 'Antimicrobial-resistant organism'
+'percentiles': 'Percentiles'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
 'reporting type': 'Reporting type'
@@ -163,6 +167,13 @@ no unit: "No Unit"
 'rejected applications': 'Rejected applications'
 'persons with disability': 'Persons with disability'
 'mobility impaired people': 'Mobility impaired people'
+'all domains': 'All Domains'
+'domain 1. migrant rights': 'Domain 1. Migrant rights'
+'domain 2. whole-of-government/evidence-based policies': 'Domain 2. Whole-of-government/ Evidence-based policies'
+'domain 3. cooperation and partnerships': 'Domain 3. Cooperation and partnerships'
+'domain 4. socioeconomic well-being': 'Domain 4. Socioeconomic well-being'
+'domain 5. mobility dimensions of crises': 'Domain 5. Mobility dimensions of crises'
+'domain 6. safe, orderly and regular migration': 'Domain 6. Safe, orderly and regular migration'
 'c) services (nace rev 2, sections e, g to t)': 'Services (NACE Rev. 2, sections E, G to T)'
 'forestry': 'Forestry'
 'a) agriculture, forestry and fishing (nace rev 2, section a)': 'Agriculture, forestry and fishing (NACE Rev. 2, section A)'
@@ -170,6 +181,7 @@ no unit: "No Unit"
 'b) mimec (nace rev 2, sections b, c, d, f)': 'MIMEC (NACE Rev. 2, sections B, C, D, F)'
 'b) at the end of lower primary education': 'b) At the end of primary education'
 'c) at the end of lower secondary education': 'c) At the end of lower secondary education'
+'property': 'Property'
 'a) schools with access to electricity': 'a) Schools with access to electricity'
 'e) schools with access to basic drinking water': 'e) Schools with access to basic drinking water'
 'f) schools with access to single-sex basic sanitation facilities': 'f) Schools with access to single-sex basic sanitation facilities'
@@ -210,6 +222,14 @@ no unit: "No Unit"
 'private': 'Private'
 'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)'
 'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistant Staphylococcus aureus (MRSA)'
+'p10': 'P10'
+'p25': 'P25'
+'p5': 'P5'
+'p50': 'P50'
+'p75': 'P75'
+'p90': 'P90'
+'p95': 'P95'
+'leasehold': 'Leasehold'
 'minimum requirement level i': 'Minimum requirement level I'
 'minimum requirement level ii': 'Minimum requirement level II'
 'b) at risk': 'At risk'
@@ -279,8 +299,8 @@ no unit: "No Unit"
 'oof (net disbursements)': 'OOF (net disbursements)'
 'officially supported export credits (net disbursements)': 'Officially supported export credits (net disbursements)'
 'oda (net disbursements)': 'ODA (net disbursements)'
-'private sector flows at market terms (net disbursements)': 'Private Sector Flows at market terms (net disbursement)'
-'private concessional flows (net disbursements)': 'Private Concessional Flows at market terms (net disbursements)'
+'private sector flows at market terms (net disbursements)': 'Private sector flows at market terms (net disbursement)'
+'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
 'total waste': 'Total waste'
 'municipal waste': 'Municipal waste'
 'river water bodies': 'River water bodies'
@@ -317,8 +337,10 @@ no unit: "No Unit"
 'b) government expenditure on education (cofog division 9) (%)': 'Government expenditure on education'
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
+#Z_02011_1
+'energy supply': 'Energy supply'
 #Z_02012_1
-'average energy supply': 'Average energy supply'
+'material deprivation for food insecurity': 'Material deprivation for food insecurity'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -333,6 +355,16 @@ no unit: "No Unit"
 'organically farmed agricultural land (data from destatis)': 'Organically farmed agricultural land (data from Destatis)'
 #Z_02041_2
 'organically farmed agricultural land (data from bmel)': 'Organically farmed agricultural land (data from BMEL)'
+#Z_02051_1
+'plant genetic resources (number)': 'Plant genetic resources'
+#Z_02051_2
+'animal genetic resources (number)': 'Animal genetic resources'
+#Z_02052_1
+'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
+#Z_02052_2
+'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
+#Z_02052_3
+'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
 #Z_02062_1
@@ -372,17 +404,23 @@ no unit: "No Unit"
 #Z_03051_2
 'estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years': 'Estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years'
 #Z_03052_1
-'alcohol consumption (conversion by un factors)': 'Alcohol consumption (conversion by UN factors)'
+'alcohol consumption (conversion by un factors)': 'Alcohol consumption (by UN factors)'
 #Z_03052_2
-'alcohol consumption (conversion by national factors)': 'Alcohol consumption (conversion by national factors)'
+'alcohol consumption (conversion by national factors)': 'Alcohol consumption (by national factors)'
 #Z_03061_1
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
 'giving birth': 'Births of young women'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
+#Z_03091_1
+'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)'
+#Z_03091_2
+'long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)': 'Long-term exposure to fine particulate matter: mortality due to cardiopulmonary diseases (adults > 30 years)'
+#Z_03091_3
+'long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)': 'Long-term exposure to particulate matter: mortality due to lung cancer (adults > 30 years)'
 #Z_03092_1
-'mortality due to wash': 'Mortality due to contact to contaminated water, inadequate sanitation and lack of hygiene'
+'mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality due to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
 'mortality rate due to unintentional poisoning': 'Mortality due to unintentional poisoning'
 #Z_03101_1
@@ -390,13 +428,13 @@ no unit: "No Unit"
 #Z_03101_2
 'current tobacco use among persons aged 15 years and older (%)': 'Current tobacco use among persons aged 15 years and older'
 #Z_03111_1
-'dtp vaccination rate at school entrance': 'DTP vaccination rate at school entrance'
+'dtp vaccination rate at school entrance': 'DTP vaccination coverage at school entry'
 #Z_03111_2
-'hpv vaccination rate among 15 years old girls': 'HPV vaccination rate among 15 years old girls'
+'hpv vaccination rate among 15 years old girls': 'HPV vaccination coverage among 15 year-old girls'
 #Z_03111_3
-'measles vaccination rate at sschool entrance': 'Measles vaccination rate at sschool entrance'
+'measles vaccination rate at sschool entrance': 'Measles vaccination coverage at school entry'
 #Z_03111_4
-'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination rate at school entrance'
+'pneumococcal vaccination rate at school entrance': 'Pneumococcal vaccination coverage at school entry'
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
@@ -441,6 +479,12 @@ no unit: "No Unit"
 'seats held by women in national parliament': 'Proportion of women in the parliament'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
+#Z_05071_1
+'owned and leased agricultural land': 'Owned and leased agricultural land'
+#Z_05071_2
+'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Female owners of agricultural holdings with the legal form of a sole proprietorship'
+#Z_05071_3
+'agricultural holdings with the legal of a form sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
 #Z_05081_1
 'mobile penetration rate': 'Mobile penetration rate'
 #Z_05081_2
@@ -474,9 +518,9 @@ no unit: "No Unit"
 #Z_06061_3
 'sub-indicator 4: water bodies with good quality': 'Sub-indicator 4: Water bodies with good quality'
 #Z_06071_1
-'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
 #Z_06071_2
-'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
+'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -487,10 +531,16 @@ no unit: "No Unit"
 'renewable energy share in total final energy consumption': 'Renewable energy share in total final energy consumption'
 #Z_07021_2
 'renewable energy share in gross final energy consumption': 'Renewable energy share in gross final energy consumption'
+#Z_07031_1
+'energy intensity measured in primary energy in relation to gdp': 'Energy intensity measured in primary energy in relation to GDP'
 #Z_08011_1
 'annual growth rate of real gdp per capita (%)': 'Annual growth rate of real GDP per capita'
 #Z_08021_1
 'annual growth rate of real gdp per employed person (%)': 'Annual growth rate of real GDP per employed person'
+#Z_08041_1
+'rmc': 'Raw material consumption (RMC)'
+#Z_08042_1
+'dmc': 'Domestic material consumption (DMC)'
 #Z_08051_1
 'average hourly earnings of employees': 'Average hourly earnings of employees'
 #Z_08051_2
@@ -505,8 +555,10 @@ no unit: "No Unit"
 'fatal occupational accidents (per 100 000 employees)': 'Fatal'
 #Z_08081_2
 'non-fatal occupational accidents (per 100 000 employees)': 'Non-fatal'
+#Z_08082_1
+'level of national compliance with labour rights (freedom of association and collective bargaining) based on international labour organization (ilo) textual sources and national legislation': 'Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation'
 #Z_08091_1
-'share of tourism industries to total value added (%)': 'Tourism gross value added (GVA) as a proportion of total GVA'
+'share of tourism industries to total value added (%)': 'Gross value added of the tourism industry'
 #Z_08101_1
 'a) branches of payment service providers (per 100 000 adults)': 'Branches of payment service providers'
 #Z_08101_2
@@ -514,9 +566,9 @@ no unit: "No Unit"
 #Z_08102_1
 'accounts at payment service providers (1 000)': 'Accounts at payment service providers'
 #Z_08111_1
-'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
+'aid for trade commitments (oda and oof)': 'ODA and OOF (commitments) for aid for trade'
 #Z_08111_2
-'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+'aid for trade gross disbursements (oda and oof)': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -541,6 +593,10 @@ no unit: "No Unit"
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 #Z_09052_1
 'researchers in full-time equivalents (per 1 mn inhabitants)': 'Researchers in full-time equivalents'
+#Z_09061_1
+'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
+#Z_09061_2
+'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
@@ -594,9 +650,9 @@ no unit: "No Unit"
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management (%)': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
-'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Government expenditure on environmental protection (COFOG division 5)'
+'goverment expenditure on protection of biodiversity and landscape (cofog division 5.4) (bn eur)': 'Government expenditure on protection of biodiversity and landscape (COFOG division 5.4)'
 #Z_11041_2
-'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
+'goverment expenditure on cultural services (cofog division 8.2) (bn eur)': 'Government expenditure on cultural services (COFOG division 8.2)'
 #Z_11061_1
 'municipal solid waste regularly collected and treated': 'Municipal solid waste regularly collected and treated'
 #Z_11061_2
@@ -605,6 +661,10 @@ no unit: "No Unit"
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Population weighted annual mean levels of PM10'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
+#Z_11072_1
+'physical harassment': 'Victims of physical harassment'
+#Z_11072_2
+'sexual harassment': 'Victims of sexual harassment'
 #Z_12041_1
 'compliance with the basel convention (%)': 'Basel Convention'
 #Z_12041_2
@@ -623,8 +683,12 @@ no unit: "No Unit"
 'recycling rate': 'Recycling rate'
 #Z_12051_2
 'recycled waste': 'Material recovery'
+#Z_12061_1
+'organisations with emas registration (number)': 'Organisations with EMAS registration'
 #Z_12071_1
 'sustainability programme': 'Sustainability Programme'
+#Z_12101_1
+'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -661,6 +725,10 @@ no unit: "No Unit"
 'forest area net change rate': 'Forest area net change rate'
 #Z_15021_4
 'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
+#Z_15041_1
+'key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
+#Z_15041_2
+'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
 #Z_15042_1
 'mountain green cover index': '"Mountain Green Cover" Index'
 #Z_15051_1
@@ -669,6 +737,8 @@ no unit: "No Unit"
 'documents issued for the import and export of protected species (number)': 'Documents issued for the import and export of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Seizures by authorities concerning the protection of species'
+#Z_15091_1
+'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
@@ -689,6 +759,8 @@ no unit: "No Unit"
 'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
 #Z_16021_1
 'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
+#Z_16022_1
+'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
 'a) police reporting rate for physical assault (%)': 'Reporting rate for physical assault'
 #Z_16031_2
@@ -737,6 +809,10 @@ no unit: "No Unit"
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
+#Z_17091_1
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+#Z_17091_2
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -797,12 +873,16 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'per 1 000 live birth': 'Per 1,000 live birth'
+'per 10 000 adults': 'Per 10,000 adults'
+'per 100 000 live birth': 'Per 100,000 live birth'
+'average energy supply': 'Average energy supply'
+'mortality due to wash': 'Mortality due to contact to contaminated water, inadequate sanitation and lack of hygiene'
+'oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))': 'ODA (gross disbursements) for water and sanitation'
+'oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))': 'ODA (gross disbursements) for other related water and sanitation purposes'
+'aid for trade commitments (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (commitments) for aid for trade'
+'aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursement) for aid for trade'
+'goverment expenditure on environmental protection (cofog division 5) (bn eur)': 'Government expenditure on environmental protection (COFOG division 5)'
+'goverment expenditure on recreation, culture and religion (cofog division 8) (bn eur)': 'Government expenditure on recreation, culture and religion (COFOG division 8)'
 'intended nationally determined contribution of the eu and its member states': 'Intended Nationally Determined Contribution of the EU and its member States'
 'climate action plan 2050': 'Climate Action Plan 2050'
-'animal genetic resources (number)': 'Animal genetic resources'
-'plant genetic resources (number)': 'Plant genetic resources'
-'level of risk of extinction (according to fao classification)': 'Level of risk of extinction (according to FAO classification)'
-'level of risk of extinction (according to national classification)': 'Level of risk of extinction (according to national classification)'
-'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
-'physical harassment': 'Physical harassment'
-'sexual harassment': 'Sexual harassment'
