@@ -20,7 +20,6 @@
 'mn t': 'Million tonnes'
 'mn t of co2 equivalents': 'Million tonnes of CO2 equivalents'
 'mn tkm': 'Million tonne-kilometres'
-'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
 'mn usd, constant prices (2018)': 'Million USD, constant prices (2018)'
 'mn usd, constant prices (2019)': 'Million USD, constant prices (2019)'
 no unit: "No Unit"
@@ -88,7 +87,8 @@ no unit: "No Unit"
 'subject': 'Subject'
 'substance': 'Substance'
 'technology': 'Technology'
-'technological intensity': 'Technological intensity'
+'technology sectors': 'Technology sectors'
+'thematic area': 'Thematic area'
 'mode of transport': 'Mode of transport'
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
@@ -111,7 +111,7 @@ no unit: "No Unit"
 'under 1 year': '11 months and younger'
 'under 5 years': '4 years and younger'
 'under 14 years': '13 years and younger'
-'under 15 years': '15 years and younger'
+'under 15 years': '14 years and younger'
 'under 18 years': '17 years and younger'
 '10 to under 15 years': '10 to under 15 years'
 '14 to under 18 years': '14 to under 18 years'
@@ -244,6 +244,13 @@ no unit: "No Unit"
 'corporations': 'Corporations'
 'applications finally processed': 'Applications finally processed'
 'applications received': 'Applications received'
+'domestic material consumption (dmc)': 'Domestic material consumption (DMC)'
+'domestic material consumption per real gdp': 'Domestic material consumption per real GDP'
+'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
+'manufacturing gross value added as a proportion of gdp': 'Manufacturing gross value added as a proportion of GDP'
+'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
+'raw material consumption (rmc)': 'Raw material consumption (RMC)'
+'raw material consumption per real gdp': 'Raw material consumption per real GDP'
 'divers': 'Divers'
 'female': 'Female'
 'male': 'Male'
@@ -269,6 +276,9 @@ no unit: "No Unit"
 'lte': 'LTE'
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
+'maternity care': 'Maternity Care'
+'contraceptive and family planning': 'Contraceptive and Family Planning'
+'hiv and hpv': 'HIV and HPV'
 'inland waterway transport': 'Inland waterway transport'
 'rail transport': 'Rail transport'
 'commercial air transport': 'Commercial air transport'
@@ -325,8 +335,6 @@ no unit: "No Unit"
 'unemployed persons with unemployment benefits (%)': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
 'population covered by health insurance (%)': 'Population covered by health insurance'
-#Z_01053_1
-'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
 #Z_01061_1
 'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
 #Z_01061_2
@@ -338,9 +346,9 @@ no unit: "No Unit"
 #Z_01062_3
 'c) government expenditure on social protection (cofog division 10) (%)': 'Government expenditure on social protection'
 #Z_02011_1
-'energy supply': 'Energy supply'
+'energy supply': 'Energy intake'
 #Z_02012_1
-'material deprivation for food insecurity': 'Material deprivation for food insecurity'
+'material deprivation for food insecurity': 'Material deprivation for food insecurity (The household cannot afford to eat a full meal every other day)'
 #Z_02021_1
 'stunting among children under the age of 5 years': 'Stunting among children'
 #Z_02022_1
@@ -438,7 +446,7 @@ no unit: "No Unit"
 #Z_03112_1
 'oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
-'health workers, according to the practising concept (with direct patient contact)': 'Health workers (practising concept)'
+'health workers, according to the practising concept (with direct patient contact)': 'Health workers with direct patient contact (practising concept)'
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
 #Z_03132_1
@@ -577,10 +585,6 @@ no unit: "No Unit"
 'freight transports': 'Freight transports'
 #Z_09021_1
 'manufacturing gross value added': 'Manufacturing gross value added'
-#Z_09021_2
-'manufacturing gross value added as a proportion of total gross value added': 'Manufacturing gross value added as a proportion of total gross value added'
-#Z_09021_3
-'manufacturing gross value added per capita': 'Manufacturing gross value added per capita'
 #Z_09022_1
 'manufacturing persons employed (%)': 'Manufacturing persons employed'
 #Z_09031_1
@@ -598,7 +602,7 @@ no unit: "No Unit"
 #Z_09061_2
 'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
-'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
+'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
 #Z_10011_1
@@ -624,7 +628,7 @@ no unit: "No Unit"
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Net open position in foreign exchange to capital'
 #Z_10091_1
-'net development expenditures': 'Net development expenditures'
+'net development expenditures': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_1
 'population living in households with moisture damages': 'Population living in households with moisture damages'
 #Z_11011_2
@@ -692,7 +696,7 @@ no unit: "No Unit"
 #Z_13022_1
 'greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
-'climate finance flows to developing countries': 'Climate finance flows to developing countries'
+'climate finance flows': 'Climate finance flows'
 #Z_14031_1
 'average ph-concentration in the german bight (ph-value)': 'Average pH-concentration in the German Bight'
 #Z_14041_1
@@ -800,9 +804,9 @@ no unit: "No Unit"
 #Z_17012_2
 'proportion of domestic expenditures funded by national taxes and insurance contributions (%)': 'Proportion of domestic expenditures funded by national taxes and insurance contributions'
 #Z_17021_1
-'proportion of net oda to gni (%)': 'Proportion of net ODA to GNI'
+'proportion of oda (net disbursements) to gni': 'Proportion of ODA (net disbursements) to GNI'
 #Z_17021_2
-'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI'
+'proportion of bilateral and imputed multilateral oda (net disbursements) for lcds to the gross national income (gni)': 'Proportion of bilateral and imputed multilateral ODA (net disbursements) for LDCs to the gross national income (GNI)'
 #Z_17061_1
 'fixed internet broadband access lines': 'Fixed internet broadband access lines'
 #Z_17071_1
@@ -810,9 +814,9 @@ no unit: "No Unit"
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
 #Z_17091_1
-'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
 #Z_17091_2
-'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -850,9 +854,9 @@ no unit: "No Unit"
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
-'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries'
+'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
 #Z_17191_2
-'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries'
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity': 'ODA and OOF (gross disbursements) to strengthen statistical capacity'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 #Z_17192_2
@@ -873,6 +877,17 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
+'technological intensity': 'Technological intensity'
+'strategy for adaptation to climate change': 'Strategy for Adaptation to Climate Change'
+'gross value added of medium- and high-tech industries to total manufacturing value added (%)': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
+'climate finance flows to developing countries': 'Climate finance flows to developing countries'
+'proportion of net oda to gni (%)': 'Proportion of net ODA to GNI'
+'proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%)': 'Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI'
+'oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation)': 'ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperations)'
+'oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries'
+'oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))': 'ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries'
 'per 1 000 live birth': 'Per 1,000 live birth'
 'per 10 000 adults': 'Per 10,000 adults'
 'per 100 000 live birth': 'Per 100,000 live birth'
