@@ -284,7 +284,8 @@ no unit: "No Unit"
 'medium-high-tech': 'Medium-high-tech'
 'high-tech': 'High-tech'
 'maternity care': 'Section 1: Maternity care'
-'contraceptive and family planning': 'Section 2: Contraceptive and family planning'
+'contraceptive and family planning': 'Section 2: Contraception and family planning'
+'comprehensive sexuality education and information': 'Section 3: Comprehensive sexuality education and information'
 'hiv and hpv': 'Section 4: HIV and HPV'
 'inland waterway transport': 'Inland waterway transport'
 'rail transport': 'Rail transport'
@@ -481,7 +482,7 @@ no unit: "No Unit"
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
-'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Female victims of criminal offences having/ had an intimate relationship with the suspect'
+'female victims of sexual violence by an intimate partner': 'Female victims of sexual violence by an intimate partner'
 #Z_05022_1
 'female victims of sexual violence by someone other than an intimate partner': 'Female victims of sexual violence by someone other than an intimate partner'
 #Z_05031_1
@@ -494,6 +495,8 @@ no unit: "No Unit"
 'seats held by women in national parliament': 'Proportion of women in the parliament'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
+#Z_05062_1
+'access to sexual and reproductive health care, information and education': 'Access to sexual and reproductive health care, information and education'
 #Z_05071_1
 'owned and leased agricultural land': 'Owned and leased agricultural land'
 #Z_05071_2
@@ -767,9 +770,11 @@ no unit: "No Unit"
 #Z_16013_3
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
-'feelings of insecurity in the neighbourhood': 'Feelings of insecurity in the neighbourhood (at night)'
+'feelings of insecurity in the neighbourhood': 'Feeling of (in)security of the population in its neighbourhood (at night)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism (%)': 'Population not living in an area with crime, violence or vandalism'
+#Z_16021_1
+'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
 #Z_16022_1
 'victims of human trafficking': 'Victims of human trafficking'
 #Z_16031_1
@@ -884,9 +889,9 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Female victims of criminal offences having/ had an intimate relationship with the suspect'
 'Feelings of insecurity': 'Feelings of insecurity'
 'Using copy or cut and paste tools to duplicate or move information on screen': 'Using copy or cut and paste tools to duplicate or move information on screen'
-'children at acute risk of harm with signs of physical or psychological abuse (%)': 'Children at acute risk of harm with signs of abuse'
 'all domains': 'All Domains'
 'requests for the implementation of a dispute resolution procedure': 'Requests for the implementation of a dispute resolution procedure'
 'mn usd, constant prices (2016)': 'Million USD, constant prices (2016)'
