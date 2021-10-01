@@ -3,7 +3,6 @@
 'bn eur': 'Milliarden EUR'
 'eur': 'EUR'
 'eur/h': 'EUR pro Stunde'
-'eur per inhabitant': 'EUR je Einwohner'
 'g/dl': 'Gramm pro Deziliter'
 'g/eur constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
@@ -12,7 +11,6 @@
 'kcal/d': 'Kilokalorien pro Tag'
 'litres of pure alcohol per capita': 'Liter puren Alkohols pro Kopf'
 'micrograms per qubic meters': 'Mikrogramm pro Kubikmeter'
-'mj/d': 'Megajoule pro Tag'
 'mj/eur': 'Megajoule pro EUR'
 'mn eur': 'Millionen EUR'
 'mn h': 'Millionen Stunden'
@@ -32,12 +30,9 @@ no unit: "Keine Einheit"
 'per 100 000 adults': 'Je 100 000 Erwachsene'
 'per 100 000 inhabitants': 'Je 100 000 Einwohner'
 'per 100 000 live births': 'Je 100 000 Lebendgeborene'
-'per 100 000 in employment': 'Je 100 000 Erwerbstätige'
-'relative to gdp': 'Verhältnis zum BIP (%)'
-'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
+'per 100 000 in employment': 'Je 100 000 Mitarbeiter'
 'ph-value': 'pH-Wert'
-'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
-'per real gdp (2015 = 100)': 'Pro realem BIP (2015 = 100)'
+'points': 'Punkte'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner'
 '%': 'Prozent'
 't per capita': 'Tonnen pro Kopf'
@@ -53,7 +48,7 @@ no unit: "Keine Einheit"
 'conversion': 'Umrechnung'
 'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
-'domain': 'Bereich'
+'domain': 'Politikbereiche'
 'economic sector': 'Wirtschaftszweig'
 'educational level': 'Bildungsniveau'
 'education level': 'Ausbildungsgrad'
@@ -62,27 +57,29 @@ no unit: "Keine Einheit"
 'region': 'Region'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
+'country of origin': 'Herkunftsland'
 'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
+'level of court': 'Gerichtsebene'
 'level of waterstress': 'Grad der Wasserknappheit'
 'unit multiplicator': 'Einheitsmultiplikator'
 'observation status': 'Beobachtungsstatus'
 'profession': 'Beruf'
 'organisational form': 'Organisationsform'
-'antimicrobial-resistant organisms': 'Antimikrobiell-resistente Organismen'
+'antimicrobial-resistant organisms': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
 'reporting type': 'Berichtstyp'
 'level of risk of extinction': 'Gefährdungskategorie'
 'sea': 'Meer'
+'field of work': 'Aufgabenbereiche'
 'sector': 'Sektor'
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
 'skill': 'Fähigkeit'
-'source': 'Datenquelle'
 'speed': 'Geschwindigkeit'
 'standard accounting system': 'Standard Gesamtrechnungssystem'
 'subject': 'Schulfach'
@@ -209,6 +206,12 @@ no unit: "Keine Einheit"
 'safe': 'Eher sicher'
 'unsafe': 'Eher unsicher'
 'very unsafe': 'Sehr unsicher'
+'afghanistan': 'Afghanistan'
+'iraq': 'Irak'
+'iran': 'Iran'
+'russian federation': 'Russische Föderation'
+'syria': 'Syrien'
+'turkey': 'Türkei'
 'greater 10 percentage': 'Größer 10 %'
 'greater 25 percentage': 'Größer 25 %'
 'sdg indicator 4-2-2': 'SDG-Indikator 4.2.2'
@@ -219,6 +222,9 @@ no unit: "Keine Einheit"
 'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
 'population living in an area with noise pollution': 'Bevölkerung mit Lärmbelästigung in deren Wohnumgebung'
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+'higher-level courts': 'Übergeordnete Gerichte'
+'lower-level courts': 'Untergeordnete Gerichte'
+'supreme/constitutional courts': 'Oberste/Verfassungsgerichte'
 'share of withdrawal in renewable water resources': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen'
 'share of withdrawal in renewable water resources (excluding cooling water)': 'Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
 'd) pharmacists': 'Apotheker'
@@ -227,8 +233,8 @@ no unit: "Keine Einheit"
 'b) dentists': 'Zahnärzte'
 'public': 'Öffentlich'
 'private': 'Privat'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli mit Resistenz gegenüber 3. Generations-Cephalosporinen (z. B. ESBL- E. coli)'
-'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistente Staphylococcus aureus (MRSA)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, 3GCR'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Staphylococcus aureus, MR'
 'p10': 'P10'
 'p25': 'P25'
 'p5': 'P5'
@@ -247,6 +253,10 @@ no unit: "Keine Einheit"
 'd) rudiments remaining': 'Phänotypische Erhaltungspopulationen'
 'baltic sea': 'Ostsee'
 'greater north sea': 'Nordsee'
+'political leadership and central administration, foreign affairs': 'Politische Führung und zentrale Verwaltung, Auswärtige Angelegenheiten'
+'police': 'Polizei'
+'education, science, research, cultural affairs': 'Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten'
+'health, environment, sports and recreation': 'Gesundheit, Umwelt, Sport und Erholung'
 'general government': 'Staat'
 'corporations': 'Unternehmen'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
@@ -264,8 +274,6 @@ no unit: "Keine Einheit"
 'unknown': 'Unbekannt'
 'a) literacy skills': 'a) Lesen'
 'b) numeracy skills': 'b) Rechnen'
-'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
-'who': 'Weltgesundheitsorganisation (WHO)'
 'a) over 144 kbps to under 2 mbps': 'a) Über 144 kbit/s bis unter 2 Mbit/s'
 'b) 2 mbps to under 10 mbps': 'b) 2 Mbit/s bis unter 10 Mbit/s'
 'c) 10 mbps to under 30 mbps': 'c) 10 Mbit/s bis unter 30 Mbit/s'
@@ -335,6 +343,8 @@ no unit: "Keine Einheit"
 #Zeitreihen
 #Z_01021_1
 'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
+#Z_01021_1a
+'at-risk-of-poverty rate (according to eurostat definition) (%)': 'Armutsgefährdungsquote'
 #Z_01022_1
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 #Z_01022_2
@@ -352,6 +362,8 @@ no unit: "Keine Einheit"
 #Z_01062_2
 'b) government expenditure on education (cofog division 9) (%)': 'Staatsausgaben für Bildung'
 #Z_01062_3
+'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
+#Z_01062_3a
 'c) government expenditure on social protection (cofog division 10) (%)': 'Staatsausgaben für soziale Sicherung'
 #Z_02011_1
 'energy supply': 'Energiezufuhr'
@@ -458,7 +470,7 @@ no unit: "Keine Einheit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil der Blutvergiftungen, die von bestimmten gegen antimikrobielle Wirkstoffe resistenten Organismen verursacht werden'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 #Z_04022_1
@@ -512,7 +524,7 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserversorgung'
+'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
 #Z_06021_2
 'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
 #Z_06031_1
@@ -600,9 +612,9 @@ no unit: "Keine Einheit"
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing (%)': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09041_1
-'co2 emission per real gdp': 'CO2-Emissionen zum realen BIP'
+'co2 emission per real gdp': 'CO<sub>2</sub>-Emissionen zum realen BIP'
 #Z_09041_2
-'co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))': 'CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
+'co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))': 'CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 #Z_09051_1
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 #Z_09052_1
@@ -616,9 +628,9 @@ no unit: "Keine Einheit"
 #Z_09081_1
 'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
 #Z_10011_1
-'growth rate of income of the total population (%)': 'Wachstumsrate des Einkommens der gesamten Bevölkerung'
+'growth rate of income of the total population (%)': 'Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung'
 #Z_10011_2
-'growth rate of income of the bottom 40 per cent of the population (%)': 'Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung'
+'growth rate of income of the bottom 40 per cent of the population (%)': 'Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung'
 #Z_10021_1
 'population living below 50% of median income, by sex and age': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 #Z_10041_1
@@ -637,6 +649,10 @@ no unit: "Keine Einheit"
 'liquid assets to short-term liabilities (%)': 'Verbindlichkeiten'
 #Z_10051_7
 'net open position in foreign exchange to capital (%)': 'Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln'
+#Z_10072_1
+'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'Status der Migrationspolitik'
+#Z_10073_1
+'total of deaths recorded in germany': 'Gesamtzahl der erfassten Todesfälle in Deutschland'
 #Z_10091_1
 'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_1
@@ -672,7 +688,7 @@ no unit: "Keine Einheit"
 #Z_11061_2
 'total municipal solid waste generated': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
-'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM10'
+'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
@@ -747,6 +763,16 @@ no unit: "Keine Einheit"
 'mountain green cover index': '"Mountain Green Cover" Index'
 #Z_15051_1
 'red list index (%)': '"Rote Liste" Index'
+#Z_15061_1
+'contractingparties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
+#Z_15061_2
+'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokoll'
+#Z_15061_3
+'countries that have legislative, administrative and policy framework or measures reported through the online reporting system on compliance  of the international treaty on plant genetic resources for food and agriculture': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Saatgutvertrag gemeldet wurden'
+#Z_15061_4
+'countries that have legislative, administrative and policy framework or measures reported to the access and benefit-sharing clearing-house': 'Länder, die über gesetzliche, administrative und politische Rahmenbedingungen oder Maßnahmen verfügen, die dem Access and Benefit-Sharing Clearing-House gemeldet wurden'
+#Z_15061_5
+'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
 #Z_15071_1
 'documents issued for the import and export of protected species (number)': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
@@ -801,6 +827,10 @@ no unit: "Keine Einheit"
 'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
 #Z_16071_2
 'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
+#Z_16071_3
+'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Stellenverteilung von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
+#Z_16071_4
+'ratio of proportion of women in the judiciary to proportion of women in the total population, by level of court': 'Verhältnis von Frauenanteil in der Justiz zum Frauenanteil in der Gesamtbevölkerung'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years (%)': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1
@@ -844,7 +874,7 @@ no unit: "Keine Einheit"
 #Z_17131_3
 'consumption by private households': 'Konsum privater Haushalte'
 #Z_17131_4
-'debt level of the total public budget': 'Schuldenstand des öffentlichen Gesamthaushaltes'
+'debt level of the total public budget': 'Schulden des Öffentlichen Gesamthaushalts'
 #Z_17131_5
 'government fiscal balance': 'Finanzierungssaldo des Staates'
 #Z_17131_6
@@ -887,6 +917,15 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'eur per inhabitant': 'EUR je Einwohner'
+'mj/d': 'Megajoule pro Tag'
+'relative to gdp': 'Verhältnis zum BIP (%)'
+'as proportion of total gross value added': 'Verhältnis zur Bruttowertschöpfung insgesamt (%)'
+'per real gdp (2010 = 100)': 'Pro realem BIP (2010 = 100)'
+'per real gdp (2015 = 100)': 'Pro realem BIP (2015 = 100)'
+'source': 'Datenquelle'
+'ecdc': 'Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten (ECDC)'
+'who': 'Weltgesundheitsorganisation (WHO)'
 'female victims of criminal offences having/ had an intimate relationship with the suspect (number)': 'Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen'
 'Feelings of insecurity': 'Unsicherheitsgefühl'
 'Using copy or cut and paste tools to duplicate or move information on screen': 'Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben'
