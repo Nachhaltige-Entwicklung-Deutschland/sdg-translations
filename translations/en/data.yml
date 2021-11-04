@@ -49,7 +49,7 @@ no unit: "No Unit"
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
 'domain': 'Policy area'
-'economic sector': 'Economic activities'
+'economic sector': 'Economic activity'
 'educational level': 'Educational level'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -57,18 +57,19 @@ no unit: "No Unit"
 'region': 'Region'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
-'country of origin': 'Country of origin'
+'country of origin': 'Country of citizenship'
 'household expenditures on health': 'Household expenditures on health'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
+'legislation': 'Legislation'
 'level of court': 'Level of court'
-'level of waterstress': 'Level of waterstress'
+'level of waterstress': 'Water use index'
 'unit multiplicator': 'Unit multiplicator'
 'observation status': 'Observation status'
 'profession': 'Profession'
 'organisational form': 'Organisational form'
-'antimicrobial-resistant organisms': 'Antimicrobial-resistant organism'
+'antimicrobial-resistant organisms': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
@@ -222,6 +223,16 @@ no unit: "No Unit"
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
 'population living in an area with noise pollution': 'Population living in an area with noise pollution'
 'population living in households with moisture damages': 'Population living in households with moisture damages'
+'convention on biological diversity': 'Convention on Biological Diversity'
+"international convention for the control and management of ship's ballast water and sediments": "International Convention for the Control and Management of Ship's Ballast Water and Sediments"
+'cartagena protocol': 'Cartagena Protocol'
+'international plant protection convention': 'International Plant Protection Convention'
+'agreement on sanitary and phytosanitary measures of the world trade organisation': 'Agreement on Sanitary and Phytosanitary Measures of the World Trade Organisation'
+'world organisation for animal health': 'World Organisation for Animal Health'
+'convention on international trade in endangered species': 'Convention on International Trade in Endangered Species'
+'ramsar convention': 'Ramsar Convention'
+'convention on the conservation of migratory species of wildanimals': 'Convention on the Conservation of Migratory Species of Wild Animals'
+'world heritage convention': 'World Heritage Convention'
 'higher-level courts': 'Higher-level courts'
 'lower-level courts': 'Lower-level courts'
 'supreme/constitutional courts': 'Supreme/Constitutional courts'
@@ -233,8 +244,8 @@ no unit: "No Unit"
 'b) dentists': 'Dentists'
 'public': 'Public'
 'private': 'Private'
-'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli with resistance to 3rd generation cephalosporins (e.g. ESBL- E. coli)'
-'methicillin-resistant staphylococcus aureus (mrsa)': 'Methicillin-resistant Staphylococcus aureus (MRSA)'
+'escherichia coli resistant to 3rd-generation cephalosporin (e.g., esbl- e. coli)': 'Escherichia coli, 3GCR'
+'methicillin-resistant staphylococcus aureus (mrsa)': 'Staphylococcus aureus, MR'
 'p10': 'P10'
 'p25': 'P25'
 'p5': 'P5'
@@ -470,7 +481,7 @@ no unit: "No Unit"
 #Z_03131_1
 'average of 13 ihr core capacity scores (%)': 'Average of 13 IHR core capacity scores'
 #Z_03132_1
-'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of bloodstream infections due to selected antimicrobial-resistant organisms'
+'percentage of bloodstream infections due to selected antimicrobial-resistant organisms': 'Percentage of resistant isolates tested from blood cultures'
 #Z_04011_1
 'children and youth with a minimum proficiency level in reading and mathematics': 'Children and youths with a minimum proficiency in reading or mathematics'
 #Z_04022_1
@@ -516,9 +527,9 @@ no unit: "No Unit"
 #Z_05071_3
 'agricultural holdings with the legal of a form sole proprietorship': 'Agricultural holdings with the legal form of a sole proprietorship'
 #Z_05081_1
-'mobile penetration rate': 'Mobile penetration rate'
-#Z_05081_2
 'private households with at least one mobile phone (%)': 'Private households with at least one mobile phone'
+#Z_05081_2
+'mobile penetration rate': 'Mobile penetration rate'
 #Z_06011_1
 'population using safely managed drinking water services (%)': 'Population using safely managed drinking water services'
 #Z_06011_2
@@ -652,7 +663,9 @@ no unit: "No Unit"
 #Z_10072_1
 'policy domains and sub-categories of sdg indicators 10.7.2 for germany': 'State of migration policies'
 #Z_10073_1
-'total of deaths recorded in germany': 'Total of deaths recorded in Germany'
+'total of deaths recorded in germany': 'Persons who died during migration'
+#Z_10074_1
+'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Proportion of people seeking protection with granted protection status as a percentage of the total population'
 #Z_10091_1
 'net development expenditures': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_1
@@ -748,7 +761,7 @@ no unit: "No Unit"
 #Z_15012_2
 'protected terrestrial areas (%)': 'Terrestrial and freshwater areas covered by protected areas'
 #Z_15021_1
-'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
+'above-ground biomass stock in forest': 'Carbon balance for the forest ecosystem above ground'
 #Z_15021_2
 'forest area located within protected areas': 'Forest area located within protected areas'
 #Z_15021_3
@@ -777,14 +790,22 @@ no unit: "No Unit"
 'documents issued for the import and export of protected species (number)': 'Documents issued for the import and export of protected species'
 #Z_15071_2
 'seizures by authorities concerning the protection of species (number)': 'Seizures by authorities concerning the protection of species'
+#Z_15081_1
+'national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) National Legislation considered relevant to the prevention of introduction of invasive alien species and control'
+#Z_15081_2
+'national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020'
+#Z_15081_3
+'online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species': '(2) Online survey on Policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species'
 #Z_15091_1
 'number of countries that established national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020 in their national biodiversity strategy and action plan (nbsap) and the progress reported towards these targets': 'Number of countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plan (NBSAP) and the progress reported towards these targets'
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
 #Z_15101_2
-'b) environmental protection expenditure': 'Environmental protection expenditure'
+'b) oda (disbursements) for biodiversity': 'ODA (disbursements) for biodiversity'
+#Z_15101_3
+'c) environmental protection expenditure': 'Environmental protection expenditure'
 #Z_15111_1
-'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
+'c) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
@@ -836,7 +857,7 @@ no unit: "No Unit"
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority (%)': 'Children under 5 years of age whose births have been registered with a civil authority'
 #Z_16102_1
-'public access to information (number)': 'Public access to information'
+'public access to information (number)': 'UNESCO Survey on Public Access to Information'
 #Z_16111_1
 'membership ganhri (category a) (number)': 'Membership GANHRI (category A)'
 #Z_17011_1
@@ -886,13 +907,15 @@ no unit: "No Unit"
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Labour productivity per hour worked by employee'
 #Z_17141_1
-'national sustainable development strategie (number)': 'National Sustainable Development Strategy'
+'national sustainable development strategie (number)': 'German Sustainable Development Strategy'
 #Z_17151_1
 'proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)': 'Proportion of indicator results drawn from country-led results frameworks by providers of development cooperation'
 #Z_17151_2
 'proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)': 'Proportion of results drawn from country-led result frameworks by providers of development cooperation'
 #Z_17151_3
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': "Proportion of indicator results monitored using the partner country's own sources and monitoring systems by providers of development cooperation"
+#Z_17151_4
+'extent of use of country-owned results frameworks by providers of development co-operation': 'Extent of use of country-owned results frameworks by providers of development co-operation'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
 #Z_17191_1
@@ -919,6 +942,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'b) environmental protection expenditure': 'Environmental protection expenditure'
+'b) oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 'eur per inhabitant': 'EUR per inhabitant'
 'mj/d': 'Megajoule per day'
 'relative to gdp': 'Relative to GDP (%)'
