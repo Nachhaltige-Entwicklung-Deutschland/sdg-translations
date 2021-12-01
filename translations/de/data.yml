@@ -35,6 +35,7 @@ no unit: "Keine Einheit"
 'points': 'Punkte'
 'per 1 mn inhabitants': 'Je 1 Million Einwohner/ -innen'
 '%': 'Prozent'
+'1 000 m3': '1 000 m³'
 't per capita': 'Tonnen pro Kopf'
 '1 000 t': '1 000 Tonnen'
 
@@ -71,6 +72,7 @@ no unit: "Keine Einheit"
 'organisational form': 'Organisationsform'
 'antimicrobial-resistant organisms': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
+'fine particulate matter': 'Feinstaub'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
 'reporting type': 'Berichtstyp'
@@ -88,6 +90,8 @@ no unit: "Keine Einheit"
 'technology': 'Technologie'
 'technology sectors': 'Technologiesektoren'
 'thematic area': 'Themenbereich'
+'theme': 'Themengebiet'
+'Series': 'Themenbereich'
 'mode of transport': 'Verkehrsträger'
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
@@ -96,10 +100,12 @@ no unit: "Keine Einheit"
 'type of flow': 'Art der Finanzströme'
 'type of waste': 'Abfallart'
 'type of water body': 'Art des Gewässers'
+'typification': 'Verstädterungsgrad'
 'urbanisation': 'Verstädterungsgrad'
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'characteristics': 'Ausprägung'
 
 #Ausprägungen
 'copied or moved a file and folder': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -254,6 +260,8 @@ no unit: "Keine Einheit"
 'p90': 'P90'
 'p95': 'P95'
 'leasehold': 'Pacht'
+'pm10': 'PM10'
+'pm2.5': 'PM2.5'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -272,13 +280,19 @@ no unit: "Keine Einheit"
 'corporations': 'Unternehmen'
 'applications finally processed': 'Abschließend bearbeitete Anträge'
 'applications received': 'Eingegangene Anträge'
+'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
+'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'domestic material consumption (dmc)': 'Inländische Materialverwendung (DMC)'
 'domestic material consumption per real gdp': 'Inländische Materialverwendung pro realem BIP'
+'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
 'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
 'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
+'overcrowding rate': 'Überbelegungsquote'
 'raw material consumption (rmc)': 'Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)'
 'raw material consumption per real gdp': 'Inländische Rohstoffverwendung pro realem BIP'
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -306,6 +320,8 @@ no unit: "Keine Einheit"
 'contraceptive and family planning': 'Abschnitt 2: Empfängnisverhütung und Familienplanung'
 'comprehensive sexuality education and information': 'Abschnitt 3: Umfassende Sexualerziehung und Information'
 'hiv and hpv': 'Abschnitt 4: HIV und HPV'
+'housing conditions': 'Wohnverhältnisse'
+'housing deprivation': 'Deprivation der Unterkunft'
 'inland waterway transport': 'Binnenschifffahrt'
 'rail transport': 'Eisenbahnverkehr'
 'commercial air transport': 'Luftverkehr'
@@ -342,14 +358,19 @@ no unit: "Keine Einheit"
 'municipal waste': 'Siedlungsabfälle insgesamt'
 'river water bodies': 'Fließgewässer'
 'open water bodies': 'Seen und Talsperren'
+'rural areas': 'Ländliche Gebiete'
+'smaller towns and suburbs': 'Kleinere Städte und Vororte'
+'cities': 'Städte'
 'deposit onto or into land and land treatment and release into water bodies': 'Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern'
 'energy recovery': 'Energierückgewinnung'
 'incineration': 'Verbrennung'
 'recovery other than energy recovery': 'Verwertung anderer als die der Energierückgewinnung'
 'cooling water': 'Kühlwasser'
-'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
-'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
-'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
+'treated wastewater': 'Behandeltes Abwasser'
+'untreated wastewater': 'Unbehandeltes Abwasser'
+'available': 'Vorhanden'
+'not available': 'Nicht vorhanden'
 
 #Zeitreihen
 #Z_01021_1
@@ -535,11 +556,13 @@ no unit: "Keine Einheit"
 #Z_06011_2
 'population connected to the public water supply system (%)': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
 #Z_06021_1
-'a) population using safely managed sanitation services (%)': 'Bevölkerung mit einer sicher verwalteten Abwasserentsorgung'
+'a) population using safely managed sanitation services (%)': 'Sicher verwaltete Abwasserentsorgung'
 #Z_06021_2
-'b) population with a bathtub or a shower (%)': 'Bevölkerung mit einer Badewanne oder Dusche'
+'b) population with a bathtub or a shower (%)': 'Badewanne oder Dusche'
 #Z_06031_1
-'wastewater safely treated': 'Sicher behandeltes Abwasser'
+'wastewater and cooling water': 'Abwasser und Kühlwasser'
+#Z_06031_2
+'wastewater that is safely treated or does not require treatment': 'Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
 #Z_06041_1
@@ -623,9 +646,9 @@ no unit: "Keine Einheit"
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing (%)': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09041_1
-'co2 emission per real gdp': 'CO<sub>2</sub>-Emissionen zum realen BIP'
+'co2 emission per real gdp': 'CO₂-Emissionen zum realen BIP'
 #Z_09041_2
-'co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))': 'CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
+'co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010))': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 #Z_09051_1
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 #Z_09052_1
@@ -668,8 +691,20 @@ no unit: "Keine Einheit"
 'proportion of people seeking protection with granted protection status as a percentage of the total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
 #Z_10091_1
 'net development expenditures': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
+#Z_11011_06
+'overcrowding rate': 'Überbelegungsquote'
+#Z_11011_07
+'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
+#Z_11011_08
+'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+#Z_11011_09
+'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 #Z_11011_1
 'population living in households with moisture damages': 'Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt'
+#Z_11011_10
+'population that does not have a toilet for the sole use of their household': 'Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat'
+#Z_11011_11
+'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 #Z_11011_2
 'population considering their dwelling as too dark': 'Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet'
 #Z_11011_3
@@ -702,6 +737,8 @@ no unit: "Keine Einheit"
 'total municipal solid waste generated': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
 'population weighted annual mean levels of pm10 (micrograms per cubic meter)': 'Bevölkerungsgewichtete Jahresmittelwerte von PM<sub>10</sub>'
+#Z_11062_2
+'share of the population with excessive exposure to fine particulate matter': 'Anteil der Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 #Z_11072_1
@@ -761,7 +798,7 @@ no unit: "Keine Einheit"
 #Z_15012_2
 'protected terrestrial areas (%)': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
 #Z_15021_1
-'above-ground biomass stock in forest': 'Kohlenstoffbilanz des obererdigen Waldökosystems'
+'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
 'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
 #Z_15021_3
@@ -801,7 +838,7 @@ no unit: "Keine Einheit"
 #Z_15101_1
 'a) oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
 #Z_15101_2
-'b) oda (disbursements) for biodiversity': 'Auszahlungen (ODA) für Biodiversität'
+'b) oda (disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
 #Z_15101_3
 'c) environmental protection expenditure': 'Umweltschutzausgaben'
 #Z_15111_1
@@ -844,10 +881,6 @@ no unit: "Keine Einheit"
 'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years (%)': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
-#Z_16071_1
-'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
-#Z_16071_2
-'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
 #Z_16071_3
 'proportions of positions of women in the public service compared to the national distribution, by field of work': 'Anteil der Stellen von Frauen im öffentlichen Dienst im Vergleich zur nationalen Stellenverteilung'
 #Z_16071_4
@@ -916,6 +949,8 @@ no unit: "Keine Einheit"
 'proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)': 'Anteil der Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
+#Z_17161_1
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of offical statistics (number)': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
 #Z_17191_1
@@ -940,6 +975,12 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'other wastewater that does not have to undergo treatment': 'Sonstiges Abwasser'
+'safely treated wastewater (total)': 'Sicher behandeltes Abwasser (insgesamt)'
+'untreated wastewater that does not have to undergo treatment': 'Abwasser, das keiner Abwasserbehandlung bedarf'
+'wastewater safely treated': 'Sicher behandeltes Abwasser'
+'total female persons in employment (%)': 'Weibliche Erwerbstätige insgesamt'
+'female employees in public sector (%)': 'Weibliche Beschäftigte des öffentlichen Dienstes'
 'b) environmental protection expenditure': 'Umweltschutzausgaben'
 'b) oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungs-ausgaben (ODA) für den Forstsektor'
 'eur per inhabitant': 'EUR je Einwohner'
