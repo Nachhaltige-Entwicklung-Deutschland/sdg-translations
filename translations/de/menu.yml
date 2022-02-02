@@ -14,6 +14,7 @@ facts_dns: DNS
 guidance: Technische&nbspHinweise
 linkToDnsPlatform: <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/DNS Wheel.png" title="Zur Seite der nationalen Indikatoren" alt="Link DNS" style="width:24px;height:24px;"/><span class="hidden-sm hidden-md hidden-lg">DNS-Plattform</span>
 menu: Menü
+other_countries: Open SDG Plattformen anderer Staaten
 platform: Berichtsplattform
 publications: Publikationen
 reporting_status: Datenverfügbarkeit
@@ -26,3 +27,12 @@ contactPath: "https://www.destatis.de/DE/Service/Kontakt/Kontakt.html"
 twitterPath: "https://twitter.com/destatis?lang=de"
 international: International
 armenia: Armenien
+bosnia_and_herzegovina: Bosnien und Herzegowina
+canada: Kanada
+iceland: Island
+kyrgyzstan: Kirgisistan
+lao: Laos
+rwanda: Ruanda
+south_korea: Südkorea
+united_kingdom: Vereinigtes Königreich
+unites_states: USA
