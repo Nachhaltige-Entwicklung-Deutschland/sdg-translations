@@ -47,6 +47,7 @@ no unit: "Keine Einheit"
 'age of mother': 'Alter der Mutter'
 'area': 'Gebiet'
 'area of law': 'Rechtsgebiet'
+'bound': 'Grenze'
 'characteristics': 'Verfügbarkeit'
 'classification': 'Klassifikation'
 'conversion': 'Umrechnung'
@@ -177,6 +178,8 @@ no unit: "Keine Einheit"
 'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
 'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
 'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'upper bound': 'Obere Grenze'
+'lower bound': 'Untere Grenze'
 'not available': 'Nein'
 'available': 'Ja'
 'class 3 areas (elevation 2500-3500 meters)': 'Gebiete der Klasse 3 (Höhe 2500-3500 Meter)'
@@ -539,7 +542,7 @@ no unit: "Keine Einheit"
 #Z_04031_1
 'participation rate in formal and non-formal education and training in the previous 12 months': 'Teilnahmequote in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
-'persons with computer-related activities in the last 12 months': 'Personen mit computerbezogenen Aktivitäten in den letzten 12 Monaten'
+'persons with computer-related activities in the last 12 months': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
@@ -596,6 +599,10 @@ no unit: "Keine Einheit"
 'wastewater and cooling water': 'Abwasser und Kühlwasser'
 #Z_06032_1
 'water bodies with good quality': 'Gewässer mit guter Wasserqualität'
+#Z_06032_2
+'proportion flowing water with good ecological status for total phosphorous': 'Anteil Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor'
+#Z_06032_3
+'proportion groundwater below threshold for nitrate': 'Anteil Grundwasser unterhalb Schwellenwert für Nitrat'
 #Z_06041_1
 'water use efficiency': 'Wassernutzungseffizienz'
 #Z_06042_1
