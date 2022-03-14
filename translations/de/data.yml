@@ -374,6 +374,7 @@ no unit: "Keine Einheit"
 'leishmaniases': 'Leishmaniose'
 'rabies': 'Tollwut'
 'yaws': 'Frambösie'
+'dracunculiasis': 'Drakunkulose'
 'b) cancer': 'b) Bösartige Neubildungen'
 'c) diabetes mellitus': 'c) Diabetes mellitus'
 'd) chronic respiratory disease': 'd) Chronische Atemwegserkrankungen'
@@ -522,7 +523,7 @@ no unit: "Keine Einheit"
 #Z_03111_1
 'dtp vaccination rate at school entrance': 'DTP-Impfquote zum Schuleintritt'
 #Z_03111_2
-'hpv vaccination rate among 15 years old girls': 'HPV-Impfquote bei 15-jährigen Mädchen'
+'hpv vaccination rate among 15 years old girls': 'HPV-Impfquoten bei 15-jährigen Mädchen und Jungen'
 #Z_03111_3
 'measles vaccination rate at sschool entrance': 'Masern-Impfquote zum Schuleintritt'
 #Z_03111_4
@@ -578,7 +579,7 @@ no unit: "Keine Einheit"
 #Z_05071_2
 'female owners of agricultural holdings with the legal form of a sole proprietorship': 'Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen'
 #Z_05071_3
-'agricultural holdings with the legal of a form sole proprietorship': 'Betriebe der Rechtsform Einzelunternehmen'
+'agricultural holdings with the legal of a form sole proprietorship': 'Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen'
 #Z_05072_1
 'degree to which women are guaranteed equal rights to land ownership and/or control': 'Grad, in dem Frauen die gleichen Rechte auf Eigentum an und/oder Verfügungsgewalt über Grund und Boden garantiert wird'
 #Z_05081_1
@@ -801,8 +802,6 @@ no unit: "Keine Einheit"
 'recycled waste': 'Stoffliche Verwertung'
 #Z_12061_1
 'organisations with emas registration (number)': 'Organisationen mit EMAS-Registrierung'
-#Z_12071_1
-'sustainability programme': 'Nachhaltigkeitsstrategie'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_13022_1
@@ -820,7 +819,7 @@ no unit: "Keine Einheit"
 #Z_14051_2
 'protected marine area (%)': 'Meeresfläche, die unter Schutz steht'
 #Z_14061_1
-'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'degree of combatting illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 #Z_14101_1
@@ -977,8 +976,6 @@ no unit: "Keine Einheit"
 'hours worked by persons employed': 'Geleistete Arbeitsstunden der Erwerbstätigen'
 #Z_17131_9
 'labour productivity per hour worked by employee': 'Arbeitsproduktivität je geleisteter Arbeitnehmerstunde'
-#Z_17141_1
-'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
@@ -1011,6 +1008,9 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'sustainability programme': 'Nachhaltigkeitsstrategie'
+'degree of combat illegal, unreported and unregulated fishing (/)': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+'national sustainable development strategie (number)': 'Deutsche Nachhaltigkeitsstrategie'
 'points': 'Punkte'
 '% of total land area': '% der gesamten Landfläche'
 'short-term exposure to particulate matter: mortality due to acute respiratory diseases (children < 5 years)': 'Feinstaub Kurzzeitexposition: Mortalität aufgrund akuter Atemwegserkrankungen (Kinder < 5 Jahre)'
