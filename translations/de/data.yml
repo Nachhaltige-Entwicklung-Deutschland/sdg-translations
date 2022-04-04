@@ -174,10 +174,10 @@ no unit: "Keine Einheit"
 'germany': 'Deutschland'
 'new german states': 'Neue Länder'
 'former federal territory': 'Früheres Bundesgebiet'
-'area 4 marriage and family': 'Area 4: Ehe und Familie'
-'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
-'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
 'area 1 overarching legal frameworks and public life': 'Area 1: Übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben'
+'area 2 violence against women': 'Area 2: Gewalt gegen Frauen'
+'area 3 employment and economic benefits': 'Area 3: Erwerbstätigkeit und wirtschaftlicher Nutzen'
+'area 4 marriage and family': 'Area 4: Ehe und Familie'
 'upper bound': 'Obere Grenze'
 'lower bound': 'Untere Grenze'
 'not available': 'Nein'
@@ -569,7 +569,9 @@ no unit: "Keine Einheit"
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
 #Z_05051_1
-'seats held by women in national parliament': 'Frauenanteil im Parlament'
+'seats held by women in national parliament': 'Frauenanteil in Parlamenten'
+#Z_05051_2
+'proportion of women in local governments': 'Frauenanteil in Gemeinden'
 #Z_05052_1
 'women in managerial positions (%)': 'Frauen in Führungspositionen'
 #Z_05062_1
@@ -945,7 +947,7 @@ no unit: "Keine Einheit"
 #Z_17071_1
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
-'proportion of individuals using the internet': 'Anteil der Internetnutzerinnen und -nutzer'
+'proportion of individuals using the internet': 'Anteil der Internetnutzer/-innen'
 #Z_17091_1
 'oda and oof (commitments) for capacity building and national planning (without south-south cooperation)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17091_2
@@ -979,7 +981,7 @@ no unit: "Keine Einheit"
 #Z_17151_4
 'extent of use of country-owned results frameworks by providers of development co-operation': 'Ausmaß der Nutzung von ländereigenen Ergebnisrahmen durch Geber von Entwicklungszusammenarbeit'
 #Z_17161_1
-'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritt bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
+'progress in multi-stakeholder development effectiveness monitoring frameworks': 'Fortschritte bei Multi-Akteur-Überwachungsrahmen für entwicklungspolitische Wirksamkeit'
 #Z_17171_1
 'oda (commitments) to public-private partnerships (ppp) for infrastructure': 'Zusagen (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17171_2

@@ -174,10 +174,10 @@ no unit: "No Unit"
 'germany': 'Germany'
 'new german states': 'New German states'
 'former federal territory': 'Former Federal territory'
-'area 4 marriage and family': 'Area 4: Marriage and family'
-'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
-'area 2 violence against women': 'Area 2: Violence against women'
 'area 1 overarching legal frameworks and public life': 'Area 1: Overarching legal frameworks and public life'
+'area 2 violence against women': 'Area 2: Violence against women'
+'area 3 employment and economic benefits': 'Area 3: Employment and economic benefit'
+'area 4 marriage and family': 'Area 4: Marriage and family'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
 'not available': 'No'
@@ -569,7 +569,9 @@ no unit: "No Unit"
 #Z_05041_1
 'time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
 #Z_05051_1
-'seats held by women in national parliament': 'Proportion of women in the parliament'
+'seats held by women in national parliament': 'Proportion of women in parliaments'
+#Z_05051_2
+'proportion of women in local governments': 'Proportion of women in local governments'
 #Z_05052_1
 'women in managerial positions (%)': 'Women in managerial positions'
 #Z_05062_1
