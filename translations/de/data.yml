@@ -1,9 +1,11 @@
 #Einheiten
 '1 000': '1 000'
+'attributable deaths': 'Attributable Todesfälle'
 'bn eur': 'Milliarden EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
 'eur/h': 'EUR pro Stunde'
+'income per capita': 'Pro Kopf Einkommen'
 'g/dl': 'Gramm pro Deziliter'
 'g/eur constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
@@ -82,6 +84,7 @@ no unit: "Keine Einheit"
 'antimicrobial-resistant organisms': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
 'fine particulate matter': 'Feinstaub'
+'population': 'Bevölkerung'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
 'reporting type': 'Berichtstyp'
@@ -305,6 +308,8 @@ no unit: "Keine Einheit"
 'leasehold': 'Pacht'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂,₅'
+'poorest 40 per cent of the population': 'Ärmsten 40 Prozent der Bevölkerung'
+'population total': 'Gesamtbevölkerung'
 'minimum requirement level i': 'Mindestniveau Stufe I'
 'minimum requirement level ii': 'Mindestniveau Stufe II'
 'b) at risk': 'Gefährdet'
@@ -1026,6 +1031,7 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'poverty of the population': 'Armut der Bevölkerung'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
@@ -1179,6 +1185,7 @@ area2: Bereich
 'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
 'growth rate of net equivalent income of the total population': 'Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung'
 'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung'
+'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 'population living below 50% of median income': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 'labour share of gdp': 'Anteil des Arbeitnehmerentgelts am BIP'

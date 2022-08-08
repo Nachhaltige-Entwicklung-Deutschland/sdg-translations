@@ -1,9 +1,11 @@
 #Units
 '1 000': '1,000'
+'attributable deaths': 'Attributable deaths'
 'bn eur': 'Billion EUR'
 'dalys': 'DALYs'
 'eur': 'EUR'
 'eur/h': 'EUR per hour'
+'income per capita': 'Income per capita'
 'g/dl': 'Grams per decilitre'
 'g/eur constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
@@ -82,6 +84,7 @@ no unit: "No Unit"
 'antimicrobial-resistant organisms': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'fine particulate matter': 'Fine particulate matter'
+'population': 'Population'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
 'reporting type': 'Reporting type'
@@ -305,6 +308,8 @@ no unit: "No Unit"
 'leasehold': 'Leasehold'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂.₅'
+'poorest 40 per cent of the population': 'Poorest 40 percent of the population'
+'population total': 'Population total'
 'minimum requirement level i': 'Minimum requirement level I'
 'minimum requirement level ii': 'Minimum requirement level II'
 'b) at risk': 'At risk'
@@ -1028,6 +1033,7 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'poverty of the population': 'Poverty of the population'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
@@ -1181,6 +1187,7 @@ area2: Area
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
 'growth rate of net equivalent income of the total population': 'Growth rate of net equivalent income of the total population'
 'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Growth rate of net equivalent income of the bottom 40 per cent of the population'
+'growth rate of per capita income': 'Growth rate of per capita income'
 'population living below 50% of median income': 'Population living below 50% of median income'
 'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
 'labour share of gdp': 'Labour share of GDP'
