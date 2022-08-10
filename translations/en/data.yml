@@ -431,10 +431,6 @@ no unit: "No Unit"
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
 'population covered by health insurance': 'Population covered by health insurance'
-#Z_01061_1
-'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
-#Z_01061_2
-'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'government expenditure on health': 'Government expenditure on health'
 #Z_01062_2
@@ -473,8 +469,6 @@ no unit: "No Unit"
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
-#Z_02062_1
-'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
 'export refunds': 'Export refunds'
 #Z_02081_1
@@ -519,10 +513,6 @@ no unit: "No Unit"
 'births of young women': 'Births of young women'
 #Z_03082_1
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
-#Z_03091_5
-'attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_6
-'dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
@@ -561,10 +551,6 @@ no unit: "No Unit"
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
 'proportion of schools offering basic services': 'Proportion of schools offering basic services'
-#Z_04091_1
-'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
-#Z_04091_2
-'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
@@ -633,12 +619,6 @@ no unit: "No Unit"
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 #Z_06061_5
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
-#Z_06061_6
-'nationally derived quantity of rivers': 'Nationally derived quantity of rivers'
-#Z_06071_1
-'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
-#Z_06071_2
-'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -687,10 +667,6 @@ no unit: "No Unit"
 'atms of national payment service providers': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
-#Z_08111_1
-'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
-#Z_08111_2
-'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -717,18 +693,10 @@ no unit: "No Unit"
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 #Z_09052_1
 'researchers in full-time equivalents': 'Researchers in full-time equivalents'
-#Z_09061_1
-'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
-#Z_09061_2
-'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
-#Z_10011_1
-'growth rate of net equivalent income of the total population': 'Growth rate of net equivalent income of the total population'
-#Z_10011_2
-'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Growth rate of net equivalent income of the bottom 40 per cent of the population'
 #Z_10021_1
 'population living below 50% of median income': 'Population living below 50% of median income'
 #Z_10031_1
@@ -755,8 +723,6 @@ no unit: "No Unit"
 'persons who died during migration': 'Persons who died during migration'
 #Z_10074_1
 'proportion of people seeking protection with granted protection status to total population': 'Proportion of people seeking protection with granted protection status to total population'
-#Z_10091_1
-'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_06
 'overcrowding rate': 'Overcrowding rate'
 #Z_11011_07
@@ -889,14 +855,6 @@ no unit: "No Unit"
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
 'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
-#Z_15101_1
-'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
-#Z_15101_2
-'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
-#Z_15101_3
-'environmental protection expenditure': 'Environmental protection expenditure'
-#Z_15111_1
-'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
@@ -921,12 +879,6 @@ no unit: "No Unit"
 'reporting rate for robbery': 'Reporting rate for robbery'
 #Z_16032_1
 'unsentenced detainees': 'Unsentenced detainees'
-#Z_16033_1
-'consumer conciliation': 'Consumer conciliation'
-#Z_16033_2
-'applications received': 'Applications received'
-#Z_16033_3
-'applications finally processed': 'Applications finally processed'
 #Z_16042_1
 'seized arms and parts': 'Seized arms and parts'
 #Z_16051_1
@@ -969,10 +921,6 @@ no unit: "No Unit"
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
-#Z_17091_1
-'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
-#Z_17091_2
-'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -1009,10 +957,6 @@ no unit: "No Unit"
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
-#Z_17191_1
-'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
-#Z_17191_2
-'oda and oof (gross disbursements) to strengthen statistical capacity': 'ODA and OOF (gross disbursements) to strengthen statistical capacity'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 #Z_17192_2
@@ -1033,7 +977,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'poverty of the population': 'Poverty of the population'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
@@ -1187,7 +1130,6 @@ area2: Area
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
 'growth rate of net equivalent income of the total population': 'Growth rate of net equivalent income of the total population'
 'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Growth rate of net equivalent income of the bottom 40 per cent of the population'
-'growth rate of per capita income': 'Growth rate of per capita income'
 'population living below 50% of median income': 'Population living below 50% of median income'
 'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
 'labour share of gdp': 'Labour share of GDP'
@@ -1329,3 +1271,5 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'poverty of the population': 'Poverty of the population'
+'growth rate of per capita income': 'Growth rate of per capita income'
