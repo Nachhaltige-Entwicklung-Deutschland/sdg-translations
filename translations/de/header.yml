@@ -1,5 +1,14 @@
 alpha: Beta-Version
 disclaimer: Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre
   <a href="mailto:%email_contacts.suggestions">Kommentare</a>.
+internet_explorer_message_title: Dieser Internet-Browser wird nicht mehr unterstützt
+internet_explorer_message: Wir haben festgestellt, dass Sie den Internet Explorer
+  verwenden, um diese Website zu besuchen. Der Internet Explorer wird von Microsoft
+  nicht mehr unterstützt. Aus diesem Grund hat diese Website ebenfalls die Unterstützung
+  für alle Versionen des Internet Explorers eingestellt, einige Bereiche auf dieser
+  Website werden daher nicht oder nur eingeschränkt funktionieren. Bitte verwenden
+  Sie einen modernen Browser wie Edge, Chrome, Firefox oder Safari. Wenn Sie
+  Schwierigkeiten haben, einen anderen Browser zu installieren oder darauf zuzugreifen,
+  wenden Sie sich bitte an Ihr IT-Supportteam.
 skip_link: ' Zum Hauptinhalt springen'
 tag_line: ''
