@@ -51,6 +51,7 @@ sources: Datenquellen
 statistics: Statistik
 sub_categories: "Auswahl"
 sub_categories_dns: Disaggregation
+tags: Feld das den Berichtsstatus des Indikators angibt
 table: Tabelle
 timeseries: Zeitreihe
 unit_of_measurement: Einheit

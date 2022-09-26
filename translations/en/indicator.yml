@@ -40,6 +40,7 @@ sub_categories_dns: Sub-categories
 series: Series
 series_help: Please select here what should be displayed in the chart and/or the table.
 series_help_dns: Select here what should be displayed in the chart and in the table.
+tags: Field to display the indicator's reporting status
 legend_help: Click on the legend to remove individual lines from the chart.
 chart: Chart
 table: Table
