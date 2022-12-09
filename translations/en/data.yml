@@ -6,7 +6,7 @@
 'eur': 'EUR'
 'eur per hour': 'EUR per hour'
 'income per capita': 'Income per capita'
-'gini coefficient (0-100)': 'Gini coefficient (0-100)'
+'gini coefficient': 'Gini coefficient'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
@@ -43,6 +43,7 @@
 'per 1 million inhabitants': 'Per 1 million inhabitants'
 'percentage': 'Percentage'
 'km²': 'km²'
+'tonnes': 'Tonnes'
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
@@ -61,6 +62,7 @@
 'outcome of the application process': 'Outcome of the application process'
 'disability status': 'Disability status'
 'policy area': 'Policy area'
+'domain': 'Domain'
 'economic activity': 'Economic activity'
 'education level': 'Education level'
 'ownership': 'Ownership'
@@ -91,7 +93,7 @@
 'reporting type': 'Reporting type'
 'level of risk of extinction': 'Level of risk of extinction'
 'sea': 'Sea'
-'field of work': 'Field of work'
+'fields of work': 'Fields of work'
 'sector': 'Sector'
 'time series': 'Time series'
 'sex': 'Sex'
@@ -210,6 +212,9 @@
 'domain 4. socioeconomic well-being': 'Domain 4. Socioeconomic well-being'
 'domain 5. mobility dimensions of crises': 'Domain 5. Mobility dimensions of crises'
 'domain 6. safe, orderly and regular migration': 'Domain 6. Safe, orderly and regular migration'
+'private households': 'Private households'
+'restaurants and catering services': 'Restaurants and catering services'
+'retail/distribution': 'Retail/Distribution'
 'services': 'Services'
 'forestry': 'Forestry'
 'agriculture, forestry and fishing': 'Agriculture, forestry and fishing'
@@ -418,6 +423,11 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
+'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
+'bundestag (lower chamber)': 'Bundestag (Lower chamber)'
+'judiciary': 'Judiciary'
+'working age population': 'Working age population'
+'public service': 'Public service'
 
 #Time series
 #Z_01021_1
@@ -432,6 +442,10 @@
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 #Z_01031_2
 'population covered by health insurance': 'Population covered by health insurance'
+#Z_01061_1
+'oda (gross disbursements) for poverty reduction': 'ODA (gross disbursements) for poverty reduction'
+#Z_01061_2
+'oda (commitments) for poverty reduction': 'ODA (commitments) for poverty reduction'
 #Z_01062_1
 'government expenditure on health': 'Government expenditure on health'
 #Z_01062_2
@@ -470,6 +484,8 @@
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Local livestock breeds (horses, cows, pigs, sheep and goats)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agriculture orientation index for government expenditures'
+#Z_02062_1
+'oda (gross disbursements) to the agriculture sector': 'ODA (gross disbursements) to the agriculture sector'
 #Z_02071_1
 'export refunds': 'Export refunds'
 #Z_02081_1
@@ -522,6 +538,8 @@
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter(PM₂.₅) in the population aged 25 years and older by type of disease'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+#Z_03092_1
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
 #Z_03093_1
 'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 #Z_03101_1
@@ -536,6 +554,8 @@
 'measles vaccination coverage at school entry': 'Measles vaccination coverage at school entry'
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumococcal vaccination coverage at school entry'
+#Z_03112_1
+'oda (gross disbursements) to medical research and basic health sectors': 'ODA (gross disbursements) to medical research and basic health sectors'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
 #Z_03131_1
@@ -558,6 +578,10 @@
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration of "global citizenship education" and "education for sustainable development" into the education system'
 #Z_04081_1
 'proportion of schools offering basic services': 'Proportion of schools offering basic services'
+#Z_04091_1
+'oda (gross disbursements) for scholarships': 'ODA (gross disbursements) for scholarships'
+#Z_04091_2
+'oda (gross disbursements) for imputed student costs': 'ODA (gross disbursements) for imputed student costs'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Legal frameworks that promote, enforce and monitor gender equality'
 #Z_05021_1
@@ -622,6 +646,10 @@
 'wetlands area as a proportion of total land area': 'Wetlands area as a proportion of total land area'
 #Z_06061_5
 'lakes and rivers permanent water area change (compared to 2015)': 'Lakes and Rivers permanent water area change (compared to 2015)'
+#Z_06071_1
+'oda (gross disbursements) for water and sanitation': 'ODA (gross disbursements) for water and sanitation'
+#Z_06071_2
+'oda (gross disbursements) for other related purposes': 'ODA (gross disbursements) for other related purposes'
 #Z_07011_1
 'population with access to electricity': 'Population with access to electricity'
 #Z_07011_2
@@ -700,12 +728,20 @@
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
 'households covered by 3g or lte': 'Households covered by 3G or LTE'
+#Z_10011_3
+'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
 'population living below 50% of median income': 'Population living below 50% of median income'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services in the last two years'
 #Z_10041_1
 'labour share of gdp': 'Labour share of GDP'
+#Z_10042_1
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)'
+#Z_10042_2
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini coefficient of equivalised disposable income (post-fiscal)'
+#Z_10042_3
+'redistributive impact of fiscal policy': 'Redistributive impact of fiscal policy'
 #Z_10051_1
 'capital to assets ratio': 'Capital to assets ratio'
 #Z_10051_2
@@ -724,6 +760,10 @@
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
 'persons who died during migration': 'Persons who died during migration'
+#Z_10074_1
+'proportion of people seeking protection with granted protection status to total population': 'Proportion of people seeking protection with granted protection status to total population'
+#Z_10091_1
+'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_06
 'overcrowding rate': 'Overcrowding rate'
 #Z_11011_07
@@ -856,6 +896,14 @@
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Implementation and progress on national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020'
 #Z_15091_2
 'implementation of the system of environmental-economic accounting (seea)': 'Implementation of the System of Environmental-Economic Accounting (SEEA)'
+#Z_15101_1
+'oda (commitments) for biodiversity': 'ODA (commitments) for biodiversity'
+#Z_15101_2
+'oda (gross disbursements) for biodiversity': 'ODA (gross disbursements) for biodiversity'
+#Z_15101_3
+'environmental protection expenditure': 'Environmental protection expenditure'
+#Z_15111_1
+'oda (gross disbursements) to the forestry sector': 'ODA (gross disbursements) to the forestry sector'
 #Z_16011_1
 'victims of intentional homicide': 'Victims of intentional homicide'
 #Z_16012_1
@@ -920,6 +968,10 @@
 'gross fixed capital formation on environmental protection': 'Gross fixed capital formation on environmental protection'
 #Z_17081_1
 'proportion of individuals using the internet': 'Proportion of individuals using the Internet'
+#Z_17091_1
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (commitments) for capacity building and national planning (without South-South cooperations)'
+#Z_17091_2
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'ODA and OOF (gross disbursements) for capacity building and national planning (without South-South cooperations)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Annual growth rate of real GDP'
 #Z_17131_10
@@ -956,6 +1008,10 @@
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'ODA (gross disbursements) to public-private partnerships (PPP) for infrastructure'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Countries with national statistical legislation that complies with the Fundamental Principles of Official Statistics'
+#Z_17191_1
+'oda and oof (commitments) to strengthen statistical capacity': 'ODA and OOF (commitments) to strengthen statistical capacity'
+#Z_17191_2
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'ODA and OOF (gross disbursements) to strengthen statistical capacity'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 #Z_17192_2
@@ -976,6 +1032,8 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'gini coefficient (0-100)': 'Gini coefficient (0-100)'
+'field of work': 'Field of work'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
@@ -1209,8 +1267,6 @@ area2: Area
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years'
 'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
 'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
-'ratio of female members in the public service': 'Ratio of female members in the public service'
-'ratio of female members in the judiciary': 'Ratio of female members in the judiciary'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 'children under 5 years of age whose births have been registered with a civil authority': 'Children under 5 years of age whose births have been registered with a civil authority'
 'unesco survey on public access to information': 'UNESCO Survey on Public Access to Information'
@@ -1245,6 +1301,8 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'ratio of female members in the public service': 'Ratio of female members in the public service'
+'ratio of female members in the judiciary': 'Ratio of female members in the judiciary'
 'bn eur': 'Billion EUR'
 'eur/h': 'EUR per hour'
 'g/dl': 'Grams per decilitre'
@@ -1279,7 +1337,6 @@ area2: Area
 'characteristics': 'Availability'
 'declination': 'Outcome of the application process'
 'disability': 'Disability status'
-'domain': 'Policy area'
 'economic sector': 'Economic activity'
 'country of origin': 'Country of citizenship'
 'level of waterstress': 'Water use index'

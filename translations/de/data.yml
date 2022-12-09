@@ -6,7 +6,7 @@
 'eur': 'EUR'
 'eur per hour': 'EUR pro Stunde'
 'income per capita': 'Pro Kopf Einkommen'
-'gini coefficient (0-100)': 'Gini-Index (0-100)'
+'gini coefficient': 'Gini-Koeffizient'
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
@@ -43,6 +43,7 @@
 'per 1 million inhabitants': 'Je 1 Million Einwohner/ -innen'
 'percentage': 'Prozent'
 'km²': 'km²'
+'tonnes': 'Tonnen'
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnen pro Kopf'
 '1 000 tonnes': '1 000 Tonnen'
@@ -61,6 +62,7 @@
 'outcome of the application process': 'Ausgang des Antragsverfahrens'
 'disability status': 'Behinderungsstatus'
 'policy area': 'Politikbereiche'
+'domain': 'Bereich'
 'economic activity': 'Wirtschaftszweig'
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
@@ -91,7 +93,7 @@
 'reporting type': 'Berichtstyp'
 'level of risk of extinction': 'Gefährdungskategorie'
 'sea': 'Meer'
-'field of work': 'Aufgabenbereiche'
+'fields of work': 'Aufgabenbereiche'
 'sector': 'Sektor'
 'time series': 'Zeitreihe'
 'sex': 'Geschlecht'
@@ -210,6 +212,9 @@
 'domain 4. socioeconomic well-being': 'Bereich 4. Sozioökonomisches Wohlbefinden'
 'domain 5. mobility dimensions of crises': 'Bereich 5. Mobilitätsdimensionen von Krisen'
 'domain 6. safe, orderly and regular migration': 'Bereich 6. Sichere, geordnete und reguläre Migration'
+'private households': 'Private Haushalte'
+'restaurants and catering services': 'Gaststätten und Verpflegungsdienste'
+'retail/distribution': 'Einzelhandel/Vertrieb'
 'services': 'Dienstleistungen'
 'forestry': 'Forstwirtschaft'
 'agriculture, forestry and fishing': 'Land- und Forstwirtschaft, Fischerei'
@@ -418,6 +423,11 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
+'bundesrat (upper chamber)': 'Bundesrat'
+'bundestag (lower chamber)': 'Deutscher Bundestag'
+'judiciary': 'Justiz'
+'working age population': 'Bevölkerung im erwerbsfähigen Alter'
+'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
 #Z_01021_1
@@ -432,6 +442,10 @@
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
+#Z_01061_1
+'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
+#Z_01061_2
+'oda (commitments) for poverty reduction': 'Zusagen (ODA) zur Minderung der Armut'
 #Z_01062_1
 'government expenditure on health': 'Staatsausgaben für Gesundheit'
 #Z_01062_2
@@ -470,6 +484,8 @@
 'local livestock breeds (horses, cows, pigs, sheep and goats)': 'Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)'
 #Z_02061_1
 'agriculture orientation index for government expenditures': 'Agrarorientierungs-Index für Staatsausgaben'
+#Z_02062_1
+'oda (gross disbursements) to the agriculture sector': 'Bruttoentwicklungsausgaben (ODA) für die Landwirtschaft'
 #Z_02071_1
 'export refunds': 'Ausfuhrerstattungen'
 #Z_02081_1
@@ -522,6 +538,8 @@
 'attributable deaths due to long-term exposure to fine particulate matter(pm2.5) in the population aged 25 years and older by type of disease': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
 #Z_03091_4
 'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung'
+#Z_03092_1
+'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Sterblichkeit infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene'
 #Z_03093_1
 'mortality attributed to unintentional poisoning': 'Sterblichkeit infolge von unbeabsichtigten Vergiftungen'
 #Z_03101_1
@@ -536,6 +554,8 @@
 'measles vaccination coverage at school entry': 'Masern-Impfquote zum Schuleintritt'
 #Z_03111_4
 'pneumococcal vaccination coverage at school entry': 'Pneumokokken-Impfquote zum Schuleintritt'
+#Z_03112_1
+'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
@@ -558,6 +578,10 @@
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
 'proportion of schools offering basic services': 'Anteil der Schulen mit Basisversorgung'
+#Z_04091_1
+'oda (gross disbursements) for scholarships': 'Bruttoentwicklungsausgaben (ODA) für Stipendien'
+#Z_04091_2
+'oda (gross disbursements) for imputed student costs': 'Bruttoentwicklungsausgaben (ODA) für kalkulatorische Studienplatzkosten'
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
@@ -622,6 +646,10 @@
 'wetlands area as a proportion of total land area': 'Feuchtgebiete im Verhältnis zur gesamten Landfläche'
 #Z_06061_5
 'lakes and rivers permanent water area change (compared to 2015)': 'Veränderung der permanenten Wasserfläche von Seen und Flüssen (verglichen mit 2015)'
+#Z_06071_1
+'oda (gross disbursements) for water and sanitation': 'Bruttoentwicklungsausgaben (ODA) für Wasser und Sanitär'
+#Z_06071_2
+'oda (gross disbursements) for other related purposes': 'Bruttoentwicklungsausgaben (ODA) für verwandte Zwecke'
 #Z_07011_1
 'population with access to electricity': 'Bevölkerung mit Zugang zu Elektrizität'
 #Z_07011_2
@@ -700,12 +728,20 @@
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
 'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
+#Z_10011_3
+'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
 'population living below 50% of median income': 'Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt'
 #Z_10031_1
 'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
 'labour share of gdp': 'Anteil des Arbeitnehmerentgelts am BIP'
+#Z_10042_1
+'gini coefficient of equivalised disposable income before social transfers (pre-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
+#Z_10042_2
+'gini coefficient of equivalised disposable income (post-fiscal)': 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
+#Z_10042_3
+'redistributive impact of fiscal policy': 'Umverteilende Wirkung der Fiskalpolitik'
 #Z_10051_1
 'capital to assets ratio': 'Eigenkapitalquote'
 #Z_10051_2
@@ -724,6 +760,10 @@
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
 'persons who died during migration': 'Personen, die während der Migration gestorben sind'
+#Z_10074_1
+'proportion of people seeking protection with granted protection status to total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
+#Z_10091_1
+'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_06
 'overcrowding rate': 'Überbelegungsquote'
 #Z_11011_07
@@ -856,6 +896,14 @@
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
 'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
+#Z_15101_1
+'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
+#Z_15101_2
+'oda (gross disbursements) for biodiversity': 'Bruttoentwicklungsausgaben (ODA) für Biodiversität'
+#Z_15101_3
+'environmental protection expenditure': 'Umweltschutzausgaben'
+#Z_15111_1
+'oda (gross disbursements) to the forestry sector': 'Bruttoentwicklungsausgaben (ODA) für den Forstsektor'
 #Z_16011_1
 'victims of intentional homicide': 'Opfer vorsätzlicher Tötung'
 #Z_16012_1
@@ -920,6 +968,10 @@
 'gross fixed capital formation on environmental protection': 'Bruttoanlageinvestitionen für Umweltschutz'
 #Z_17081_1
 'proportion of individuals using the internet': 'Anteil der Internetnutzer/-innen'
+#Z_17091_1
+'oda and oof (commitments) for capacity building and national planning (without south-south cooperations)': 'Zusagen (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
+#Z_17091_2
+'oda and oof (gross disbursements) for capacity building and national planning (without south-south cooperations)': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) zum Kapazitätsaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)'
 #Z_17131_1
 'annual growth rate of real gdp': 'Jährliche Wachstumsrate des realen BIP'
 #Z_17131_10
@@ -956,6 +1008,10 @@
 'oda (gross disbursements) to public-private partnerships (ppp) for infrastructure': 'Bruttoentwicklungsausgaben (ODA) für öffentlich-private Partnerschaften im Bereich Infrastruktur'
 #Z_17182_1
 'countries with national statistical legislation that complies with the fundamental principles of official statistics': 'Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik'
+#Z_17191_1
+'oda and oof (commitments) to strengthen statistical capacity': 'Zusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten'
+#Z_17191_2
+'oda and oof (gross disbursements) to strengthen statistical capacity': 'Bruttoausgaben (ODA und OOF) zum Ausbau statistischer Kapazitäten'
 #Z_17192_1
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 #Z_17192_2
@@ -974,6 +1030,8 @@ age of victim: Alter der Opfer
 area2: Bereich
 
 #Old stuff that may still be needed
+'gini coefficient (0-100)': 'Gini-Index (0-100)'
+'field of work': 'Aufgabenbereiche'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
@@ -1207,8 +1265,6 @@ area2: Bereich
 'businesses who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years': 'Unternehmen, die den Eindruck hatten, dass Beschäftigte des öffentlichen Dienstes während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren bestechlich waren'
 'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
-'ratio of female members in the public service': 'Verhältnis von Frauen im öffentlichen Dienst'
-'ratio of female members in the judiciary': 'Verhältnis von Frauen in der Justiz'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
@@ -1243,6 +1299,8 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'ratio of female members in the public service': 'Verhältnis von Frauen im öffentlichen Dienst'
+'ratio of female members in the judiciary': 'Verhältnis von Frauen in der Justiz'
 'bn eur': 'Milliarden EUR'
 'eur/h': 'EUR pro Stunde'
 'g/dl': 'Gramm pro Deziliter'
@@ -1277,7 +1335,6 @@ area2: Bereich
 'characteristics': 'Verfügbarkeit'
 'declination': 'Ausgang des Antragsverfahrens'
 'disability': 'Behinderungsstatus'
-'domain': 'Politikbereiche'
 'economic sector': 'Wirtschaftszweig'
 'country of origin': 'Herkunftsland'
 'level of waterstress': 'Wassernutzungsindex'
