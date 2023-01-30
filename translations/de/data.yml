@@ -594,6 +594,14 @@
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
+#Z_05051_1
+'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
+#Z_05051_2
+'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
+#Z_05051_3
+'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
+#Z_05051_4
+'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
@@ -803,7 +811,7 @@
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
-'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
+'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
 'victims of physical harassment': 'Opfer körperlicher Belästigung'
 #Z_11072_2
@@ -942,6 +950,16 @@
 'proportion of primary government expenditures to original approved budget': 'Verhältnis der Primärausgaben des Staates (Haushalts-Ist) zum ursprünglich genehmigten Budget (Haushalts-Soll)'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war'
+#Z_16071_1
+'working-age population': 'Bevölkerung im erwerbsfähigen Alter'
+#Z_16071_2
+'german bundestag (lower chamber)': 'Deutscher Bundestag'
+#Z_16071_3
+'bundesrat (upper chamber)': 'Bundesrat'
+#Z_16071_4
+'public service': 'Öffentlicher Dienst'
+#Z_16071_5
+'judiciary': 'Justiz'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 #Z_16091_1

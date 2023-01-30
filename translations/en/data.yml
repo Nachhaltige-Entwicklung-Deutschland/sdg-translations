@@ -594,6 +594,14 @@
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
+#Z_05051_1
+'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (lower chamber)'
+#Z_05051_2
+'proportion of women in the bundesrat (upper chamber)': 'Proportion of women in the Bundesrat (upper chamber)'
+#Z_05051_3
+'proportion of women in länder parliaments': 'Proportion of women in Länder parliaments'
+#Z_05051_4
+'proportion of women in councils of districts and district-free cities': 'Proportion of women in councils of districts and district-free cities'
 #Z_05052_1
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 #Z_05062_1
@@ -803,7 +811,7 @@
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
-'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
+'average share of the built-up area of cities that is open space for public use': 'Average share of the built-up area of cities that is open space for public use'
 #Z_11072_1
 'victims of physical harassment': 'Victims of physical harassment'
 #Z_11072_2
@@ -942,6 +950,16 @@
 'proportion of primary government expenditures to original approved budget': 'Proportion of primary government expenditures to original approved budget'
 #Z_16062_1
 'population satisfied with their experience of government services during the previous two years': 'Population satisfied with their experience of government services during the previous two years'
+#Z_16071_1
+'working-age population': 'Working-age population'
+#Z_16071_2
+'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
+#Z_16071_3
+'bundesrat (upper chamber)': 'Bundesrat (upper chamber)'
+#Z_16071_4
+'public service': 'Public service'
+#Z_16071_5
+'judiciary': 'Judiciary'
 #Z_16072_1
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 #Z_16091_1
@@ -1032,11 +1050,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'1 000': '1 000'
-'per 1 000 inhabitants': 'Per 1 000 inhabitants'
-'per 1 000 women of same age': 'Per 1 000 women of same age'
-'per 1 000 live births': 'Per 1 000 live births'
-'1 000 tonnes': '1 000 tonnes'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'severely materially deprived persons': 'Severely materially deprived persons'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
