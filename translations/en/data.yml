@@ -11,6 +11,7 @@
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
+'2020 = 100': '2020 = 100'
 'yes=1, no=0': 'yes=1, no=0'
 'kilogram per capita': 'Kilogram per capita'
 'kilocalories per day': 'Kilocalories per day'
@@ -111,6 +112,7 @@
 'type of disease': 'Type of disease'
 'form of abuse': 'Form of abuse'
 'type of account': 'Type of account'
+'type of biomass': 'Type of biomass'
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
 'type of waste': 'Type of waste'
@@ -400,6 +402,9 @@
 'psychological abuse': 'Psychological abuse'
 'current accounts': 'Current accounts'
 'online accounts': 'Online accounts'
+'standig wood': 'Standig wood'
+'other woody biomass': 'Other woody biomass'
+'other biomass in forests': 'Other biomass in forests'
 'labour exploitation': 'Labour exploitation'
 'sexual exploitation': 'Sexual exploitation'
 'oof (net disbursements)': 'OOF (net disbursements)'
@@ -559,7 +564,7 @@
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Health workers with direct patient contact (practising concept)'
 #Z_03131_1
-'average of 13 ihr core capacity scores': 'Average of 13 IHR core capacity scores'
+'average of ihr core capacity scores': 'Average of IHR core capacity scores'
 #Z_03132_1
 'proportion of resistant isolates tested from blood cultures': 'Proportion of resistant isolates tested from blood cultures'
 #Z_04011_1
@@ -706,6 +711,10 @@
 'atms of national payment service providers': 'ATMs of national payment service providers'
 #Z_08102_1
 'accounts at payment service providers': 'Accounts at payment service providers'
+#Z_08111_1
+'oda and oof (commitments) for aid for trade': 'ODA and OOF (commitments) for aid for trade'
+#Z_08111_2
+'oda and oof (gross disbursement) for aid for trade': 'ODA and OOF (gross disbursement) for aid for trade'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Proportion of the rural population who live within 2 km of an all-season road'
 #Z_09012_1
@@ -732,6 +741,10 @@
 'proportion of r&d expenditures to gdp': 'Proportion of R&D expenditures to GDP'
 #Z_09052_1
 'researchers in full-time equivalents': 'Researchers in full-time equivalents'
+#Z_09061_1
+'oda and oof (gross disbursements) to infrastructure': 'ODA and OOF (gross disbursements) to infrastructure'
+#Z_09061_2
+'oda (gross disbursements) to infrastructure': 'ODA (gross disbursements) to infrastructure'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
@@ -866,6 +879,14 @@
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_15012_2
 'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
+#Z_15021_1
+'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
+#Z_15021_2
+'forest area located within protected areas': 'Forest area located within protected areas'
+#Z_15021_3
+'forest area net change rate': 'Forest area net change rate'
+#Z_15021_4
+'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
 #Z_15041_1
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_15041_2
@@ -1260,7 +1281,6 @@ area2: Area
 'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
-'"mountain green cover" index': '"Mountain Green Cover" Index'
 '"red list" index': '"Red List" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
@@ -1336,6 +1356,7 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Share of open space to total area in cities with more than 100,000 inhabitants'
 'gini coefficient (0-100)': 'Gini coefficient (0-100)'
 'field of work': 'Field of work'

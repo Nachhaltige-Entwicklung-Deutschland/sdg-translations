@@ -11,6 +11,7 @@
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
+'2020 = 100': '2020 = 100'
 'yes=1, no=0': 'ja=1, nein=0'
 'kilogram per capita': 'Kilogramm pro Kopf'
 'kilocalories per day': 'Kilokalorien pro Tag'
@@ -111,6 +112,7 @@
 'type of disease': 'Art der Erkrankung'
 'form of abuse': 'Form der Misshandlung'
 'type of account': 'Kontenart'
+'type of biomass': 'Art der Biomasse'
 'form of exploitation': 'Form der Ausbeutung'
 'type of flow': 'Art der Finanzströme'
 'type of waste': 'Abfallart'
@@ -400,6 +402,9 @@
 'psychological abuse': 'Psychische Misshandlung'
 'current accounts': 'Girokonten'
 'online accounts': 'Online-Konten'
+'standig wood': 'Stehendes Holz'
+'other woody biomass': 'Sonstige Holzbiomasse'
+'other biomass in forests': 'Sonstige Biomasse in Wäldern'
 'labour exploitation': 'Ausbeutung der Arbeitskraft'
 'sexual exploitation': 'Sexuelle Ausbeutung'
 'oof (net disbursements)': 'Sonstige öffentliche Nettoausgaben (OOF)'
@@ -559,7 +564,7 @@
 #Z_03121_1
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
 #Z_03131_1
-'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
+'average of ihr core capacity scores': 'Durchschnitt der IGV-Kapazitäten-Punktwerte'
 #Z_03132_1
 'proportion of resistant isolates tested from blood cultures': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
 #Z_04011_1
@@ -573,7 +578,7 @@
 #Z_04051_1
 'gender parity index': 'Geschlechtsparitätsindex'
 #Z_04061_1
-'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die über ein festgelegtes Mindestniveau in a) Lesen und b) Rechnen verfügt'
+'adult population achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills': 'Erwachsene Bevölkerung, die mindestens über einbestimmtes Niveau an funktionalen a) Lese- und b) Rechenkenntnissen verfügt'
 #Z_04071_1
 'integration of "global citizenship education" and "education for sustainable development" into the education system': 'Integration von "Global Citizenship Education" und "Bildung für nachhaltige Entwicklung" im Bildungswesen'
 #Z_04081_1
@@ -706,6 +711,10 @@
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 #Z_08102_1
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
+#Z_08111_1
+'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
+#Z_08111_2
+'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
 #Z_09011_1
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 #Z_09012_1
@@ -732,6 +741,10 @@
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 #Z_09052_1
 'researchers in full-time equivalents': 'Wissenschaftler in Vollzeitäquivalenten'
+#Z_09061_1
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
+#Z_09061_2
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
@@ -866,6 +879,14 @@
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 #Z_15012_2
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
+#Z_15021_1
+'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
+#Z_15021_2
+'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
+#Z_15021_3
+'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
+#Z_15021_4
+'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 #Z_15041_1
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 #Z_15041_2
@@ -1264,7 +1285,6 @@ area2: Bereich
 'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
-'"mountain green cover" index': '"Mountain Green Cover" Index'
 '"red list" index': '"Rote Liste" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
 'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'
@@ -1340,6 +1360,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 'gini coefficient (0-100)': 'Gini-Index (0-100)'
 'field of work': 'Aufgabenbereiche'
