@@ -7,11 +7,14 @@ about_navigation: Navigation
 about_guidance: Technical instructions
 about_this_site: About&nbspthis&nbspsite
 agenda: 2030 Agenda
+canada: Canada
+montenegro: Montenegro
 platform: platform
 publications: Publications
 guidance: Guidance
 linkToDnsPlatform: <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/DNS Wheel.png" title="To the page of the national indicators" alt="Link DNS" style="width:24px;height:24px;"/>
 faq: FAQs
+domrepcongo: Democratic Republic of the Congo
 facts: Useful information
 facts_agenda: 2030 Agenda
 facts_dns: German Sustainable Development Strategy (DNS)
@@ -25,6 +28,7 @@ status_summary: Summary
 status_title: Evaluation
 contactPath: "https://www.destatis.de/EN/Service/Contact/_Contact.html"
 twitterPath: "https://twitter.com/destatis?lang=en"
+turkey: Turkey
 international: International
 armenia: Armenia
 bosnia_and_herzegovina: Bosnia and Herzegovina
