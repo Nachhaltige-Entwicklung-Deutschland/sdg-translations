@@ -439,10 +439,6 @@
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01021_1a
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
-#Z_01022_1
-'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
-#Z_01022_2
-'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
@@ -474,9 +470,9 @@
 #Z_02031_1
 'labour productivity': 'Arbeitsproduktivität'
 #Z_02041_1
-'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
 #Z_02041_2
-'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
 #Z_02051_1
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 #Z_02051_2
@@ -730,7 +726,9 @@
 #Z_09021_4
 'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
 #Z_09022_1
-'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
+'data from na from federal statistical office': 'Daten der VGR des Statistischen Bundesamtes'
+#Z_09022_2
+'data from lfs from federal statistical office': 'Daten der AKE des Statistischen Bundesamtes'
 #Z_09031_1
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 #Z_09041_1
@@ -907,10 +905,6 @@
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 #Z_15071_2
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
-#Z_15081_1
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
-#Z_15081_2
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
 #Z_15091_1
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 #Z_15091_2
@@ -1127,7 +1121,7 @@ area2: Bereich
 'pneumococcal vaccination coverage at school entry': 'Pneumokokken-Impfquote zum Schuleintritt'
 'oda (gross disbursements) to medical research and basic health sectors': 'Bruttoentwicklungsausgaben (ODA) für medizinische Forschung und grundlegende Gesundheitsversorgung'
 'health workers with direct patient contact (practising concept)': 'Gesundheitspersonal mit direktem Patientenkontakt (practising concept)'
-'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
+'average of ihr core capacity scores': 'Durchschnitt der IGV-Kapazitäten-Punktwerte'
 'proportion of resistant isolates tested from blood cultures': 'Anteil der resistent getesteten Isolate aus Blutkulturen'
 'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
@@ -1201,6 +1195,8 @@ area2: Bereich
 'branches of payment service providers': 'Zweigstellen von Zahlungsverkehrsdienstleistern'
 'atms of national payment service providers': 'Bankautomaten von inländischen Zahlungsdienstleistern'
 'accounts at payment service providers': 'Konten bei Zahlungsverkehrsdienstleistern'
+'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
+'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
 'proportion of the rural population who live within 2 km of an all-season road': 'Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt'
 'passenger transport': 'Personenverkehr'
 'freight transport': 'Güterverkehr'
@@ -1214,6 +1210,8 @@ area2: Bereich
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
 'proportion of r&d expenditures to gdp': 'Verhältnis der F&E-Ausgaben zum BIP'
 'researchers in full-time equivalents': 'Wissenschaftler in Vollzeitäquivalenten'
+'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
+'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
@@ -1360,6 +1358,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 '"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
 'gini coefficient (0-100)': 'Gini-Index (0-100)'
@@ -1482,10 +1481,6 @@ area2: Bereich
 'attributable deaths due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'dalys due to long-term exposure to fine particulate matter (pm₅﮳₂) in the population aged 25 years and older': 'DALYs infolge einer Langzeit-Exposition mit Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 'nationally derived quantity of rivers': 'National abgeleitete Wassermenge der Flüsse'
-'oda and oof (commitments) for aid for trade': 'Zusagen (ODA und OOF) für Handelshilfe'
-'oda and oof (gross disbursement) for aid for trade': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Handelshilfe'
-'oda and oof (gross disbursements) to infrastructure': 'Gesamte öffentliche Bruttoausgaben (ODA und OOF) für Infrastruktur'
-'oda (gross disbursements) to infrastructure': 'Bruttoentwicklungsausgaben (ODA) für Infrastruktur'
 'growth rate of net equivalent income of the total population': 'Wachstumsrate des Nettoäquivalenzeinkommens der gesamten Bevölkerung'
 'growth rate of net equivalent income of the bottom 40 per cent of the population': 'Wachstumsrate des Nettoäquivalenzeinkommens der ärmsten 40 Prozent der Bevölkerung'
 'consumer conciliation': 'Verbraucherschlichtung'
