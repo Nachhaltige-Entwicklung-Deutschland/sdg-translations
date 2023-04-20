@@ -43,12 +43,14 @@
 'ph-value': 'pH-Wert'
 'per 1 million inhabitants': 'Je 1 Million Einwohner/ -innen'
 'percentage': 'Prozent'
+'percent of gdp': 'Prozent des BIP'
 'km²': 'km²'
 'tonnes': 'Tonnen'
 '1 000 m³': '1 000 m³'
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
+'hectare': 'Hektar'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -338,10 +340,13 @@
 'corporations': 'Unternehmen'
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
+'direct transfers of funds': 'Direkte finanzielle Beihilfen'
 'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
 'overcrowding rate': 'Überbelegungsquote'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
+'tax breaks': 'Steuervergünstigungen'
 'population that does not have a toilet for the sole use of their household': 'Bevölkerung, der kein WC für den alleinigen Gebrauch ihres Haushalts hat'
+'total': 'Insgesamt'
 'divers': 'Divers'
 'female': 'Weiblich'
 'male': 'Männlich'
@@ -433,6 +438,8 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
+'marine protected areas': 'Marine Schutzgebiete'
+'effective marine protected areas': 'Effektive marine Schutzgebiete'
 
 #Zeitreihen
 #Z_01021_1
@@ -861,8 +868,10 @@
 'proportion of msy examined in all managed stocks': 'MSY-untersuchte an allen bewirtschafteten Beständen'
 #Z_14051_1
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
-#Z_14051_2
+#Z_14051_3
 'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
+#Z_14051_4
+'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 #Z_14081_1
@@ -875,8 +884,10 @@
 'forest area as a proportion of total land area': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 #Z_15012_1
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
-#Z_15012_2
+#Z_15012_3
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
+#Z_15012_4
+'terrestrial and freshwater areas covered by effective protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht'
 #Z_15021_1
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 #Z_15021_2
@@ -889,6 +900,10 @@
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
+#Z_15042_1
+'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
+#Z_15042_2
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 #Z_15051_1
 '"red list" index': '"Rote Liste" Index'
 #Z_15061_1
@@ -1060,8 +1075,6 @@ area2: Bereich
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
-'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
-'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 'population covered by health insurance': 'Bevölkerung mit Krankenversicherungsschutz'
 'oda (gross disbursements) for poverty reduction': 'Bruttoentwicklungsausgaben (ODA) zur Minderung der Armut'
@@ -1076,8 +1089,8 @@ area2: Bereich
 'wasting': 'Auszehrung'
 'hb concentrations in female adolescents': 'Hb-Konzentrationen bei weiblichen Jugendlichen'
 'labour productivity': 'Arbeitsproduktivität'
-'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
-'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'organically farmed agricultural land (data from the federal statistical office)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from the federal ministry of food and agriculture)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
 'plant genetic resources': 'Pflanzengenetische Ressourcen'
 'animal genetic resources': 'Tiergenetische Ressourcen'
 'level of risk of extinction (according to fao classification)': 'Gefährdungskategorie (nach FAO-Klassifikation)'
@@ -1204,7 +1217,8 @@ area2: Bereich
 'manufacturing gross value added per capita': 'Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf'
 'manufacturing gross value added as a proportion of gdp': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP'
 'manufacturing gross value added as a proportion of total gross value added': 'Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt'
-'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
+'data from na from federal statistical office': 'Daten der VGR des Statistischen Bundesamtes'
+'data from lfs from federal statistical office': 'Daten der AKE des Statistischen Bundesamtes'
 'gross value added of small-scale industries in manufacturing': 'Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe'
 'co₂ emissions per real gdp': 'CO₂-Emissionen zum realen BIP'
 'co₂ emissions per gross value added (price adjusted) in manufacturing industries': 'CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe'
@@ -1291,8 +1305,6 @@ area2: Bereich
 'number of standard material transfer agreements (smtas)': 'Anzahl standardisierter Materialübertragungs-vereinbarungen'
 'documents issued for the import and export of protected species': 'Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten'
 'seizures by authorities concerning the protection of species': 'Beschlagnahmungen durch Behörden im Rahmen des Artenschutzes'
-'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
-'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
 'implementation and progress on national targets in accordance with or similar to aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020': 'Umsetzung sowie Fortschritte bei nationalen Zielvorgaben gemäß oder ähnlich dem Aichi-Biodiversitätsziel 2 des Strategieplans für die biologische Vielfalt 2011-2020'
 'implementation of the system of environmental-economic accounting (seea)': 'Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (UGR)'
 'oda (commitments) for biodiversity': 'Zusagen (ODA) für Biodiversität'
@@ -1358,6 +1370,13 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
+'organically farmed agricultural land (data from destatis)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des Statistischen Bundesamtes)'
+'organically farmed agricultural land (data from bmel)': 'Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung (Daten des BMEL)'
+'manufacturing persons employed': 'Erwerbstätige im Verarbeitenden Gewerbe'
+'(1) (a) national legislation considered relevant to the prevention of introduction of invasive alien species and control': '(1) (a) Nationale Rechtsvorschriften, die als relevant für die Verhinderung der Einschleppung invasiver gebietsfremder Arten und deren Bekämpfung angesehen werden'
+'(1) (b) national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020': '(1) (b) Angleichung der Ziele des Nationalen Strategie- und Aktionsplans für biologische Vielfalt (NBSAP) an das Aichi-Biodiversitätsziel 9 des Strategieplans für biologische Vielfalt 2011-2020'
 'average of 13 ihr core capacity scores': 'Durchschnitt der 13 IGV-Kapazitäten-Punktwerte'
 '"mountain green cover" index': '"Mountain Green Cover" Index'
 'share of open space to total area in cities with more than 100,000 inhabitants': 'Verhältnis der Freifläche zur gesamten Fläche von Städten mit mehr als 100 000 Einwohnern'
