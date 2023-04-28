@@ -9,6 +9,7 @@
 'gini coefficient': 'Gini-Koeffizient'
 'grams per decilitre': 'Gramm pro Deziliter'
 'grams per eur, constant (2010)': 'Gramm pro EUR, konstant (2010)'
+'hectare': 'Hektar'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -50,7 +51,6 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
-'hectare': 'Hektar'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -123,6 +123,7 @@
 'type of waste treatment': 'Art der Abfallbehandlung'
 'type of waste water': 'Art des Abwassers'
 'treatment': 'Behandlung'
+'presentation': 'Darstellung'
 
 #Ausprägungen
 'copying or moving of files and folders': 'Kopieren oder Verschieben von Dateien und Ordnern'
@@ -341,7 +342,9 @@
 'population that has neither a bath, nor a shower in their home': 'Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat'
 'population that considers their accommodation too dark': 'Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet'
 'direct transfers of funds': 'Direkte finanzielle Beihilfen'
+'effective marine protected areas': 'Effektive marine Schutzgebiete'
 'rate of overburdening by housing costs': 'Quote der Überbelastung durch Wohnkosten'
+'marine protected areas': 'Marine Schutzgebiete'
 'overcrowding rate': 'Überbelegungsquote'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt'
 'tax breaks': 'Steuervergünstigungen'
@@ -438,8 +441,8 @@
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
-'marine protected areas': 'Marine Schutzgebiete'
-'effective marine protected areas': 'Effektive marine Schutzgebiete'
+'annual values': 'Jährliche Werte'
+'moving four-year average': 'Gleitender Vierjahresdurchschnitt'
 
 #Zeitreihen
 #Z_01021_1
@@ -806,14 +809,6 @@
 'population that has convenient access to public transport (within 500 meters)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
-#Z_11031_1
-'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
-#Z_11031_2
-'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
-#Z_11031_3
-'land consumption rate': 'Flächenverbrauchsrate'
-#Z_11031_4
-'population growth rate': 'Bevölkerungsentwicklung'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
@@ -856,6 +851,8 @@
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
+#Z_12111_1
+'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
 #Z_13022_1
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
@@ -900,6 +897,8 @@
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
+#Z_15041_3
+'mountain regions, covered by effective protected areas': 'Flächen in Gebirgen, die unter effektivem Schutz stehen'
 #Z_15042_1
 '(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
 #Z_15042_2
@@ -943,7 +942,7 @@
 #Z_16013_3
 'victims of criminal offences': 'Opfer von Straftaten'
 #Z_16014_1
-'feeling of (in)security of the population in its neighbourhood (at night)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)'
+'feeling of (in)security of the population in its neighbourhood (after dark)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
 #Z_16021_1
@@ -1284,6 +1283,7 @@ area2: Bereich
 'proportion of msy examined in all managed stocks': 'MSY-untersuchte an allen bewirtschafteten Beständen'
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen'
 'marine areas covered by protected areas': 'Meeresfläche, die unter Schutz steht'
+'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
 'score for the implementation of unclos and ist two implementing agreements': 'Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen'
@@ -1291,12 +1291,15 @@ area2: Bereich
 'forest area as a proportion of total land area': 'Waldfläche im Verhältnis zur gesamten Landfläche'
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen'
 'terrestrial and freshwater areas covered by protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht'
+'terrestrial and freshwater areas covered by effective protected areas': 'Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht'
 'above-ground biomass stock in forest': 'Gesamtbestand der obererdigen Biomasse in Wäldern'
 'forest area located within protected areas': 'Waldfläche in Schutzgebieten'
 'forest area net change rate': 'Jährliche Veränderung der Waldfläche'
 'forest area under an independently verified forest management certification scheme': 'Waldflächen mit einem unabhängig geprüften Wald-Management-System'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen'
 'mountain regions, covered by protected areas': 'Flächen in Gebirgen, die unter Schutz stehen'
+'(a) mountain green cover index': 'a) Index der Grünbedeckung in Gebirgen'
+'(b) proportion of degraded mountain area': 'b) Anteil der degradierten Gebirgsfläche'
 '"red list" index': '"Rote Liste" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Vertragsparteien des Internationalen Saatgutvertrags'
 'parties to the nagoya protocol': 'Vertragsparteien des Nagoya-Protokolls'

@@ -9,6 +9,7 @@
 'gini coefficient': 'Gini coefficient'
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
+'hectare': 'Hectare'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
 '2020 = 100': '2020 = 100'
@@ -50,7 +51,6 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
-'hectare': 'Hectare'
 
 #Categories
 'activities': 'Activities'
@@ -123,6 +123,7 @@
 'type of waste treatment': 'Type of waste treatment'
 'type of waste water': 'Type of waste water'
 'treatment': 'Treatment'
+'presentation': 'Presentation'
 
 #Characteristics
 'copying or moving of files and folders': 'Copying or moving of files and folders'
@@ -341,7 +342,9 @@
 'population that has neither a bath, nor a shower in their home': 'Population that has neither a bath, nor a shower in their home'
 'population that considers their accommodation too dark': 'Population that considers their accommodation too dark'
 'direct transfers of funds': 'Direct transfers of funds'
+'effective marine protected areas': 'Effective marine protected areas'
 'rate of overburdening by housing costs': 'Rate of overburdening by housing costs'
+'marine protected areas': 'Marine protected areas'
 'overcrowding rate': 'Overcrowding rate'
 'population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor': 'Population living in a dwelling with a leaky roof, moisture in the walls, floors, foundation, or rot in the window frames or floor'
 'tax breaks': 'Tax breaks'
@@ -438,8 +441,8 @@
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
-'marine protected areas': 'Marine protected areas'
-'effective marine protected areas': 'Effective marine protected areas'
+'annual values': 'Annual values'
+'moving four-year average': 'Moving four-year average'
 
 #Time series
 #Z_01021_1
@@ -806,14 +809,6 @@
 'population that has convenient access to public transport (within 500 meters)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Population that has convenient access to public transport (within 10 minutes walking distance)'
-#Z_11031_1
-'ratio of land consumption rate to population growth rate (year-to-year)': 'Ratio of land consumption rate to population growth rate (year-to-year)'
-#Z_11031_2
-'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
-#Z_11031_3
-'land consumption rate': 'Land consumption rate'
-#Z_11031_4
-'population growth rate': 'Population growth rate'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
@@ -856,6 +851,8 @@
 'organisations with emas registration': 'Organisations with EMAS registration'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
+#Z_12111_1
+'fossil fuel subsidies': 'Fossil fuel subsidies'
 #Z_13022_1
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 #Z_13041_1
@@ -900,6 +897,8 @@
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 #Z_15041_2
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
+#Z_15041_3
+'mountain regions, covered by effective protected areas': 'Mountain regions, covered by effective protected areas'
 #Z_15042_1
 '(a) mountain green cover index': '(a) Mountain Green Cover Index'
 #Z_15042_2
@@ -943,7 +942,7 @@
 #Z_16013_3
 'victims of criminal offences': 'Victims of criminal offences'
 #Z_16014_1
-'feeling of (in)security of the population in its neighbourhood (at night)': 'Feeling of (in)security of the population in its neighbourhood (at night)'
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Feeling of (in)security of the population in its neighbourhood (after dark)'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Population not living in an area with crime, violence or vandalism'
 #Z_16021_1
@@ -1280,6 +1279,7 @@ area2: Area
 'proportion of msy examined in all managed stocks': 'Proportion of MSY examined in all managed stocks'
 'marine key biodiversity areas (kbas) covered by protected areas': 'Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 'marine areas covered by protected areas': 'Marine areas covered by protected areas'
+'marine areas covered by effective protected areas': 'Marine areas covered by effective protected areas'
 'degree of combatting illegal, unreported and unregulated fishing': 'Degree of combatting illegal, unreported and unregulated fishing'
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Federal budget on research and development in the field of coastal, ocean and polar science, geoscience'
 'score for the implementation of unclos and ist two implementing agreements': 'Score for the implementation of UNCLOS and ist two implementing agreements'
@@ -1287,12 +1287,15 @@ area2: Area
 'forest area as a proportion of total land area': 'Forest area as a proportion of total land area'
 'terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas': 'Terrestrial and freshwater Key Biodiversity Areas (KBAs) covered by protected areas'
 'terrestrial and freshwater areas covered by protected areas': 'Terrestrial and freshwater areas covered by protected areas'
+'terrestrial and freshwater areas covered by effective protected areas': 'Terrestrial and freshwater areas covered by effective protected areas'
 'above-ground biomass stock in forest': 'Above-ground biomass stock in forest'
 'forest area located within protected areas': 'Forest area located within protected areas'
 'forest area net change rate': 'Forest area net change rate'
 'forest area under an independently verified forest management certification scheme': 'Forest area under an independently verified forest management certification scheme'
 'mountain key biodiversity areas (kbas) covered by protected areas': 'Mountain Key Biodiversity Areas (KBAs) covered by protected areas'
 'mountain regions, covered by protected areas': 'Mountain regions, covered by protected areas'
+'(a) mountain green cover index': '(a) Mountain Green Cover Index'
+'(b) proportion of degraded mountain area': '(b) Proportion of degraded mountain area'
 '"red list" index': '"Red List" Index'
 'contracting parties to the international treaty on plant genetic resources for food and agriculture': 'Contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture'
 'parties to the nagoya protocol': 'Parties to the Nagoya Protocol'
