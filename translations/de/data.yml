@@ -28,6 +28,8 @@
 'million tonnes': 'Millionen Tonnen'
 'million tonnes of co₂ equivalents': 'Millionen Tonnen CO₂-Äquivalente'
 'million tonne-kilometres': 'Millionen Tonnenkilometer'
+'million usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
+'million usd, constant prices (2020)': 'Millionen USD, konstante Preise (2020)'
 'million usd, constant prices (2021)': 'Millionen USD, konstante Preise (2021)'
 'no unit': 'Keine Einheit'
 'number': 'Anzahl'
@@ -50,8 +52,6 @@
 'tonnes per capita': 'Tonnen pro Kopf'
 '1,000 tonnes': '1 000 Tonnen'
 'years': 'Jahre'
-'million usd, constant prices (2019)': 'Millionen USD, konstante Preise (2019)'
-'million usd, constant prices (2020)': 'Millionen USD, konstante Preise (2020)'
 
 #Kategorien
 'activities': 'Aktivitäten'
@@ -446,9 +446,9 @@
 'public service': 'Öffentlichen Dienst'
 
 #Zeitreihen
-#Z_01021_1
-'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01021_1a
+'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
+#Z_01022_2
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
@@ -810,6 +810,14 @@
 'population that has convenient access to public transport (within 500 meters)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
+#Z_11031_1
+'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
+#Z_11031_2
+'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
+#Z_11031_3
+'land consumption rate': 'Flächenverbrauchsrate'
+#Z_11031_4
+'population growth rate': 'Bevölkerungsentwicklung'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 #Z_11041_1
@@ -850,8 +858,6 @@
 'material recovery': 'Stoffliche Verwertung'
 #Z_12061_1
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
-#Z_12071_1
-'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
@@ -1072,7 +1078,6 @@ area2: Bereich
 
 #Old stuff that may still be needed
 '1 000': '1 000'
-'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'per 1 000 inhabitants': 'Je 1 000 Einwohner/ -innen'
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
@@ -1339,7 +1344,7 @@ area2: Bereich
 'german bundestag (lower chamber)': 'Deutscher Bundestag'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet'
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
-'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
+'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
 'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
 'proportion of total government revenue to gdp': 'Verhältnis der Gesamteinnahmen des Staates zum BIP'
 'proportion of domestic expenditures funded by national taxes': 'Anteil der Staatsausgaben, die durch Steuern finanziert werden'
@@ -1375,6 +1380,9 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
+'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
+'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
 'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
 'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
 'land consumption rate': 'Flächenverbrauchsrate'

@@ -28,6 +28,8 @@
 'million tonnes': 'Million tonnes'
 'million tonnes of co₂ equivalents': 'Million tonnes of CO₂ equivalents'
 'million tonne-kilometres': 'Million tonne-kilometres'
+'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
+'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
 'no unit': 'No unit'
 'number': 'Number'
@@ -50,8 +52,6 @@
 'tonnes per capita': 'Tonnes per capita'
 '1 000 tonnes': '1 000 tonnes'
 'years': 'Years'
-'million usd, constant prices (2019)': 'Million USD, constant prices (2019)'
-'million usd, constant prices (2020)': 'Million USD, constant prices (2020)'
 
 #Categories
 'activities': 'Activities'
@@ -446,9 +446,9 @@
 'public service': 'Public service'
 
 #Time series
-#Z_01021_1
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01021_1a
+'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
+#Z_01022_2
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
@@ -810,6 +810,14 @@
 'population that has convenient access to public transport (within 500 meters)': 'Population that has convenient access to public transport (within 500 meters)'
 #Z_11021_2
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Population that has convenient access to public transport (within 10 minutes walking distance)'
+#Z_11031_1
+'ratio of land consumption rate to population growth rate': 'Ratio of land consumption rate to population growth rate'
+#Z_11031_2
+'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
+#Z_11031_3
+'land consumption rate': 'Land consumption rate'
+#Z_11031_4
+'population growth rate': 'Population growth rate'
 #Z_11032_1
 'cities with a legally required direct participation of civil society in urban planning and management': 'Cities with a legally required direct participation of civil society in urban planning and management'
 #Z_11041_1
@@ -850,8 +858,6 @@
 'material recovery': 'Material recovery'
 #Z_12061_1
 'organisations with emas registration': 'Organisations with EMAS registration'
-#Z_12071_1
-'sustainable public procurement index': 'Sustainable Public Procurement Index'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
@@ -1072,7 +1078,6 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
-'million usd, constant prices (2018)': 'Million USD, constant prices (2018)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'unemployed persons with unemployment benefits': 'Unemployed persons with unemployment benefits'
 'population covered by health insurance': 'Population covered by health insurance'
@@ -1335,7 +1340,7 @@ area2: Area
 'german bundestag (lower chamber)': 'German Bundestag (lower chamber)'
 'population who considers their experiences with public agencies free of discrimination during the previous two years': 'Population who considers their experiences with public agencies free of discrimination during the previous two years'
 'children under 5 years of age whose births have been registered with a civil authority': 'Children under 5 years of age whose births have been registered with a civil authority'
-'unesco survey on public access to information': 'UNESCO Survey on Public Access to Information'
+'total score from unesco survey on public access to information': 'Total Score from UNESCO Survey on Public Access to Information'
 'membership ganhri (category a)': 'Membership GANHRI (category A)'
 'proportion of total government revenue to gdp': 'Proportion of total government revenue to GDP'
 'proportion of domestic expenditures funded by national taxes': 'Proportion of domestic expenditures funded by national taxes'
@@ -1371,6 +1376,9 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
+'million usd, constant prices (2018)': 'Million USD, constant prices (2018)'
+'unesco survey on public access to information': 'UNESCO Survey on Public Access to Information'
 'ratio of land consumption rate to population growth rate (year-to-year)': 'Ratio of land consumption rate to population growth rate (year-to-year)'
 'proportion of settlement and transport areas to population': 'Proportion of settlement and transport areas to population'
 'land consumption rate': 'Land consumption rate'
