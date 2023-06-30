@@ -373,6 +373,7 @@
 'alcohol and other psychoactive substances (alcohol)': 'Alkohol und andere psychoaktive Substanzen (Alkohol)'
 '3g': '3G'
 'lte': 'LTE'
+'5g': '5G'
 'medium-high-tech': 'Medium-Hightech'
 'high-tech': 'Hightech'
 'section 1: maternity care': 'Abschnitt 1: Mutterschaftsvorsorge'
@@ -448,8 +449,14 @@
 #Zeitreihen
 #Z_01021_1a
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
+#Z_01022_1
+'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 #Z_01022_2
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
+#Z_01022_3
+'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
+#Z_01022_4
+'severely materially and socially deprived persons': 'Unter erheblicher materieller und sozialer Deprivation leidende Personen'
 #Z_01031_1
 'unemployed persons with unemployment benefits': 'Arbeitslose Leistungsbezieher'
 #Z_01031_2
@@ -540,8 +547,6 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'births of young women': 'Geburten junger Frauen'
-#Z_03082_1
-'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
@@ -606,14 +611,6 @@
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
-#Z_05051_1
-'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
-#Z_05051_2
-'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'
-#Z_05051_3
-'proportion of women in länder parliaments': 'Frauenanteil in den Landtagen'
-#Z_05051_4
-'proportion of women in councils of districts and district-free cities': 'Frauenanteil in Kreistagen und Stadträten von kreisfreien Städten'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
@@ -757,7 +754,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und Hightech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
-'households covered by 3g or lte': 'Haushalte, die mit 3G oder LTE abgedeckt sind'
+'households covered by 3g, lte or 5g': 'Haushalte, die mit 3G, LTE oder 5G abgedeckt sind'
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
@@ -828,10 +825,6 @@
 'municipal solid waste regularly collected and treated': 'Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden'
 #Z_11061_2
 'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
-#Z_11062_1
-'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
-#Z_11062_2
-'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1
 'average share of the built-up area of cities that is open space for public use': 'Durchschnittlicher Anteil der bebauten Fläche in Städten, der als Freifläche öffentlich zugänglich ist'
 #Z_11072_1
@@ -866,6 +859,8 @@
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 #Z_13041_1
 'climate finance flows': 'Zahlungen zur Klimafinanzierung'
+#Z_14021_1
+'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
 #Z_14031_1
 'average ph-concentration in the german bight': 'Durchschnittliche pH-Konzentration in der Deutschen Bucht'
 #Z_14041_1
@@ -880,8 +875,12 @@
 'marine areas covered by effective protected areas': 'Meeresfläche, die unter effektivem Schutz steht'
 #Z_14061_1
 'degree of combatting illegal, unreported and unregulated fishing': 'Grad der Bekämpfung illegaler, ungemeldeter und unregulierter Fischerei'
+#Z_14071_1
+'sustainable fisheries as a proportion of gdp': 'Anteil der nachhaltigen Fischerei am BIP'
 #Z_14081_1
 'federal budget on research and development in the field of coastal, ocean and polar science, geoscience': 'Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft'
+#Z_14091_1
+'degree of recognition and protection of access rights for small-scale fisheries': 'Grad der Anerkennung und des Schutzes von Zugangsrechten für Kleinfischerei'
 #Z_14101_1
 'score for the implementation of unclos and ist two implementing agreements': 'Punktzahl der Umsetzung des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) und seiner zwei Zusatzübereinkommen'
 #Z_14101_2
@@ -993,7 +992,7 @@
 #Z_16091_1
 'children under 5 years of age whose births have been registered with a civil authority': 'Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist'
 #Z_16102_1
-'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
+'total score from unesco survey on public access to information': 'Gesamtpunktzahl der UNESCO-Umfrage über den öffentlichen Zugang zu Informationen'
 #Z_16111_1
 'membership ganhri (category a)': 'Mitgliedschaft GANHRI (Kategorie A)'
 #Z_17011_1
@@ -1260,6 +1259,10 @@ area2: Bereich
 'population not having indoor flushing toilet for the sole use of their household': 'Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat'
 'population that has convenient access to public transport (within 500 meters)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)'
 'population that has convenient access to public transport (within 10 minutes walking distance)': 'Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)'
+'ratio of land consumption rate to population growth rate': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
+'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
+'land consumption rate': 'Flächenverbrauchsrate'
+'population growth rate': 'Bevölkerungsentwicklung'
 'cities with a legally required direct participation of civil society in urban planning and management': 'Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management'
 'government expenditure on protection of biodiversity and landscape (cofog division 5.4)': 'Staatsausgaben für Arten- und Landschaftsschutz (COFOG Abteilung 5.4)'
 'government expenditure on cultural services (cofog division 8.2)': 'Staatsausgaben für Kultur (COFOG Abteilung 8.2)'
@@ -1384,9 +1387,6 @@ area2: Bereich
 'million usd, constant prices (2018)': 'Millionen USD, konstante Preise (2018)'
 'unesco survey on public access to information': 'UNESCO-Umfrage über den allgemeinen Zugang zu Informationen'
 'ratio of land consumption rate to population growth rate (year-to-year)': 'Verhältnis der Flächenverbrauchsrate zur Bevölkerungsentwicklung'
-'proportion of settlement and transport areas to population': 'Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung'
-'land consumption rate': 'Flächenverbrauchsrate'
-'population growth rate': 'Bevölkerungsentwicklung'
 'feeling of (in)security of the population in its neighbourhood (at night)': '(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nachts)'
 'severely materially deprived persons': 'Unter erheblicher materieller Deprivation leidende Personen'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
