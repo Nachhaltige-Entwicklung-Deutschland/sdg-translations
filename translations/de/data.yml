@@ -71,11 +71,11 @@
 'education level': 'Ausbildungsgrad'
 'ownership': 'Eigentumsverhältnis'
 'facilities': 'Ausstattung'
-'region': 'Region'
+'länder': 'Bundesland'
 'feelings of insecurity': 'Unsicherheitsgefühl'
 'frequency': 'Häufigkeit'
 'country of citizenship': 'Herkunftsland'
-'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
+'share of household expenditure spent on health care': 'Anteil der Haushaltsausgaben, der für Gesundheit aufgewendet wird'
 'income quintile': 'Einkommensquintil'
 'indicator': 'Indikator'
 'items': 'Probleme'
@@ -91,6 +91,7 @@
 'pathogens and resistance': 'Erreger und Resistenz'
 'percentiles': 'Perzentile'
 'fine particulate matter': 'Feinstaub'
+'political institutions': 'Politische Institutionen'
 'population': 'Bevölkerung'
 'product type': 'Produkttyp'
 'level of proficiency': 'Leistungsniveau'
@@ -146,6 +147,7 @@
 '15.5 years': '15,5 Jahre'
 '15 to under 20 years': '15 bis unter 20 Jahre'
 '15 to under 25 years': '15 bis unter 25 Jahre'
+'15 to under 65 years': '15 bis unter 65 Jahre'
 '15 years and older': '15 Jahre und älter'
 '16 years': '16 Jahre'
 '16.5 years': '16,5 Jahre'
@@ -164,6 +166,7 @@
 '21 to under 60 years': '21 bis unter 60 Jahre'
 '25 to under 30 years': '25 bis unter 30 Jahre'
 '25 to under 45 years': '25 bis unter 45 Jahre'
+'25 to under 55 years': '25 bis unter 55 Jahre'
 '25 to under 65 years': '25 bis unter 65 Jahre'
 '25 to under 75 years': '25 bis unter 75 Jahre'
 '25 years and older': '25 Jahre und älter'
@@ -274,8 +277,10 @@
 'fourth': 'Viertes Quintil'
 'richest': 'Reichstes Quintil'
 'sdg indicator 4.2.2': 'SDG-Indikator 4.2.2'
-'sdg-indicator 4.3.1 (adults)': 'SDG-Indikator 4.3.1 (Erwachsene)'
-'sdg-indicator 4.3.1 (youths)': 'SDG-Indikator 4.3.1 (Jugendliche)'
+'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indikator 4.3.1 (15 bis unter 25 Jahre)'
+'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indikator 4.3.1 (15 bis unter 65 Jahre)'
+'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indikator 4.3.1 (25 bis unter 55 Jahre)'
+'sdg-indicator 4.3.1 (55 to under 65 years)': 'SDG-Indikator 4.3.1 (55 bis unter 65 Jahre)'
 'total (one to four items)': 'Insgesamt (1 bis 4 Probleme)'
 'population considering their dwelling as too dark': 'Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet'
 'population living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt'
@@ -322,6 +327,10 @@
 'leasehold': 'Pacht'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂,₅'
+'bundesrat (upper chamber)': 'Bundesrat'
+'bundestag (lower chamber)': 'Deutscher Bundestag'
+'councils of districts and district-free cities': 'Kreistage und Stadträte von kreisfreien Städten'
+'länder parliaments': 'Landtage'
 'poorest 40 percent of the population': 'Ärmsten 40 Prozent der Bevölkerung'
 'population total': 'Gesamtbevölkerung'
 'minimum requirement level i': 'Mindestniveau Stufe I'
@@ -440,8 +449,6 @@
 'total wastewater produced from public and non-public disposal': 'Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung'
 'treated wastewater': 'Behandeltes Abwasser'
 'untreated wastewater': 'Unbehandeltes Abwasser'
-'bundesrat (upper chamber)': 'Bundesrat'
-'bundestag (lower chamber)': 'Deutscher Bundestag'
 'judiciary': 'Justiz'
 'working age population': 'Bevölkerung im erwerbsfähigen Alter'
 'public service': 'Öffentlichen Dienst'
@@ -547,6 +554,8 @@
 'mortality due to road traffic accidents': 'Sterblichkeit infolge von Straßenverkehrsunfällen'
 #Z_03072_1
 'births of young women': 'Geburten junger Frauen'
+#Z_03082_1
+'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-Haushalte mit hohen Ausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren'
 #Z_03091_2
@@ -584,7 +593,7 @@
 #Z_04022_1
 'children in child day care at the age of 5': 'Kinder in Kindertagesbetreuung im Alter von 5 Jahren'
 #Z_04031_1
-'participation rate in formal and non-formal education and training in the previous 12 months': 'Teilnahmequote in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten'
+'participation in formal and non-formal education and training in the previous 12 months': 'Teilnahme an formaler und non-formaler Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
 'share of population with computer-related activities': 'Anteil der Bevölkerung mit computerbezogenen Aktivitäten'
 #Z_04051_1
@@ -611,6 +620,12 @@
 'female victims of genital mutilation': 'Weibliche Opfer von Genitalverstümmelung'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit'
+#Z_05051_3
+'women in a) national parliaments': 'Frauen in a) nationalen Parlamenten'
+#Z_05051_4
+'women in b) local governments': 'Frauen in b) Gemeinden'
+#Z_05051_6
+'proportion of women in national parliaments and local governments': 'Frauenanteil in nationalen Parlamenten und Gemeinden'
 #Z_05052_1
 'proportion of women in managerial positions': 'Frauenanteil in Führungspositionen'
 #Z_05062_1
@@ -754,7 +769,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe'
 #Z_09081_1
-'households covered by 3g, lte or 5g': 'Haushalte, die mit 3G, LTE oder 5G abgedeckt sind'
+'households covered by a mobile network': 'Haushalte, die durch ein Mobilfunknetz abgedeckt sind'
 #Z_10011_3
 'growth rate of per capita income': 'Wachstumsrate des Pro-Kopf-Einkommens'
 #Z_10021_1
@@ -787,8 +802,6 @@
 'state of migration policies': 'Status der Migrationspolitik'
 #Z_10073_1
 'persons who died during migration': 'Personen, die während der Migration gestorben sind'
-#Z_10074_1
-'proportion of people seeking protection with granted protection status to total population': 'Anteil der Schutzsuchenden mit anerkanntem Schutzstatus an der gesamten Bevölkerung'
 #Z_10091_1
 'total official and private resource flows for development (net disbursements)': 'Gesamte öffentliche und private Leistungen für Entwicklung (Nettoausgaben)'
 #Z_11011_06
@@ -851,6 +864,8 @@
 'material recovery': 'Stoffliche Verwertung'
 #Z_12061_1
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
+#Z_12071_1
+'sustainable public procurement index': 'Index der nachhaltigen öffentlichen Beschaffung'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
 #Z_12111_1
@@ -1081,6 +1096,10 @@ area2: Bereich
 'per 1 000 women of same age': 'Je 1 000 Frauen gleichen Alters'
 'per 1 000 live births': 'Je 1 000 Lebendgeborene'
 '1 000 tonnes': '1 000 Tonnen'
+'region': 'Region'
+'household expenditures on health': 'Haushaltsausgaben für Gesundheit'
+'sdg-indicator 4.3.1 (adults)': 'SDG-Indikator 4.3.1 (Erwachsene)'
+'sdg-indicator 4.3.1 (youths)': 'SDG-Indikator 4.3.1 (Jugendliche)'
 'at-risk-of-poverty rate': 'Armutsgefährdungsquote'
 'persons at risk of poverty or social exclusion': 'Von Armut oder sozialer Ausgrenzung bedrohte Personen'
 'persons living in households with very low work intensity': 'In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen'
@@ -1280,7 +1299,7 @@ area2: Bereich
 'material recovery': 'Stoffliche Verwertung'
 'organisations with emas registration': 'Organisationen mit EMAS-Registrierung'
 'standard accounting tools to monitor sustainability in tourism': 'Standardisierte Gesamtrechnungssysteme zur Beobachtung der Nachhaltigkeit im Tourismus'
-'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
+'tax breaks and direct transfers of funds': 'Steuervergünstigungen und direkte finanzielle Beihilfen'
 'total greenhouse gas emissions': 'Treibhausgasemissionen insgesamt'
 'climate finance flows': 'Zahlungen zur Klimafinanzierung'
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Vorhandensein von Raumordnungsplänen für die ausschließliche Wirtschaftszone (AWZ) und einem integrierten Küstenzonenmanagement (IKMZ)'
@@ -1382,6 +1401,7 @@ area2: Bereich
 'at least one population and housing census in the last 10 years conducted': 'Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren'
 'birth registration': 'Registrierung der Geburten'
 'death registration': 'Registrierung der Sterbefälle'
+'fossil fuel subsidies': 'Subventionen auf fossile Brennstoffe'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit im Verhältnis zu den gesamten Haushaltsausgaben oder -einkommen'
 'proportion of women in the german bundestag (lower chamber)': 'Frauenanteil im Deutschen Bundestag'
 'proportion of women in the bundesrat (upper chamber)': 'Frauenanteil im Bundesrat'

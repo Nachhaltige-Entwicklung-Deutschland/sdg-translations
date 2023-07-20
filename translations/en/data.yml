@@ -71,11 +71,11 @@
 'education level': 'Education level'
 'ownership': 'Ownership'
 'facilities': 'Facilities'
-'region': 'Region'
+'länder': 'Länder'
 'feelings of insecurity': 'Feelings of insecurity'
 'frequency': 'Frequency'
 'country of citizenship': 'Country of citizenship'
-'household expenditures on health': 'Household expenditures on health'
+'share of household expenditure spent on health care': 'Share of household expenditure spent on health care'
 'income quintile': 'Income quintile'
 'indicator': 'Indicator'
 'items': 'Items'
@@ -91,6 +91,7 @@
 'pathogens and resistance': 'Pathogens and resistance'
 'percentiles': 'Percentiles'
 'fine particulate matter': 'Fine particulate matter'
+'political institutions': 'Political institutions'
 'population': 'Population'
 'product type': 'Product type'
 'level of proficiency': 'Level of proficiency'
@@ -146,6 +147,7 @@
 '15.5 years': '15.5 years'
 '15 to under 20 years': '15 to under 20 years'
 '15 to under 25 years': '15 to under 25 years'
+'15 to under 65 years': '15 to under 65 years'
 '15 years and older': '15 years and older'
 '16 years': '16 years'
 '16.5 years': '16.5 years'
@@ -164,6 +166,7 @@
 '21 to under 60 years': '21 to under 60 years'
 '25 to under 30 years': '25 to under 30 years'
 '25 to under 45 years': '25 to under 45 years'
+'25 to under 55 years': '25 to under 55 years'
 '25 to under 65 years': '25 to under 65 years'
 '25 to under 75 years': '25 to under 75 years'
 '25 years and older': '25 years and older'
@@ -274,8 +277,10 @@
 'fourth': 'Fourth'
 'richest': 'Richest'
 'sdg indicator 4.2.2': 'SDG indicator 4.2.2'
-'sdg-indicator 4.3.1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
-'sdg-indicator 4.3.1 (youths)': 'SDG-Indicator 4.3.1 (Youths)'
+'sdg-indicator 4.3.1 (15 to under 25 years)': 'SDG-Indicator 4.3.1 (15 to under 25 years)'
+'sdg-indicator 4.3.1 (15 to under 65 years)': 'SDG-Indicator 4.3.1 (15 to under 65 years)'
+'sdg-indicator 4.3.1 (25 to under 55 years)': 'SDG-Indicator 4.3.1 (25 to under 55 years)'
+'sdg-indicator 4.3.1 (55 to under 65 years)': 'SDG-Indicator 4.3.1 (55 to under 65 years)'
 'total (one to four items)': 'Total (one to four items)'
 'population considering their dwelling as too dark': 'Population considering their dwelling as too dark'
 'population living in an area with crime, violence or vandalism': 'Population living in an area with crime, violence or vandalism'
@@ -322,6 +327,10 @@
 'leasehold': 'Leasehold'
 'pm10': 'PM₁₀'
 'pm2.5': 'PM₂.₅'
+'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
+'bundestag (lower chamber)': 'Bundestag (Lower chamber)'
+'councils of districts and district-free cities': 'Councils of districts and district-free cities'
+'länder parliaments': 'Länder parliaments'
 'poorest 40 percent of the population': 'Poorest 40 percent of the population'
 'population total': 'Population total'
 'minimum requirement level i': 'Minimum requirement level I'
@@ -440,8 +449,6 @@
 'total wastewater produced from public and non-public disposal': 'Total wastewater produced from public and non-public disposal'
 'treated wastewater': 'Treated wastewater'
 'untreated wastewater': 'Untreated wastewater'
-'bundesrat (upper chamber)': 'Bundesrat (Upper chamber)'
-'bundestag (lower chamber)': 'Bundestag (Lower chamber)'
 'judiciary': 'Judiciary'
 'working age population': 'Working age population'
 'public service': 'Public service'
@@ -547,6 +554,8 @@
 'mortality due to road traffic accidents': 'Mortality due to road traffic accidents'
 #Z_03072_1
 'births of young women': 'Births of young women'
+#Z_03082_1
+'gkv-households with high expenditure on health in relation to total household expenditure': 'GKV-households with high expenditure on health in relation to total household expenditure'
 #Z_03091_1
 'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03091_2
@@ -584,7 +593,7 @@
 #Z_04022_1
 'children in child day care at the age of 5': 'Children in child day care at the age of 5'
 #Z_04031_1
-'participation rate in formal and non-formal education and training in the previous 12 months': 'Participation rate in formal and non-formal education and training in the previous 12 months'
+'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
 #Z_04041_1
 'share of population with computer-related activities': 'Share of population with computer-related activities'
 #Z_04051_1
@@ -611,6 +620,12 @@
 'female victims of genital mutilation': 'Female victims of genital mutilation'
 #Z_05041_1
 'proportion of time spent on unpaid domestic and care work': 'Proportion of time spent on unpaid domestic and care work'
+#Z_05051_3
+'women in a) national parliaments': 'Women in a) national parliaments'
+#Z_05051_4
+'women in b) local governments': 'Women in b) local governments'
+#Z_05051_6
+'proportion of women in national parliaments and local governments': 'Proportion of women in national parliaments and local governments'
 #Z_05052_1
 'proportion of women in managerial positions': 'Proportion of women in managerial positions'
 #Z_05062_1
@@ -754,7 +769,7 @@
 #Z_09071_1
 'gross value added of medium- and high-tech industries to total manufacturing value added': 'Gross value added of medium- and high-tech industries to total manufacturing value added'
 #Z_09081_1
-'households covered by 3g, lte or 5g': 'Households covered by 3G, LTE or 5G'
+'households covered by a mobile network': 'Households covered by a mobile network'
 #Z_10011_3
 'growth rate of per capita income': 'Growth rate of per capita income'
 #Z_10021_1
@@ -787,8 +802,6 @@
 'state of migration policies': 'State of migration policies'
 #Z_10073_1
 'persons who died during migration': 'Persons who died during migration'
-#Z_10074_1
-'proportion of people seeking protection with granted protection status to total population': 'Proportion of people seeking protection with granted protection status to total population'
 #Z_10091_1
 'total official and private resource flows for development (net disbursements)': 'Total official and private resource flows for development (net disbursements)'
 #Z_11011_06
@@ -851,6 +864,8 @@
 'material recovery': 'Material recovery'
 #Z_12061_1
 'organisations with emas registration': 'Organisations with EMAS registration'
+#Z_12071_1
+'sustainable public procurement index': 'Sustainable Public Procurement Index'
 #Z_12101_1
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
 #Z_12111_1
@@ -1077,6 +1092,10 @@ age of victim: Age of victims
 area2: Area
 
 #Old stuff that may still be needed
+'region': 'Region'
+'household expenditures on health': 'Household expenditures on health'
+'sdg-indicator 4.3.1 (adults)': 'SDG-Indicator 4.3.1 (Adults)'
+'sdg-indicator 4.3.1 (youths)': 'SDG-Indicator 4.3.1 (Youths)'
 'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
 'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
 'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
@@ -1276,7 +1295,7 @@ area2: Area
 'material recovery': 'Material recovery'
 'organisations with emas registration': 'Organisations with EMAS registration'
 'standard accounting tools to monitor sustainability in tourism': 'Standard accounting tools to monitor sustainability in tourism'
-'fossil fuel subsidies': 'Fossil fuel subsidies'
+'tax breaks and direct transfers of funds': 'Tax breaks and direct transfers of funds'
 'total greenhouse gas emissions': 'Total greenhouse gas emissions'
 'climate finance flows': 'Climate finance flows'
 'existence of maritime spatial plans for the exclusive economic zone (eez) and an integrated coastal zone management (iczm)': 'Existence of maritime spatial plans for the Exclusive Economic Zone (EEZ) and an integrated coastal zone management (ICZM)'
@@ -1378,6 +1397,7 @@ area2: Area
 'at least one population and housing census in the last 10 years conducted': 'At least one population and housing census in the last 10 years conducted'
 'birth registration': 'Birth registration'
 'death registration': 'Death registration'
+'fossil fuel subsidies': 'Fossil fuel subsidies'
 'proportion of population with large household expenditures on health as a share of total household expenditure or income': 'Proportion of population with large household expenditures on health as a share of total household expenditure or income'
 'proportion of women in the german bundestag (lower chamber)': 'Proportion of women in the German Bundestag (lower chamber)'
 'proportion of women in the bundesrat (upper chamber)': 'Proportion of women in the Bundesrat (upper chamber)'
