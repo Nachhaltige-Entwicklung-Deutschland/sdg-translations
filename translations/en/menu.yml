@@ -54,7 +54,7 @@ report_data14path: https://dns-indikatoren.de/assets/publications/reports/en/dat
 report_data12path: https://dns-indikatoren.de/assets/publications/reports/en/daten2012.pdf
 report_data10path: https://dns-indikatoren.de/assets/publications/reports/en/daten2010.pdf
 report_data08path: https://dns-indikatoren.de/assets/publications/reports/en/daten2008.pdf
-sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
+sdglogo:  <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG%20Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
 special_evel: Special evaluation for selected indicators by territorial status
 special_evel_path: https://dns-indikatoren.de/assets/publications/DNS_Sonderauswertung_2021.pdf
 status: Methodology
