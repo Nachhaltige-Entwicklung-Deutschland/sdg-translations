@@ -1,0 +1,46 @@
+assessment_stoped: Assessment suspended
+assessment_later: Assessment will be carried out later
+assessment_ended: Assessment ended
+expired: abgelaufen
+indicator: Indicator
+multi_target_1: Target 1
+multi_target_2: Target 2
+multi_target_3: Target 3
+multi_target_4: Target 4
+multi_target_1_old: Old target 1
+multi_target_2_old: Old target 2
+multi_target_3_old: Old target 3
+multi_target_4_old: Old target 4
+multi_target_1_new: New target 1
+multi_target_2_new: New target 2
+multi_target_3_new: New target 3
+multi_target_4_new: New target 4
+new_pretext: after changing target in
+no_assessment: No assessment possible
+old_pretext: valid until
+status: Status
+single_target: Target
+single_target_old: Old target
+single_target_new: New target
+target_trans: Target
+year: Year
+# Neu
+normal_target: Target
+new_target: Target
+old_target: Target
+overview_blurb: 'In the overview table, the ratings of the indicators are given according to the status of the previous years. This shows whether the weather symbol for an indicator has been stable or rather volatile in the past years.<br>
+  The basis for the assessments presented here is the data as published in the <a href="https://dns-indikatoren.de/en/publications_reports/">2022 indicator report</a>. The data on this platform is updated regularly, so that more current data may be available online than published in the indicator report.<br><br>
+  <b>Indicators with multiple targets</b><br>
+  For indicators with multiple targets to be met over time (e.g., indicator 7.1.b), the ratings for meeting each target are provided. The same applies to indicators with multiple targets to be met simultaneously (e.g., indicator 10.1).<br><br>
+  <b>Indicators with target changes</b><br>
+  In addition to the currently valid goals of the federal government, the goals are presented that were valid in the past but have been changed in the meantime.<br><br>
+  In grayed out form, all weather icons are displayed for destinations that are currently not valid, because<br>
+  • the target has been changed in the past,<br>
+  • a goal closer in time must be fulfilled first, or<br>
+  • the target is only one of several targets to be fulfilled at the same time.<br><br>'
+note: Note
+
+Keine: No assess&shy;ment possible
+Ende: Assess&shy;ment endet
+Später: Assess&shy;ment strating later
+Bewertung augesetzt: Assess&shy;ment suspended

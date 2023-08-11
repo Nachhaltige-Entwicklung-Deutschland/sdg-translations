@@ -1,0 +1,46 @@
+assessment_stoped: Bewertung ausgesetzt
+assessment_later: Bewertung fällt später an
+assessment_ended: Bewertung endet
+expired: abgelaufen
+indicator: Indikator
+multi_target_1_old: Ates Ziel 1
+multi_target_2_old: Ates Ziel 2
+multi_target_3_old: Ates Ziel 3
+multi_target_4_old: Ates Ziel 4
+multi_target_1_new: Neues Ziel 1
+multi_target_2_new: Neues Ziel 2
+multi_target_3_new: Neues Ziel 3
+multi_target_4_new: Neues Ziel 4
+multi_target_1: Ziel 1
+multi_target_2: Ziel 2
+multi_target_3: Ziel 3
+multi_target_4: Ziel 4
+new_pretext: nach Zielanpassung in
+no_assessment: Keine Bewertung möglich
+old_pretext: gültig bis
+single_target: Ziel
+single_target_old: Altes Ziel
+single_target_new: Neues Ziel
+status: Bewertung
+target_trans: Ziel
+year: Jahr
+# Neu
+normal_target: Ziel
+new_target: Ziel
+old_target: Ziel
+overview_blurb: 'In der Übersichtstabelle sind die Bewertungen der Indikatoren nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war.<br>
+  Grundlage der dargestellten Bewertungen sind die Daten des <a href="https://dns-indikatoren.de/publications_reports/">Indikatorenberichts 2022</a> mit Datenstand 31.10.2022. Auf der Online-Plattform können aktuellere Daten (als im Indikatorenbericht) verfügbar sein, da die Daten regelmäßig aktualisiert werden.<br><br>
+  <b>Indikatoren mit mehreren Zielen</b><br>
+  Für Indikatoren mit mehreren Zielen, die im Zeitverlauf erfüllt werden sollen (<abbr title="zum Beispiel">z. B.</abbr> Indikator <a href="https://dns-indikatoren.de/status_summary/#7.1.b Primärenergieverbrauch">7.1.b</a>), sind die Bewertungen zur Erfüllung jedes einzelnen Ziels angegeben. Gleiches gilt für Indikatoren mit mehreren Zielen, die zugleich erfüllt werden sollen (<abbr title="zum Beispiel">z. B.</abbr> Indikator <a href="https://dns-indikatoren.de/status_summary/#10.1 Ausländische Schulabsolventinnen und Schulabsolventen">10.1</a>).<br><br>
+  <b>Indikatoren mit Zielanpassungen</b><br>
+  Neben den aktuell gültigen Zielen der Bundesregierung werden die Ziele dargestellt, die in der Vergangenheit galten, in der Zwischenzeit jedoch angepasst worden sind.<br><br>
+  In ausgegrauter Form werden alle Wettersymbole für Ziele dargestellt, die aktuell keine Gültigkeit haben, weil <br>
+    • das Ziel in der Vergangenheit geändert wurde,<br>
+    • zunächst ein zeitlich näher gelegenes Ziel erfüllt werden muss, oder<br>
+    • das Ziel nur eines von mehreren, zeitgleich zu erfüllenden Zielen ist.<br><br>'
+note: Anmerkung
+
+Keine: Keine Bewer&shy;tung möglich
+Ende: Bewer&shy;tung endet
+Später: Bewer&shy;tung noch nicht möglich
+Bewertung augesetzt: Bewer&shy;tung augesetzt

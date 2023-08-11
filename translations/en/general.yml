@@ -1,3 +1,5 @@
+alert: 'You are leaving our website!\nThe link leads to the website of '
+alert_general: 'You are leaving our website!\nThe link leads to an external website.'
 indicator: Indicator
 indicators: Indicators
 indicator_cap: Indicator
@@ -9,41 +11,45 @@ one_goal: one goal
 found_in_goals: goals
 goal: Goal
 goals: Goals
-seventeen_goals: 17 Goals
 sdg: Sustainable Development Goals
 home: Home
 loading: Loading search results
 opens_new_window: opens in a new window
 target: Target
 targets: Targets
-twitter: <i class="fa fa-twitter" aria-hidden="true"></i>@destatis</a>
 dns_target: Range of indicators and postulates
 dns: Sustainable development in Germany
 link_sdg: To the page of the global indicators
 link_dns: To the page of the national indicators
-link_sdg_indicator: Go to the page of the corresponding SDG indicator
-link_sdg_goal: Go to the page of the corresponding SDG Goal
+link_sdg_indicator: Corresponding global indicator
+link_sdg_indicator_short: Global indicator
+link_sdg_goal: Corresponding SDG Goal
+link_dns_goal: Corresponding DNS Goal
 target_link_sdg: Global indicators on
 target_link_dns: National indicators on
+twitter: <i class="fa fa-twitter" aria-hidden="true"></i>@destatis</a>
 global: "- Global"
 national: "- National"
 indicator_link_sdg: "Related global indicator:"
 indicator_link_dns: "Related national indicator:"
-indicator_link_dns_short: "National:"
 next_indicator: Next indicator
 prev_indicator: Previous indicator
 next_goal: Next goal
 prev_goal: Previous goal
 title: German Indicators For The Sustainable Development Goals
-title_dns: Indicators on the German Sustainability Strategy
+title_dns: Indicators on the German Sustainable Development Strategy
 meta: Current status of the national indicators for the 17 Sustainable Development Goals (SDGs) in Germany with a publicly available data basis
 meta_goal: Current status of the national indicators for Sustainable Development Goal
 meta_indicator: Data for Germany for SDG indicator
-no_indicator: Currently, there is no indicator available for this target.
 section: Section
 postulate: Postulate
-built_using_open_sdg: Site built using Open SDG
+seventeen_goals: 17 Goals
+built_using_open_sdg: Built using Open SDG
 page: Page
 pages: Pages
-
-tabTitle: German Indicators For The UN Sustainable Development Goals
+dialog_target_link_1: Visit the indicators of goal
+dialog_target_link_2: of the <u>dialogue version</u> of the German Sustainable Development Strategy
+dialog_front: Visit the indicators of the <u>dialogue version</u> of the German Sustainable Development Strategy
+dialog_indikator_1: Visit the indicator
+dialog_indikator_2: of the <u>dialogue version</u> of the German Sustainable Development Strategy
+year: Year

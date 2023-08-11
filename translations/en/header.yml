@@ -1,5 +1,6 @@
 skip_link: Skip to main content
-alpha: Beta
+alpha: Alpha
+beta: Beta
 disclaimer: This is a development website. We welcome your
   <a href="mailto:%email_contacts.suggestions">feedback</a>.
 internet_explorer_message_title: This internet browser is no longer supported

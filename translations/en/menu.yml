@@ -1,45 +1,68 @@
-menu: Menu
-reporting_status: Data&nbspavailability
-about: About us
-about_short: About us
-about_platform: SDG&nbsponline&nbspplatform
-about_navigation: Navigation
-about_guidance: Technical instructions
-about_this_site: About&nbspthis&nbspsite
+about: About
+about_this_site: DNS&nbsponline&nbspplatform
 agenda: 2030 Agenda
-canada: Canada
-montenegro: Montenegro
-platform: platform
-publications: Publications
-guidance: Guidance
-linkToDnsPlatform: <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/DNS Wheel.png" title="To the page of the national indicators" alt="Link DNS" style="width:24px;height:24px;"/>
-faq: FAQs
-domrepcongo: Democratic Republic of the Congo
-facts: Useful information
-facts_agenda: 2030 Agenda
-facts_dns: German Sustainable Development Strategy (DNS)
 contact_us: Contact us
 cookies: Cookies
+community: Joint action
+facts_agenda: 2030 Agenda
+facts_sdg: SDG
+faq: FAQ
+facts: Useful information
+feasibility_study: Feasibility study for the presentation of the indicators
+feasibility_study_path: https://dns-indikatoren.de/assets/publications/machbarkeitsstudie.pd
+government_reports: Federal Government Reports
+government_reports_path: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/berichte-und-reden-nachhaltigkeit/berichte-der-bundesregierung-418550
+guidance: Technical&nbspinstructions
 imprint: Legal Notice
 indicator_status: Indicator status
-other_countries: Open SDG platforms of other countries
+menu: Menu
+navigation: Navigation
+other_publications: Other Publications
+pathtosdg: "https://www.sdg-indicators.de"
+platform: platform
+publications: Publications
+reporting_status: Reporting Status
+reports: Indicator reports
+report21: Indicator report 2021
+report18: Indicator report 2018
+report16: Indicator report 2016
+report14: Indicator report 2014
+report12: Indicator report 2012
+report10: Indicator report 2010
+report08: Indicator report 2008
+report06: Indicator report 2006
+report21path: https://dns-indikatoren.de/assets/publications/reports/en/2021.pdf
+report18path: https://dns-indikatoren.de/assets/publications/reports/en/2018.pdf
+report16path: https://dns-indikatoren.de/assets/publications/reports/en/2016.pdf
+report14path: https://dns-indikatoren.de/assets/publications/reports/en/2014.pdf
+report12path: https://dns-indikatoren.de/assets/publications/reports/en/2012.pdf
+report10path: https://dns-indikatoren.de/assets/publications/reports/en/2010.pdf
+report08path: https://dns-indikatoren.de/assets/publications/reports/en/2008.pdf
+report06path: https://dns-indikatoren.de/assets/publications/reports/en/2006.pdf
+report_data: Data on the indicator report
+report_data21: Data on the Indicator report 2021
+report_data18: Data on the Indicator report 2018
+report_data16: Data on the Indicator report 2016
+report_data14: Data on the Indicator report 2014
+report_data12: Data on the Indicator report 2012
+report_data10: Data on the Indicator report 2010
+report_data08: Data on the Indicator report 2008
+report_data21path: https://dns-indikatoren.de/assets/publications/reports/en/daten2021.pdf
+report_data18path: https://dns-indikatoren.de/assets/publications/reports/en/daten2018.pdf
+report_data16path: https://dns-indikatoren.de/assets/publications/reports/en/daten2016.pdf
+report_data14path: https://dns-indikatoren.de/assets/publications/reports/en/daten2014.pdf
+report_data12path: https://dns-indikatoren.de/assets/publications/reports/en/daten2012.pdf
+report_data10path: https://dns-indikatoren.de/assets/publications/reports/en/daten2010.pdf
+report_data08path: https://dns-indikatoren.de/assets/publications/reports/en/daten2008.pdf
+sdglogo:  <img class="link_btn" src="https://g205sdgs.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
+special_evel: Special evaluation for selected indicators by territorial status
+special_evel_path: https://dns-indikatoren.de/assets/publications/DNS_Sonderauswertung_2021.pdf
 status: Methodology
 status_summary: Summary
 status_title: Evaluation
-contactPath: "https://www.destatis.de/EN/Service/Contact/_Contact.html"
+sustainable_development_strategy: Sustainable Development Strategy
+sustainable_development_strategy_laender: Länder
+sustainable_development_strategy_germany: Germany
 twitterPath: "https://twitter.com/destatis?lang=en"
-turkey: Turkey
-international: International
-armenia: Armenia
-bosnia_and_herzegovina: Bosnia and Herzegovina
-canada: Canada
-faroe: Faroe Islands
-ghana: Ghana
-iceland: Iceland
-kyrgyzstan: Kyrgyzstan
-lao: Lao PDR
-rwanda: Rwanda
-south_korea: South korea
-ukrain: Ukraine
-united_kingdom: United Kingdom
-unites_states: United States
+wista: WISTA - Economy and Statistics, 1/2017
+wista_path: https://dns-indikatoren.de/assets/publications/wista2017_01.pdf
