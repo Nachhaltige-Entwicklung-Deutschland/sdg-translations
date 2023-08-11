@@ -1,5 +1,1 @@
-
-
-
-
-# sdg-translations
+# DNS-translations
