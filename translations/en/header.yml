@@ -1,11 +1,75 @@
-skip_link: Skip to main content
-alpha: Alpha
-beta: Beta
-disclaimer: This is a development website. We welcome your
-  <a href="mailto:%email_contacts.suggestions">feedback</a>.
-internet_explorer_message_title: This internet browser is no longer supported
-internet_explorer_message: We have detected that you are using Internet Explorer to visit this website.
-  Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports
-  any version of Internet Explorer. Some features on this site will not work. You should use a modern
-  browser such as Edge, Chrome, Firefox, or Safari.
-tag_line: 17 Goals to Transform our World
+add_info: Additional time series
+additional_information_blurb: The time series below consists of ranges of numbers instead of individual values.
+  For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values,
+  therefore the time series is presented here in PDF format.
+apply: OK
+cancel: Cancel
+change_breakdowns: Change breakdowns
+counties: Counties
+select_all: Select all
+clear_all: Clear all
+clear_selections: Clear selections
+copyright: Copyright
+variable_hint: Available when '%field' is selected
+no_data_hint: No options available because of filters above
+footnote: Note
+footnotes: Notes
+specification: Specification
+data_not_available:  No data available for this selection of sub-categories and units
+details: Details
+download_geojson_title: Download geojson file
+download_geojson: Save map as geojson
+download_headline: Download Headline CSV
+download_headline_title: Download headline data as CSV
+download_source: Download Source CSV
+download_source_title: Download source data as CSV
+download_chart: Download Chart CSV
+download_chart_image: Download Chart Image
+download_table: Download Table CSV
+download_csv: Download CSV
+download_csv_title: Download as CSV
+source: Data source
+sources: Data sources
+geographical_area: Geographical Area
+unit_of_measurement: Unit of measurement
+unit: Unit
+copyright: Copyright
+units_type: Units type
+dataset_size_warning: There are too many datasets to show on the chart. Not all
+  will be shown until you remove some selections.
+view_indicator_list: View this goal's indicator overview
+sub_categories: Selection
+sub_categories_dns: Selection
+series: Time series
+series_help: Select here what should be displayed in the chart and in the table.
+series_help_dns: Select here what should be displayed in the chart and in the table.
+sex: Sex
+special_eval: Special evaluation based on data from the following
+special_eval_plural: Special evaluation based on data from the following
+legend_help: Click on the legend to remove individual lines from the chart.
+total: Total
+chart: Chart
+table: Table
+map: Map
+laender: Länder
+loading_map: Loading map
+national_metadata: National Metadata
+metadata: Metadata
+dns_metadata_blurb: This table includes additional information to the above visualized indicators, <abbr title="that is to say (id est)">i.e.</abbr> a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
+national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines
+  for the calculation of the indicator - so-called global metadata.<br><br>Displayed here are the national time series that fit the global metadata best as well as their
+  comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.
+global_metadata: Global Metadata
+global_metadata_blurb: This table provides information on metadata for SDG
+  indicators.
+  <a href="https://unstats.un.org/sdgs/metadata/">Global metadata</a>
+  is provided by the UN Statistics Division.
+history: Status overview
+history_blurb: The synoptic table provides information about the evaluation of the indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <b>(Evaluation of the <a href="https://dns-indikatoren.de/en/publications_reports/">Indicator Report 2022 </a>)</b>
+edit: Edit
+edit_data: Edit Data
+edit_metadata: Edit Metadata
+timeseries: Time series
+time series: Time series
+no_selection: No disaggregations are available for this indicator
+contentAndProgress: Content and progress
