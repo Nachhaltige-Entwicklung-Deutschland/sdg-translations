@@ -1,8 +1,7 @@
-#test
 assessment_stoped: Assessment suspended
 assessment_later: Assessment will be carried out later
 assessment_ended: Assessment ended
-expired: expired
+expired: abgelaufen
 indicator: Indicator
 multi_target_1: Target 1
 multi_target_2: Target 2
