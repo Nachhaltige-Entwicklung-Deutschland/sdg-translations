@@ -1,3 +1,34 @@
+1_start: Start
+1_start_2_dns_platform: National indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
+1_start_2_sdg_platform: Global indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
+1_start_2_sdg_platform_path: "https://sdg-indicators.de"
+1_about: Topics
+1_about_2_dns: "German Sustainable Developmnet Strategy (DNS)"
+1_about_2_dns_3_indicators: Monitoring
+1_about_2_dns_3_publications: Publications
+1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
+1_about_2_dns_3_publications_4_reports: Indicator Reports
+1_about_2_dns_3_publications_4_others: Other publications
+1_about_2_sdg: "2030 Agenda (SDG)"
+1_about_2_sdg_3_indicators: Monitoring
+1_about_2_sdg_3_indicators_path: "https://sdg-indicators.de/about/sdg/monitoring"
+1_about_2_sdg_3_publications: Publications
+1_about_2_sdg_3_publications_path: "https://sdg-indicators.de/about/sdg/publications"
+# 1_about_2_sdg_3_publications_4_indicatorset: SDG-Indikatorenset
+# 1_about_2_sdg_3_publications_4_wista: Auszug aus der Publikation "WISTA-Wirtschaft und Statistik", 5/2016
+# 1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
+1_about_2_joint_action: Joint Action
+1_status: Status overview
+1_status_2_methodology: Methodology
+1_status_2_overview: Overview
+1_strategy: Sustainable Development Strategy
+1_strategy_2_government: Federal Government
+1_strategy_2_laender: Bundesländer
+1_help: Help
+1_help_2_navigation: Structure of the online platform
+1_help_2_guidance: Technical guidance
+1_help_2_faq: FAQ
+
 about: About
 about_this_site: DNS&nbsponline&nbspplatform
 agenda: 2030 Agenda
@@ -6,17 +37,16 @@ cookies: Cookies
 community: Joint action
 facts_agenda: 2030 Agenda
 facts_sdg: SDG
-faq: FAQ
+
 facts: Useful information
 feasibility_study: Feasibility study for the presentation of the indicators
-feasibility_study_path: https://dns-indikatoren.de/assets/publications/machbarkeitsstudie.pd
+feasibility_study_path: "https://dns-indikatoren.de/assets/publications/machbarkeitsstudie.pd"
 government_reports: Federal Government Reports
-government_reports_path: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/berichte-und-reden-nachhaltigkeit/berichte-der-bundesregierung-418550
-guidance: Technical&nbspinstructions
+government_reports_path: "https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/berichte-und-reden-nachhaltigkeit/berichte-der-bundesregierung-418550"
+
 imprint: Legal Notice
 indicator_status: Indicator status
 menu: Menu
-navigation: Navigation
 other_publications: Other Publications
 pathtosdg: "https://www.sdg-indicators.de"
 platform: platform
@@ -31,14 +61,14 @@ report12: Indicator report 2012
 report10: Indicator report 2010
 report08: Indicator report 2008
 report06: Indicator report 2006
-report21path: https://dns-indikatoren.de/assets/publications/reports/en/2021.pdf
-report18path: https://dns-indikatoren.de/assets/publications/reports/en/2018.pdf
-report16path: https://dns-indikatoren.de/assets/publications/reports/en/2016.pdf
-report14path: https://dns-indikatoren.de/assets/publications/reports/en/2014.pdf
-report12path: https://dns-indikatoren.de/assets/publications/reports/en/2012.pdf
-report10path: https://dns-indikatoren.de/assets/publications/reports/en/2010.pdf
-report08path: https://dns-indikatoren.de/assets/publications/reports/en/2008.pdf
-report06path: https://dns-indikatoren.de/assets/publications/reports/en/2006.pdf
+report21path: "https://dns-indikatoren.de/assets/publications/reports/en/2021.pdf"
+report18path: "https://dns-indikatoren.de/assets/publications/reports/en/2018.pdf"
+report16path: "https://dns-indikatoren.de/assets/publications/reports/en/2016.pdf"
+report14path: "https://dns-indikatoren.de/assets/publications/reports/en/2014.pdf"
+report12path: "https://dns-indikatoren.de/assets/publications/reports/en/2012.pdf"
+report10path: "https://dns-indikatoren.de/assets/publications/reports/en/2010.pdf"
+report08path: "https://dns-indikatoren.de/assets/publications/reports/en/2008.pdf"
+report06path: "https://dns-indikatoren.de/assets/publications/reports/en/2006.pdf"
 report_data: Data on the indicator report
 report_data21: Data on the Indicator report 2021
 report_data18: Data on the Indicator report 2018
@@ -47,16 +77,16 @@ report_data14: Data on the Indicator report 2014
 report_data12: Data on the Indicator report 2012
 report_data10: Data on the Indicator report 2010
 report_data08: Data on the Indicator report 2008
-report_data21path: https://dns-indikatoren.de/assets/publications/reports/en/daten2021.pdf
-report_data18path: https://dns-indikatoren.de/assets/publications/reports/en/daten2018.pdf
-report_data16path: https://dns-indikatoren.de/assets/publications/reports/en/daten2016.pdf
-report_data14path: https://dns-indikatoren.de/assets/publications/reports/en/daten2014.pdf
-report_data12path: https://dns-indikatoren.de/assets/publications/reports/en/daten2012.pdf
-report_data10path: https://dns-indikatoren.de/assets/publications/reports/en/daten2010.pdf
-report_data08path: https://dns-indikatoren.de/assets/publications/reports/en/daten2008.pdf
-sdglogo:  <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG%20Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
+report_data21path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2021.pdf"
+report_data18path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2018.pdf"
+report_data16path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2016.pdf"
+report_data14path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2014.pdf"
+report_data12path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2012.pdf"
+report_data10path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2010.pdf"
+report_data08path: "https://dns-indikatoren.de/assets/publications/reports/en/daten2008.pdf"
+sdglogo:  <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the SDG indicators page" alt="Link SDG" style="width:24px;height:24px;"/>
 special_evel: Special evaluation for selected indicators by territorial status
-special_evel_path: https://dns-indikatoren.de/assets/publications/DNS_Sonderauswertung_2021.pdf
+special_evel_path: "https://dns-indikatoren.de/assets/publications/DNS_Sonderauswertung_2021.pdf"
 status: Methodology
 status_summary: Summary
 status_title: Evaluation
@@ -65,4 +95,4 @@ sustainable_development_strategy_laender: Länder
 sustainable_development_strategy_germany: Germany
 twitterPath: "https://twitter.com/destatis?lang=en"
 wista: WISTA - Economy and Statistics, 1/2017
-wista_path: https://dns-indikatoren.de/assets/publications/wista2017_01.pdf
+wista_path: "https://dns-indikatoren.de/assets/publications/wista2017_01.pdf"
