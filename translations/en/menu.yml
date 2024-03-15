@@ -1,29 +1,16 @@
 1_start: Start
-1_start_2_dns_platform: National indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
-1_start_2_sdg_platform: Global indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
-1_start_2_sdg_platform_path: "https://sdg-indicators.de"
-1_about: Topics
-1_about_2_dns: "German Sustainable Developmnet Strategy (DNS)"
-1_about_2_dns_3_indicators: Monitoring
-1_about_2_dns_3_publications: Publications
-1_about_2_dns_3_publications_4_indicatorset: DNS-Set of indicators
-1_about_2_dns_3_publications_4_reports: Indicator Reports
-1_about_2_dns_3_publications_4_others: Other publications
-1_about_2_sdg: "2030 Agenda (SDG)"
-1_about_2_sdg_3_indicators: Monitoring
-1_about_2_sdg_3_indicators_path: "https://sdg-indicators.de/about/sdg/monitoring"
-1_about_2_sdg_3_publications: Publications
-1_about_2_sdg_3_publications_path: "https://sdg-indicators.de/about/sdg/publications"
-# 1_about_2_sdg_3_publications_4_indicatorset: SDG-Indikatorenset
-# 1_about_2_sdg_3_publications_4_wista: Auszug aus der Publikation "WISTA-Wirtschaft und Statistik", 5/2016
-# 1_about_2_sdg_3_publications_4_hlpf: Berichte zum HLPF
-1_about_2_joint_action: Joint Action
+1_strategy: Strategy
+1_strategy_2_dns: German Sustainable Development Strategy
+1_strategy_2_monitoring: Monitoring
+1_strategy_2_publications: Publications
+1_strategy_2_links: Links
+1_laender: Länder
+1_global_indicators: Global indicators <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
+1_global_indicators_path: "https://sdg-indicators.de"
 1_status: Status overview
 1_status_2_methodology: Methodology
 1_status_2_overview: Overview
-1_strategy: Sustainable Development Strategy
-1_strategy_2_government: Federal Government
-1_strategy_2_laender: Bundesländer
+1_worldwide: World wide
 1_help: Help
 1_help_2_navigation: Structure of the online platform
 1_help_2_guidance: Technical guidance
