@@ -31,9 +31,9 @@ new_target: Target
 old_target: Target
 overview_blurb: 'In the overview table, the ratings of the indicators are given according to the status of the previous years. This shows whether the weather symbol for an indicator has been stable or rather volatile in the past years.<br>
   The basis for the assessments presented here is the data as published in the <a href="hhttps://dns-indikatoren.de/en/about/dns/publications/">2022 indicator report</a>. The data on this platform is updated regularly, so that more current data may be available online than published in the indicator report.<br><br>
-  <h3>Indicators with multiple targets</h3>
+  <h3 class="h3bold">Indicators with multiple targets</h3>
   For indicators with multiple targets to be met over time (e.g., indicator 7.1.b), the ratings for meeting each target are provided. The same applies to indicators with multiple targets to be met simultaneously (e.g., indicator 10.1).<br><br>
-  <h3>Indicators with target changes</h3>
+  <h3 class="h3bold">Indicators with target changes</h3>
   In addition to the currently valid goals of the federal government, the goals are presented that were valid in the past but have been changed in the meantime.<br><br>
   In grayed out form, all weather icons are displayed for destinations that are currently not valid, because<br>
   • the target has been changed in the past,<br>
