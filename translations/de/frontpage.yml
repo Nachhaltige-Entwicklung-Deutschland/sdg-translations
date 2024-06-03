@@ -1,6 +1,7 @@
 file_size: ZIP Datei. Größe
 heading: Indikatoren der Deutschen Nachhaltigkeitsstrategie
-instructions: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der Deutschen Nachhaltigkeitsstrategie aufzurufen.
+#instructions: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der Deutschen Nachhaltigkeitsstrategie aufzurufen.
+instructions: <img src="https://dns-indikatoren.de/assets/img/dialog_logo.PNG" alt="Logo Dialog" title="Klicken Sie hier um zur Homepage der Dialogfassung zu gelangen."><b>Aktuell: Die Bundesregierung veröffentlicht Dialogfassung der DNS 2024. Die Indikatoren zur Weiterentwicklung finden Sie <a href="https://dns-indikatoren-dialogfassung.github.io" alt="Link Dialogfassung">hier</a>.<b>
 download_all: Alle Daten herunterladen
 zip_file: ZIP file
 intro_title: 17 Ziele zur Umgestaltung unserer Welt
