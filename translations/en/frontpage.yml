@@ -1,13 +1,11 @@
 file_size: ZIP file. Size
 heading: Indicators of the German Sustainable Development Strategy
-instructions_dns: Click on each goal, or %before_link search %after_link
-  for the German Sustainable Development Strategy indicator data.
+instructions_dns: Click on each goal for the indicators of the German Sustainable Development Strategy.
 link_18_title: Click here to get to the DESTATIS page about the German Sustainable Development Strategy
-instructions: Click on each goal, for German statistics for Sustainable Development Goal indicators.
+instructions: Click on each goal for the indicators of the German Sustainable Development Strategy.
 download_all: Download all data
 zip_file: ZIP file
-intro_title: 17 goals to transform our world
-joint_action_text: The Federal Statistical Office is part of the <a href="https://dns-indkatoren.de/en/joint_action">Joint Action
+intro_title: 17 goals to transform our worldjoint_action_text: The Federal Statistical Office is part of the <a href="https://dns-indkatoren.de/en/joint_action">Joint Action
   for Sustainable Development</a>, an open platform for all those who are committed to a sustainable society.
 strategy_text: Information on the "German Sustainable Development Strategy" can be
-  found <a href="https://dns-indkatoren.de/en/strategy/dns/">here</a>.
+  found at "https://dns-indkatoren.de/en/strategy/dns/".
