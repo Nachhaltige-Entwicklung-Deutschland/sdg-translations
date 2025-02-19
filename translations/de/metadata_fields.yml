@@ -6,11 +6,12 @@ comparison_sdg: Vergleichbarkeit mit globalen Metadaten
 content_and_progress: Inhalt und Fortschritt
 copyright: Copyright
 data_state: Datenstand
-
+data_last_update: Letztes Datenupdate
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
-dns_indicator_definition: Definition # <small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
-dns_indicator_intention: Ziel und Intention #<small><br>(Text aus dem Indikatoren&shy;bericht 2021)</small>
+dns_indicator_definition: Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
+dns_indicator_definition_new: Definition
+dns_indicator_intention: Ziel und Intention <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
 dns_indicator_content: Inhalt und Entwicklung
 dns_content_url: Inhalt und Entwicklung
 dns_content_url_text: Inhalt und Entwicklung
@@ -86,7 +87,9 @@ target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: Custodian Agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tier-Klassifikation zu erhalten."> Tier Klassifikation</a>
-
+target_description: Umsetzung in der Wetter&shy;symbol&shy;berechnung
+political_target: Ziel
+dns_political_intention: Intention
 weather_indicator_1: Indikator
 weather_indicator_2: Indikator
 weather_indicator_3: Indikator
