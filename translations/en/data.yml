@@ -25,6 +25,7 @@ nh₃: NH₃
 nmvoc: NMVOC
 noₓ: NOₓ
 so₂: SO₂
+xxxinsgesamt: XXXInsgesamt
 eu: EU
 eu-27: EU-27
 eu-28: EU-28
@@ -71,6 +72,9 @@ total: Total
 xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'
 baltic sea: Baltic Sea
 north sea: North Sea
+xxxnachhaltige bewirtschaftete fläche: XXXNachhaltige bewirtschaftete Fläche
+xxxterrestrische schutzgebiete und mangrovenwälder in marinen schutzgebieten: XXXTerrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten
+xxxwaldfläche nachhaltige bewirtschaftung und wiederherstellung: XXXWaldfläche nachhaltige Bewirtschaftung und Wiederherstellung
 xxxhochschulen: XXXHochschulen
 xxxstaat und private institutionen ohne erwerbszweck: XXXStaat und private Institutionen ohne Erwerbszweck
 xxxwirtschaft: XXXWirtschaft
@@ -78,11 +82,12 @@ xxxa) anteil nachhaltiger vergabeverfahren: XXXa) Anteil nachhaltiger Vergabever
 b) co2 emissions of vehicles in the public sector: b) CO₂ emissions of vehicles in the public sector
 xxxnachhaltige textilbeschaffung: XXXNachhaltige Textilbeschaffung
 xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-xxxinfolinie - beitrag deutschlands zur globalen pandemieprävention und -reaktion: XXXInfolinie - Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
+xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion: XXXBeitrag Deutschlands zur globalen Pandemieprävention und -reaktion
 moving four-year average: Moving four-year average
 moving five-year average shown for the last year: Moving five-year average shown for the last year
 all wired technologies: All wired technologies
 calculated annual values: Calculated annual values
+xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden: XXXProduktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden
 mortality avoidable through treatment: Mortality avoidable through treatment
 xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
 data from the federal ministry of food and agriculture: Data from the Federal Ministry of Food and Agriculture
@@ -111,6 +116,7 @@ goods transport performance: Goods transport performance
 xxxhochschulabschlüsse: XXXHochschulabschlüsse
 xxxhöherqualifizierende berufsausbildung: XXXHöherqualifizierende Berufsausbildung
 imports: Imports
+xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: XXXNachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
 locations of organisation registered with emas: Locations of organisation registered with EMAS
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
@@ -128,8 +134,8 @@ imports of processed products: Imports of processed products
 xxxakademisch qualifizierte und beruflich höherqualifizierte: XXXAkademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
-'xxx<u>infolinie:</u> rohstoffeinsatz für konsum und investitionen (rmc)': 'XXX<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)'
-'xxx<u>infolinie:</u> rohstoffeinsatz für exporte (rmc)': 'XXX<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)'
+xxxrohstoffeinsatz für konsum und investitionen (rmc): XXXRohstoffeinsatz für Konsum und Investitionen (RMC)
+xxxrohstoffeinsatz für exporte (rmc): XXXRohstoffeinsatz für Exporte (RMC)
 students from ldcs: Students from LDCs
 students from other developing and emerging countries: Students from other developing and emerging countries
 with tertiary qualification: With tertiary qualification
@@ -173,8 +179,7 @@ age group: Age group
 air pollutant: Air pollutant
 area: Area
 xxxart der betreuung: XXXArt der Betreuung
-rating: Rating
-level of compliance: Level of compliance
+xxxlevel of compliance: xxxLevel of compliance
 calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences

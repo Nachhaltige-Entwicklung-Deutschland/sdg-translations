@@ -25,6 +25,7 @@ nh₃: NH₃
 nmvoc: NMVOC
 noₓ: NOₓ
 so₂: SO₂
+xxxinsgesamt: Insgesamt
 eu: EU
 eu-27: EU-27
 eu-28: EU-28
@@ -32,10 +33,10 @@ eurozone: Eurozone
 germany: Deutschland
 xxxkindertageseinrichtungen: Kindertageseinrichtungen
 xxxtagespflege: Kindertagespflege
-effectiveness = low or moderate: Niedrig oder moderat
-technical compliance = non-compliant or partially compliant: Nicht konform oder teilweise konform mit den Vorschriften
-effectiveness = substantial or high: Weitgehend oder hoch
-technical compliance = largely compliant or compliant: Weitgehend konform oder konform mit den Vorschriften
+effectiveness = low or moderate: Gering oder moderat
+technical compliance = non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
+effectiveness = substantial or high: Solide oder hoch
+technical compliance = largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 domestic burglary: Wohnungseinbruchsdiebstahl
@@ -71,6 +72,9 @@ total: Insgesamt
 xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
 baltic sea: Ostsee
 north sea: Nordsee
+xxxnachhaltige bewirtschaftete fläche: Nachhaltige bewirtschaftete Fläche
+xxxterrestrische schutzgebiete und mangrovenwälder in marinen schutzgebieten: Terrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten
+xxxwaldfläche nachhaltige bewirtschaftung und wiederherstellung: Waldfläche nachhaltige Bewirtschaftung und Wiederherstellung
 xxxhochschulen: Hochschulen
 xxxstaat und private institutionen ohne erwerbszweck: Staat und private Institutionen ohne Erwerbszweck
 xxxwirtschaft: Wirtschaft
@@ -78,13 +82,14 @@ xxxa) anteil nachhaltiger vergabeverfahren: a) Anteil nachhaltiger Vergabeverfah
 b) co2 emissions of vehicles in the public sector: b) CO₂-Emissionen der Kfz der öffentlichen Hand
 xxxnachhaltige textilbeschaffung: c) Nachhaltige Textilbeschaffung
 xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-xxxinfolinie - beitrag deutschlands zur globalen pandemieprävention und -reaktion: '<u>Infolinie</u>: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion'
+xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion
 moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for the last year: Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr
 all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
+xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden: Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden
 mortality avoidable through treatment: Durch Behandlung vermeidbare Sterblichkeit
-xxxbereinigter gender pay gap: '<u>Infolinie</u>: Bereinigter Gender Pay Gap'
+xxxbereinigter gender pay gap: Bereinigter Gender Pay Gap
 data from the federal ministry of food and agriculture: Daten des BMEL
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
@@ -101,7 +106,7 @@ gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügb
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
 xxxerstausbildung: Erstausbildung
 xxxfachkräftepotenzial (insgesamt): Fachkräftepotenzial (insgesamt)
-xxxtechnical compliance: '<u>Infolinie:</u> Technical compliance'
+xxxtechnical compliance: Technical Compliance
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
@@ -111,6 +116,7 @@ goods transport performance: Güterbeförderungsleistung
 xxxhochschulabschlüsse: Hochschulabschluss
 xxxhöherqualifizierende berufsausbildung: Höherqualifizierende Berufsausbildung
 imports: Einfuhren
+xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
 locations of organisation registered with emas: EMAS-Standorte
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
@@ -128,8 +134,8 @@ imports of processed products: Einfuhren von weiterverarbeiteten Produkten
 xxxakademisch qualifizierte und beruflich höherqualifizierte: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
-'xxx<u>infolinie:</u> rohstoffeinsatz für konsum und investitionen (rmc)': '<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)'
-'xxx<u>infolinie:</u> rohstoffeinsatz für exporte (rmc)': '<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)'
+xxxrohstoffeinsatz für konsum und investitionen (rmc): Rohstoffeinsatz für Konsum und Investitionen (RMC)
+xxxrohstoffeinsatz für exporte (rmc): Rohstoffeinsatz für Exporte (RMC)
 students from ldcs: Studierende aus LDCs
 students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
 with tertiary qualification: Tertiärer Abschluss
@@ -138,7 +144,7 @@ all objects: Objekte insgesamt
 xxxunbereinigter gender pay gap: Unbereinigter Gender Pay Gap
 fathers: Väter
 xxxkinder, deren väter elterngeld bezogen haben: Kinder, deren Väter Elterngeld bezogen haben
-xxxmännliche bezieher an allen genommenen elterngeldmonaten: '<u>Infolinie</u>: Männliche Bezieher an allen genommenen Elterngeldmonaten'
+xxxmännliche bezieher an allen genommenen elterngeldmonaten: Männliche Bezieher an allen genommenen Elterngeldmonaten
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
 gini coefficient of wealth: Gini-Koeffizient des Vermögens
 objects without digitised media: Objekte ohne Digitalisat
@@ -173,8 +179,7 @@ age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
 xxxart der betreuung: Art der Betreuung
-rating: Bewertung
-level of compliance: Erfüllungsgrad
+xxxlevel of compliance: Grad der Umsetzung
 calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten

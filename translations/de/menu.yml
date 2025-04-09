@@ -69,7 +69,7 @@ report_data12path: "https://www.statistischebibliothek.de/mir/receive/DEHeft_mod
 report_data10path: "https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010572"
 report_data08path: "https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00010568"
 imprint: Im­pres­s­um
-indicator_status: Status der Indikatoren - Übersicht 
+indicator_status: Statusübersicht
 special_evel: Sonderauswertung für ausgewählte Indikatoren nach Gebietsstand
 special_evel_path: "https://dns-indikatoren.de/assets/publications/DNS_Sonderauswertung_2021.pdf"
 status: Methodik
