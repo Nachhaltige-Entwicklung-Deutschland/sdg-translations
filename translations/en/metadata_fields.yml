@@ -11,8 +11,16 @@ goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
-dns_indicator_definition: Definition #<small> (Text from the Indicator Report 2021)</small>
-dns_indicator_intention: Target and intention #<small>(Text from the Indicator Report 2021)</small>
+dns_indicator_definition: Definition <small>(Text from the Indicator Report 2022 - State 31.10.2022)</small>
+dns_indicator_definition_new: Definition
+dns_indicator_intention: Target and intention <small>(Text from the Indicator Report 2022 - State 31.10.2022)</small>
+dns_political_intention: Intention
+type_target: type of target
+target_description: Implemen&shy;tation in weather symbol calculation
+rating: Assessment
+data_state: Data state
+
+political_target: Target
 dns_indicator_content: Content and progress
 dns_content_url: Content and progress
 dns_content_url_text: Content and progress
@@ -89,9 +97,6 @@ target: Target name
 target_id: Target number
 un_custodian_agency: Custodian agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
-target_description: XXXZielart und Umsetzung in der Wettersymbolberechnung
-political_target: Political target
-dns_political_intention: XXXPolitische Intention
 weather_indicator_1: Indicator
 weather_indicator_1_target: Target
 #single target
