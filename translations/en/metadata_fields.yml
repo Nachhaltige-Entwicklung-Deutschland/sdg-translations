@@ -15,7 +15,7 @@ dns_indicator_definition: Definition <small>(Text from the Indicator Report 2022
 dns_indicator_definition_new: Definition
 dns_indicator_intention: Target and intention <small>(Text from the Indicator Report 2022 - State 31.10.2022)</small>
 dns_political_intention: Intention
-type_target: type of target
+type_target: Type of target
 target_description: Implemen&shy;tation in weather symbol calculation
 rating: Assessment
 data_state: Data state
