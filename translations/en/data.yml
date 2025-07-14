@@ -25,14 +25,14 @@ nh₃: NH₃
 nmvoc: NMVOC
 noₓ: NOₓ
 so₂: SO₂
-xxxinsgesamt: XXXInsgesamt
+total: Total
 eu: EU
 eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Germany
-xxxkindertageseinrichtungen: XXXKindertageseinrichtungen
-xxxtagespflege: XXXTagespflege
+day care centres: Day care centres
+day care: Day care
 effectiveness = low or moderate: Effectiveness = Low or moderate
 technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant or partially compliant
 effectiveness = substantial or high: Effectiveness = Substantial or high
@@ -66,105 +66,107 @@ saxony: Saxony
 saxony-anhalt: Saxony-Anhalt
 thuringia: Thuringia
 pm2.5: PM₂.₅
-xxxkeine risikolage: XXXKeine Risikolage
-xxxmindestens eine risikolage: XXXMindestens eine Risikolage
+no risk situation: No risk situation
+at least one risk situation: At least one risk situation
 total: Total
-xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'
+difference between “no risk situation” and 'at least one risk situation': Difference between “No risk situation” and 'At least one risk situation'
 baltic sea: Baltic Sea
 north sea: North Sea
-xxxnachhaltige bewirtschaftete fläche: XXXNachhaltige bewirtschaftete Fläche
-xxxterrestrische schutzgebiete und mangrovenwälder in marinen schutzgebieten: XXXTerrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten
-xxxwaldfläche nachhaltige bewirtschaftung und wiederherstellung: XXXWaldfläche nachhaltige Bewirtschaftung und Wiederherstellung
-xxxhochschulen: XXXHochschulen
-xxxstaat und private institutionen ohne erwerbszweck: XXXStaat und private Institutionen ohne Erwerbszweck
-xxxwirtschaft: XXXWirtschaft
-xxxa) anteil nachhaltiger vergabeverfahren: XXXa) Anteil nachhaltiger Vergabeverfahren
+sustainably farmed area: Sustainably farmed area
+terrestrial protected areas and mangrove forests in marine protected areas: Terrestrial protected areas and mangrove forests in marine protected areas
+forest area sustainable management and restoration: Forest area Sustainable management and restoration
+universities: Universities
+government and private non-profit institutions: Government and private non-profit institutions
+economy: Economy
+a) sustainability in procurement procedures: a) Sustainability in procurement procedures
 b) co2 emissions of vehicles in the public sector: b) CO₂ emissions of vehicles in the public sector
-xxxnachhaltige textilbeschaffung: XXXNachhaltige Textilbeschaffung
-xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion: XXXBeitrag Deutschlands zur globalen Pandemieprävention und -reaktion
+c) sustainable textile procurement: c) Sustainable textile procurement
+share of countries that germany supports in pandemic prevention, preparedness and response (ppr) and that have made progress in the global health security index (ghsi) in relation to the number of countries that germany supports in the area of ppr: Share of countries that Germany supports in pandemic prevention, preparedness and response (PPR) and that have made progress in the Global Health Security Index (GHSI) in relation to the number of countries that Germany supports in the area of PPR
+"<u>additional time series:</u> germany's contribution to global pandemic prevention, preparedness and response (ppr)": "<u>Additional time series:</u> Germany's contribution to global pandemic prevention, preparedness and response (PPR)"
 moving four-year average: Moving four-year average
 moving five-year average shown for the last year: Moving five-year average shown for the last year
 all wired technologies: All wired technologies
 calculated annual values: Calculated annual values
-xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden: XXXProduktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden
+'<u>additional time series:</u> productions of audiovisual media that meet ecological standards': '<u>Additional time series:</u> Productions of audiovisual media that meet ecological standards'
+trained personnel: Trained personnel
 mortality avoidable through treatment: Mortality avoidable through treatment
-xxxbereinigter gender pay gap: XXXBereinigter Gender Pay Gap
-xxxdata from the federal ministry of food and agriculture: XXXData from the Federal Ministry of Food and Agriculture
+'<u>additional time series:</u> adjusted gender pay gap': '<u>Additional time series:</u> Adjusted Gender Pay Gap'
+'<u>additional time series:</u> data from the bmleh': '<u>Additional time series:</u> Data from the BMLEH'
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Commercial exploited fish stocks assessed for MSY that is fished sustainably
 separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
 difference: Difference
-xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage': XXXDifferenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
+difference between “no risk situation” and 'at least one risk situation': Difference between “No risk situation” and 'At least one risk situation'
 objects with digitised media: Objects with digitised media
-data from the federal statistical office: Data from the Federal Statistical Office
-effectiveness: Effectiveness
-employees in emas organisations: Employees in EMAS organisations
+'<u>time series of the indicator:</u> data from the federal statistical office': '<u>Time series of the indicator:</u> Data from the Federal Statistical Office'
+'<u>time series of the indicator:</u> effectiveness': '<u>Time series of the indicator:</u> Effectiveness'
+'<u>additional time series:</u> employees in emas organisations': '<u>Additional time series:</u> Employees in EMAS organisations'
 energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
 energy consumption in passenger transport: Energy consumption in passenger transport
 energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
 gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
 gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
-xxxerstausbildung: XXXErstausbildung
-xxxfachkräftepotenzial (insgesamt): XXXFachkräftepotenzial (insgesamt)
-xxxtechnical compliance: XXXTechnical compliance
+initial training: Initial training
+skilled labour potential (total): Skilled labour potential (total)
+'<u>additional time series:</u> technical compliance': '<u>Additional time series:</u> Technical compliance'
+trained personnel still required to achieve the target: Trained personnel still required to achieve the target
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
 foreigns: Foreigns
 fibre-to-the-building/home (fttb/h): Fibre-to-the-Building/Home (FTTB/H)
 gross domestic product (price-adjusted): Gross domestic product (price-adjusted)
 germans: Germans
 goods transport performance: Goods transport performance
-xxxhochschulabschlüsse: XXXHochschulabschlüsse
-xxxhöherqualifizierende berufsausbildung: XXXHöherqualifizierende Berufsausbildung
-imports: Imports
-'xxx<u>zeitreihe des indikators:</u>nachhaltigkeitszertifizierte kultur- und medieneinrichtungen': 'XXX<u>Zeitreihe des Indikators:</u>Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
-locations of organisation registered with emas: Locations of organisation registered with EMAS
+university degree: University degree
+higher qualifying vocational training: Higher qualifying vocational training
+'<u>time series of the indicator:</u> imports': '<u>Time series of the indicator:</u> Imports'
+'<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Time series of the indicator:</u> Sustainability-certified cultural and media institutions'
+'<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Time series of the indicator:</u> Locations of organisation registered with EMAS'
 gini coefficient of market income: Gini coefficient of market income
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
 share of msy examined stocks in all managed fish stocks: Share of MSY examined stocks in all managed fish stocks
 mothers: Mothers
 obese: Obese
-emas organisations: EMAS organisations
+'<u>additional time series:</u> emas organisations': '<u>Additional time series:</u> EMAS organisations'
 overweight without obese: Overweight without obese
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
-xxxnach anzahl der risikolagen: XXXNach Anzahl der Risikolagen
+by number of risk positions: By number of risk positions
 with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
 mortality avoidable through prevention: Mortality avoidable through prevention
-imports of processed products: Imports of processed products
-xxxakademisch qualifizierte und beruflich höherqualifizierte: XXXAkademisch Qualifizierte und beruflich Höherqualifizierte
+'<u>additional time series:</u> imports of processed products': '<u>Additional time series:</u> Imports of processed products'
+academically qualified and professionally highly qualified persons: Academically qualified and professionally highly qualified persons
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
-xxxrohstoffeinsatz für konsum und investitionen (rmc): XXXRohstoffeinsatz für Konsum und Investitionen (RMC)
-xxxrohstoffeinsatz für exporte (rmc): XXXRohstoffeinsatz für Exporte (RMC)
+raw material consumption and investment: Raw material consumption and investment
+raw material consumption for exports: Raw material consumption for exports
 students from ldcs: Students from LDCs
 students from other developing and emerging countries: Students from other developing and emerging countries
 with tertiary qualification: With tertiary qualification
 total: Total
 all objects: All objects
-xxxunbereinigter gender pay gap: XXXUnbereinigter Gender Pay Gap
+'<u>time series of the indicator:</u> unadjusted gender pay gap': '<u>Time series of the indicator:</u> Unadjusted Gender Pay Gap'
 fathers: Fathers
-'xxx<u>zeitreihe des indikators:</u> kinder, deren väter elterngeld bezogen haben': 'XXX<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
-xxxmännliche bezieher an allen genommenen elterngeldmonaten: XXXMännliche Bezieher an allen genommenen Elterngeldmonaten
+'<u>time series of the indicator:</u> children whose fathers have received parental allowance': '<u>Time series of the indicator:</u> Children whose fathers have received parental allowance'
+'<u>additional time series:</u> male recipients of all parental allowance months taken': '<u>Additional time series:</u> Male recipients of all parental allowance months taken'
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
 gini coefficient of wealth: Gini coefficient of wealth
 objects without digitised media: Objects without digitised media
 for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
 for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
-xxxzweitausbildung, ausbildung nach abitur: XXXZweitausbildung, Ausbildung nach Abitur
+secondary education, education after abitur: Secondary education, education after Abitur
 divers: Divers
 female: Female
 male: Male
 unknown: Unknown
-coasts and seas sub-index: Coasts and seas sub-index
-farmland sub-index: Farmland sub-index
-forest sub-index: Forest sub-index
-settlements sub-index: Settlements sub-index
-total: Total
+'<u>additional time series:</u> coasts and seas': '<u>Additional time series:</u> Coasts and seas'
+farmland sub-indicator: Farmland sub-indicator
+forest sub-indicator: Forest sub-indicator
+settlements sub-indicator: Settlements sub-indicator
+'<u>time series of the indicator:</u> total': '<u>Time series of the indicator:</u> Total'
 inland waters sub-index: Inland waters sub-index
-xxxbranchen-/flächentarifvertrag: XXXBranchen-/Flächentarifvertrag
-xxxfirmen-/haustarifvertrag: XXXFirmen-/Haustarifvertrag
+sector/area collective agreement: Sector/area collective agreement
+company/house collective agreement: Company/house collective agreement
 recreation area, cemetery: Recreation area, cemetery
 settlement area (built on): Settlement area (built on)
 transport area: Transport area
@@ -181,26 +183,27 @@ total: Total
 age group: Age group
 air pollutant: Air pollutant
 area: Area
-xxxart der betreuung: XXXArt der Betreuung
-xxxlevel of compliance: xxxLevel of compliance
+type of care: Type of care
+level of compliance: Level of compliance
 calculation method: Calculation method
 criminal offence: Criminal offence
 criminal offences: Criminal offences
+display: Display
 county: County
 federal state: Federal state
 fine particulate matter: Fine particulate matter
-xxxart der prävention: XXXArt der Prävention
+type of treatment: Type of treatment
 qualification: Qualification
-xxxrisikolage: XXXRisikolage
+risk situation: Risk situation
 sea: Sea
-xxxsektoren: XXXSektoren
+sector: Sector
 time series: Time series
 sex: Sex
-sub index: Sub index
-xxxart der tarifverträge: XXXArt der Tarifverträge
+sub indicator: Sub indicator
+type of collective bargaining agreement: Type of collective bargaining agreement
 type of area: Type of area
 degree of urbanisation: Degree of urbanisation
-xxxzuordnung: XXXZuordnung
+categorization: Categorization
 
 #Units
 '1.000': '1.000'
@@ -239,34 +242,34 @@ a) material and social deprivation: a) Material and social deprivation
 b) severe material and social deprivation: b) Severe material and social deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
-support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-xxxvermeidbare sterblichkeit: XXXVermeidbare Sterblichkeit
+support for good governance in attaining appropriate nutrition worldwide: Support for good governance in attaining appropriate nutrition worldwide
+mortality avoidable through prevention and treatment: Mortality avoidable through prevention and treatment
 c) adolescents: c) Adolescents
 d) adults: d) Adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
-share of the population with excessive exposure to pm2,5: Share of the population with excessive exposure to PM₂.₅
-x: X
-early school leaversxxx: Early school leaversXXX
-persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
-xxx: XXX
+share of the population with excessive exposure to pm2.5: Share of the population with excessive exposure to PM₂.₅
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made progress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Proportion of countries supported by Germany in pandemic prevention, preparedness, and response (PPR) that have made progress in the Global Health Security Index (GHSI), relative to the total number of countries supported by Germany in the area of PPR
+early school and training leavers: Early school and training leavers
+persons with an academic or higher vocational qualification: Persons with an academic or higher vocational qualification
+schools with esd label (education for sustainable development): Schools with ESD label (Education for Sustainable Development)
 a) 0 to 2-year-olds: a) 0 to 2-year-olds
 b) 3 to 5-year-olds: b) 3 to 5-year-olds
-xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
-xxxanteil der 17- und 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
+participation in continuing education: Participation in continuing education
+proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Proportion of 17- and 18-year-olds with (aspired) university entrance qualification
 gender pay gap: Gender pay gap
 b) on supervisory boards of listed and fully co-determined companies: b) On supervisory boards of listed and fully co-determined companies
-c) in management positions in the federal civil service: c) In management positions in the federal civil service
-xxxkinder, deren väter elterngeld bezogen haben: XXXKinder, deren Väter Elterngeld bezogen haben
-xxxerwerbsarbeitszeit von müttern und vätern: XXXErwerbsarbeitszeit von Müttern und Vätern
+c) in the federal civil service: c) In the federal civil service
+children whose fathers have received parental allowance: Children whose fathers have received parental allowance
+average weekly working hours in relation to all mothers and fathers: Average weekly working hours in relation to all mothers and fathers
 vocational qualifications of women and girls through german development cooperation: Vocational qualifications of women and girls through German development cooperation
-xxxgeschlechtergleichstellun in der entwicklungszusammenarbeit: XXXGeschlechtergleichstellun in der Entwicklungszusammenarbeit
+proportion of project funds allocated to gender equality in german development cooperation: Proportion of project funds allocated to gender equality in German development cooperation
 phosphorous in flowing waters: Phosphorous in flowing waters
 nitrate in groundwater: Nitrate in groundwater
-xxxpeople gaining first-time or upgraded access to drinking water: XXXPeople gaining first-time or upgraded access to drinking water
-xxxnumber of people gaining first-time or improved access to sanitation: XXXNumber of people gaining first-time or improved access to sanitation
-xxxpeople gaining first-time or upgraded access to drinking water or sanitation: XXXPeople gaining first-time or upgraded access to drinking water or sanitation
+a) with access to new or improved drinking water supply: a) With access to new or improved drinking water supply
+b) with access to new or improved basic sanitation or wastewater treatment: b) With access to new or improved basic sanitation or wastewater treatment
+with a new or higher-quality access to the drinking water supply or connection to the sanitation supply: With a new or higher-quality access to the drinking water supply or connection to the sanitation supply
 a) final energy productivity: a) Final energy productivity
 b) primary energy consumption: b) Primary energy consumption
 share of renewable energies in gross final energy consumption: Share of renewable energies in gross final energy consumption
@@ -277,31 +280,31 @@ b) structural deficit: b) Structural deficit
 government debt: Government debt
 gross fixed capital formation in relation to gdp: Gross fixed capital formation in relation to GDP
 gross domestic product per capita: Gross domestic product per capita
-a) 20 to 64-year-olds: a) 20 to 64-year-olds
-b) 55 to 64-year-olds: b) 55 to 64-year-olds
-xxxtarifgebundene beschäftigungsverhältnisse: XXXTarifgebundene Beschäftigungsverhältnisse
-xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: XXXFreiwillige Nachhaltigkeitsberichterstattung von Unternehmen
+a) total (20 to 64-year-olds): a) Total (20 to 64-year-olds)
+b) older people (55 to 64-year-olds): b) Older people (55 to 64-year-olds)
+collective bargaining coverage: Collective bargaining coverage
+voluntary sustainability reporting by companies: Voluntary sustainability reporting by companies
 private and public expenditure on research and development: Private and public expenditure on research and development
-roll-out of broadband – share of households with access to gigabit broadband services: Roll-out of broadband – Share of households with access to gigabit broadband services
+rollout of broadband – share of households with access to gigabit broadband services: Rollout of broadband – Share of households with access to gigabit broadband services
 foreign school graduates: Foreign school graduates
 gini coefficient of income after social transfers: Gini coefficient of income after social transfers
 expansion of settlement and transport area: Expansion of settlement and transport area
 density of settlements: Density of settlements
 final energy consumption in goods transport: Final energy consumption in goods transport
 final energy consumption in passenger transport: Final energy consumption in passenger transport
-accessibility of medium-sized and large cities by public transport: Accessibility of medium-sized and large cities by public transport
-housing cost overload: Housing cost overload
-xxxgrünflächen in städten: XXXGrünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: XXXMarket share of products certified by publicly managed eco-labelling schemes
+accessibility of mediumsized and large cities by public transport: Accessibility of mediumsized and large cities by public transport
+proportion of people with high housing costs: Proportion of people with high housing costs
+accessibility of green spaces suitable for recreation in cities: Accessibility of green spaces suitable for recreation in cities
+market share of products with official sustainability labels: Market share of products with official sustainability labels
 ba) direct and indirect use of raw materials: ba) Direct and indirect use of raw materials
 bb) direct and indirect energy consumption: bb) Direct and indirect energy consumption
-bc) direct and indirect co2 emissions: bc) Direct and indirect CO₂ emissions
-emas eco-management: EMAS eco-management
-xxxkultur- und medieneinrichtungen: XXXKultur- und Medieneinrichtungen
-xxxa) nachhaltigkeit in vergabeverfahren: XXXa) Nachhaltigkeit in Vergabeverfahren
-b) co2 emissions of commercially available vehicles in the public sector: b) CO₂ emissions of commercially available vehicles in the public sector
-xxxc) nachhaltige textilbeschaffung: XXXc) Nachhaltige Textilbeschaffung
-xxxverbraucherverschuldung: XXXVerbraucherverschuldung
+bc) direct and indirect co₂ emissions: bc) Direct and indirect CO₂ emissions
+eco-management and audit scheme (emas): Eco-Management and Audit Scheme (EMAS)
+cultural and media institutions: Cultural and media institutions
+a) sustainability in procurement procedures: a) Sustainability in procurement procedures
+b) co₂ emissions of commercially available vehicles in the public sector: b) CO₂ emissions of commercially available vehicles in the public sector
+c) sustainable textile procurement: c) Sustainable textile procurement
+consumer debt: Consumer debt
 greenhouse gas emissions: Greenhouse gas emissions
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: International climate finance for the reduction of greenhouse gases and adaptation to climate change
 aa) baltic sea: aa) Baltic Sea
@@ -309,48 +312,48 @@ ab) north sea: ab) North Sea
 share of sustainably fished stocks of fish in the north and baltic seas: Share of sustainably fished stocks of fish in the North and Baltic Seas
 biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
-xxxbodenversiegelungsgrad: XXXBodenversiegelungsgrad
-xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: XXXBilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar
-xxxausgebildetes personal zur kleinwaffenkontrolle: XXXAusgebildetes Personal zur Kleinwaffenkontrolle
-xxxcorruption perception index in germany: XXXCorruption Perception Index in Germany
-xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: XXXNumber of partner countries for German development cooperation with improved CPI scores compared with 2012
+degree of soil sealing: Degree of soil sealing
+bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilateral contributions of German international cooperation to the protection, sustainable use, and restoration of land (including forests)
+personnel trained by the bundeswehr to strengthen small arms control and ammunition security: Personnel trained by the Bundeswehr to strengthen small arms control and ammunition security
+a) corruption perceptions index in germany: a) Corruption Perceptions Index in Germany
+b) corruption perceptions index in partner countries for german development cooperation: b) Corruption Perceptions Index in partner countries for German development cooperation
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
-official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
+official developmentassistance as a proportion of gross national income: Official developmentassistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries
 
 #Indicators for status overview
-material deprivation: Material deprivation
-severe material deprivation: Severe material deprivation
+material and social deprivation: Material and social deprivation
+severe material and social deprivation: Severe material and social deprivation
 nitrogen surplus in agriculture: Nitrogen surplus in agriculture
 organic farming: Organic farming
-support for good governance in attaining appropriate nutrition world-wide: Support for good governance in attaining appropriate nutrition world-wide
-xdurch prävention und behandlung vermeidbare sterblichkeit: XDurch Prävention und Behandlung vermeidbare Sterblichkeit
+support for good governance in attaining appropriate nutrition worldwide: Support for good governance in attaining appropriate nutrition worldwide
+mortality avoidable through prevention and treatment: Mortality avoidable through prevention and treatment
 smoking rate among adolescents: Smoking rate among adolescents
 smoking rate among adults: Smoking rate among adults
 obesity rate among children and adolescents: Obesity rate among children and adolescents
 obesity rate among adults: Obesity rate among adults
 emissions of air pollutants: Emissions of air pollutants
-xxxshare of the population with excessive exposure to pm10: XXXShare of the population with excessive exposure to PM₁₀
-xanteil der länder, die deutschland bei der xxxpandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: XAnteil der Länder, die Deutschland bei der XXXPandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-early school leaversxxx: Early school leaversXXX
-persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education)
-xxx: XXX
-all-day care provision for 0 to 2-year-old children: All-day care provision for 0 to 2-year-old children
-all-day care provision for 3 to 5-year-old children: All-day care provision for 3 to 5-year-old children
-xxxweiterbildungsbeteiligung: XXXWeiterbildungsbeteiligung
-xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: XXXAnteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung
+share of the population with excessive exposure to fine particulate matter (pm2.5): Share of the population with excessive exposure to fine particulate matter (PM₂.₅)
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made pro-gress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Proportion of countries supported by Germany in pandemic prevention, preparedness, and response (PPR) that have made pro-gress in the Global Health Security Index (GHSI), relative to the total number of countries supported by Germany in the area of PPR
+early leavers from education and training: Early leavers from education and training
+persons with a tertiary or post-secondary non-tertiary level of education: Persons with a tertiary or post-secondary non-tertiary level of education
+schools with an esd label (education for sustainable development): Schools with an ESD label (education for sustainable development)
+all-day care for children <br>(0- to 2-year-olds): All-day care for children <br>(0- to 2-year-olds)
+all-day care for children <br>(3- to 5-year-olds): All-day care for children <br>(3- to 5-year-olds)
+participation in education and training: Participation in education and training
+proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Proportion of 17- and 18-year-olds with (aspired) university entrance qualification
 gender pay gap: Gender pay gap
-women in management positions in business: Women in management positions in business
+women in management  positions in business: Women in management  positions in business
 women in management positions in the federal civil service: Women in management positions in the federal civil service
 proportion of fathers receiving parental allowance: Proportion of fathers receiving parental allowance
-xxxdurchschnittliche wöchentliche erwerbsarbeitszeit bezogen auf alle mütter und väter: XXXDurchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
-vocational qualifications of women and girls through german development assistance: Vocational qualifications of women and girls through German development assistance
-xxxanteil der geschlechtergleichstellung berücksichtigenden projektmittel in der deutschen entwicklungszusammenarbeit: XXXAnteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
-phosphorous in flowing waters: Phosphorous in flowing waters
+average weekly working hours of all mothers and fathers: Average weekly working hours of all mothers and fathers
+vocational qualifications for women and girls through german development cooperation: Vocational qualifications for women and girls through German development cooperation
+proportion of project funds allocated to gender equality in german development cooperation: Proportion of project funds allocated to gender equality in German development cooperation
+phosphorus in flowing waters: Phosphorus in flowing waters
 nitrate in groundwater: Nitrate in groundwater
-xxxnumber of people gaining first-time or upgraded access to drinking water owing to german support: XXXNumber of people gaining first-time or upgraded access to drinking water owing to German support
-number of people gaining first-time or improved access to sanitation owing to german support: Number of people gaining first-time or improved access to sanitation owing to German support
+number of people with access to new or improved drinking water supply: Number of people with access to new or improved drinking water supply
+number of people with access to new or improved basic sanitation or wastewater treatment: Number of people with access to new or improved basic sanitation or wastewater treatment
 number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Number of people gaining first-time or upgraded access to drinking water or sanitation owing to German support
 final energy productivity: Final energy productivity
 primary energy consumption: Primary energy consumption
@@ -360,14 +363,14 @@ raw material input productivity: Raw material input productivity
 government deficit: Government deficit
 structural deficit: Structural deficit
 government debt: Government debt
-gross fixed capital formation in relation to gross domestic product (gdp): Gross fixed capital formation in relation to Gross domestic product (GDP)
-gross domestic product per capita: Gross domestic product per capita
-xxxemployment rate (20 to 64-year-olds): XXXEmployment rate (20 to 64-year-olds)
-xxxemployment rate (55 to 64-year-olds): XXXEmployment rate (55 to 64-year-olds)
-xxxtarifgebundene beschäftigungsverhältnisse: XXXTarifgebundene Beschäftigungsverhältnisse
-xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): XXXFreiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
+gross fixed capital formation in relation to gross domestic product (gdp) (investment ratio): Gross fixed capital formation in relation to Gross domestic product (GDP) (investment ratio)
+gross domestic product (gdp) per capita: Gross domestic product (GDP) per capita
+employment rate, total <br>(20- to 64-year-olds): Employment rate, total <br>(20- to 64-year-olds)
+employment rate, older people <br>(55- to 64-year-olds): Employment rate, older people <br>(55- to 64-year-olds)
+collective bargaining coverage: Collective bargaining coverage
+voluntary sustainability reporting by companies according to the german sustainability code (dnk): Voluntary sustainability reporting by companies according to the German Sustainability Code (DNK)
 private and public expenditure on research and development: Private and public expenditure on research and development
-roll-out of broadband – share of households with access to gigabit broadband services: Roll-out of broadband – Share of households with access to gigabit broadband services
+rollout of broadband – share of households with access to gigabit broadband services: Rollout of broadband – Share of households with access to gigabit broadband services
 foreign school graduates: Foreign school graduates
 gini coefficient of income after social transfers: Gini coefficient of income after social transfers
 expansion of settlement and transport area: Expansion of settlement and transport area
@@ -375,28 +378,28 @@ density of settlements: Density of settlements
 final energy consumption in goods transport: Final energy consumption in goods transport
 final energy consumption in passenger transport: Final energy consumption in passenger transport
 accessibility of medium-sized and large cities by public transport: Accessibility of medium-sized and large cities by public transport
-xxxpersons overburdened by housing costs: XXXPersons overburdened by housing costs
-xxxerreichbarkeit von für die erholung geeigneten grünflächen in städten: XXXErreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: XXXMarket share of products certified by publicly managed eco-labelling schemes
-global environmental impact by private household consumption – use of raw materials: Global environmental impact by private household consumption – use of raw materials
-global environmental impact by private household consumption – energy consumption: Global environmental impact by private household consumption – energy consumption
-global environmental impact by private household consumption – co2 emissions: Global environmental impact by private household consumption – CO₂ emissions
-emas eco-management and audit scheme: EMAS Eco-Management and Audit Scheme
-xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: XXXNachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
-xxxanteil an vergabeverfahren in der öffentlichen beschaffung, bei denen mindestens ein nachhaltigkeitskriterium berücksichtigt wurde: XXXAnteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
-co2 emissions of commercially available vehicles in the public sector: CO₂ emissions of commercially available vehicles in the public sector
-xxxnachhaltige textilbeschaffung der bundesverwaltung (exklusive sondertextilien): XXXNachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
-xxxverbraucherverschuldung: XXXVerbraucherverschuldung
+proportion of people with high housing costs: Proportion of people with high housing costs
+accessibility of recreational green spaces in cities: Accessibility of recreational green spaces in cities
+market share of products certified by a state sustainability standard: Market share of products certified by a state sustainability standard
+global environmental impact by private household consumption – use of raw materials: Global environmental impact by private household consumption – Use of raw materials
+global environmental impact by private household consumption – energy consumption: Global environmental impact by private household consumption – Energy consumption
+global environmental impact by private household consumption – co₂ emissions: Global environmental impact by private household consumption – CO₂ emissions
+eco-management and audit scheme (emas): Eco-Management and Audit Scheme (EMAS)
+sustainability-certified cultural and media institutions: Sustainability-certified cultural and media institutions
+sustainable procurement – share of public procurement procedures in which at least one sustainability criterion has been taken into account: Sustainable procurement – Share of public procurement procedures in which at least one sustainability criterion has been taken into account
+sustainable procurement – co₂ emissions of commercially available vehicles in the public sector: Sustainable procurement – CO₂ emissions of commercially available vehicles in the public sector
+sustainable procurement – sustainable textile procurement of the federal administration (excluding special textiles): Sustainable procurement – Sustainable textile procurement of the Federal Administration (excluding special textiles)
+consumer debt: Consumer debt
 greenhouse gas emissions: Greenhouse gas emissions
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: International climate finance for the reduction of greenhouse gases and adaptation to climate change
-nitrogen input via the inflows into the baltic sea: Nitrogen input via the inflows into the Baltic Sea
-nitrogen input via the inflows into the north sea: Nitrogen input via the inflows into the North Sea
+nitrogen input in coastal and marine waters – nitrogen input via the inflows into the baltic sea: Nitrogen input in coastal and marine waters – Nitrogen input via the inflows into the Baltic Sea
+nitrogen input in coastal and marine waters – nitrogen input via the inflows into the north sea: Nitrogen input in coastal and marine waters – Nitrogen input via the inflows into the North Sea
 share of sustainably fished stocks of fish in the north and baltic seas: Share of sustainably fished stocks of fish in the North and Baltic Seas
 biodiversity and landscape quality: Biodiversity and landscape quality
 eutrophication of ecosystems: Eutrophication of ecosystems
-xxxbodenversiegelungsgrad: XXXBodenversiegelungsgrad
-xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land (inkl. wald): XXXBilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
-xxxvon der bundeswehr ausgebildetes personal zur stärkung der kleinwaffenkontrolle und munitionssicherheit: XXXVon der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
+degree of soil sealing: Degree of soil sealing
+bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests): Bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests)
+personnel trained by the bundeswehr to strengthen small arms control and ammunition safety: Personnel trained by the Bundeswehr to strengthen small arms control and ammunition safety
 corruption perceptions index in germany: Corruption Perceptions Index in Germany
 corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in partner countries for German development cooperation
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness

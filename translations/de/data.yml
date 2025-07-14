@@ -25,14 +25,14 @@ nh₃: NH₃
 nmvoc: NMVOC
 noₓ: NOₓ
 so₂: SO₂
-xxxinsgesamt: Insgesamt
+total: Insgesamt
 eu: EU
 eu-27: EU-27
 eu-28: EU-28
 eurozone: Eurozone
 germany: Deutschland
-xxxkindertageseinrichtungen: Kindertageseinrichtungen
-xxxtagespflege: Kindertagespflege
+day care centres: Kindertageseinrichtungen
+day care: Kindertagespflege
 effectiveness = low or moderate: Gering oder moderat
 technical compliance = non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
 effectiveness = substantial or high: Solide oder hoch
@@ -66,105 +66,107 @@ saxony: Sachsen
 saxony-anhalt: Sachsen-Anhalt
 thuringia: Thüringen
 pm2.5: PM₂.₅
-xxxkeine risikolage: Keine Risikolage
-xxxmindestens eine risikolage: Mindestens eine Risikolage
+no risk situation: Keine Risikolage
+at least one risk situation: Mindestens eine Risikolage
 total: Insgesamt
-xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
+difference between “no risk situation” and 'at least one risk situation': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
 baltic sea: Ostsee
 north sea: Nordsee
-xxxnachhaltige bewirtschaftete fläche: Nachhaltige bewirtschaftete Fläche
-xxxterrestrische schutzgebiete und mangrovenwälder in marinen schutzgebieten: Terrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten
-xxxwaldfläche nachhaltige bewirtschaftung und wiederherstellung: Waldfläche nachhaltige Bewirtschaftung und Wiederherstellung
-xxxhochschulen: Hochschulen
-xxxstaat und private institutionen ohne erwerbszweck: Staat und private Institutionen ohne Erwerbszweck
-xxxwirtschaft: Wirtschaft
-xxxa) anteil nachhaltiger vergabeverfahren: a) Nachhaltigkeit in Vergabeverfahren
+sustainably farmed area: Nachhaltige bewirtschaftete Fläche
+terrestrial protected areas and mangrove forests in marine protected areas: Terrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten
+forest area sustainable management and restoration: Waldfläche nachhaltige Bewirtschaftung und Wiederherstellung
+universities: Hochschulen
+government and private non-profit institutions: Staat und private Institutionen ohne Erwerbszweck
+economy: Wirtschaft
+a) sustainability in procurement procedures: a) Nachhaltigkeit in Vergabeverfahren
 b) co2 emissions of vehicles in the public sector: b) CO₂-Emissionen der Kfz der öffentlichen Hand
-xxxnachhaltige textilbeschaffung: c) Nachhaltige Textilbeschaffung
-xxxanteil der länder, die deutschland bei der pandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion: '<u>Zusätzliche Zeitreihe:</u> Beitrag Deutschlands zur globalen Pandemieprävention, -vorsorge und -reaktion (PPR)'
+c) sustainable textile procurement: c) Nachhaltige Textilbeschaffung
+share of countries that germany supports in pandemic prevention, preparedness and response (ppr) and that have made progress in the global health security index (ghsi) in relation to the number of countries that germany supports in the area of ppr: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+"<u>additional time series:</u> germany's contribution to global pandemic prevention, preparedness and response (ppr)": '<u>Zusätzliche Zeitreihe:</u> Beitrag Deutschlands zur globalen Pandemieprävention, -vorsorge und -reaktion (PPR)'
 moving four-year average: Gleitender Vierjahresdurchschnitt
 moving five-year average shown for the last year: Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr
 all wired technologies: Alle leitungsgebundenen Technologien
 calculated annual values: Berechnete jährliche Werte
-xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden: '<u>Zusätzliche Zeitreihe:</u> Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden'
+'<u>additional time series:</u> productions of audiovisual media that meet ecological standards': '<u>Zusätzliche Zeitreihe:</u> Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden'
+trained personnel: Ausgebildetes Personal
 mortality avoidable through treatment: Durch Behandlung vermeidbare Sterblichkeit
-xxxbereinigter gender pay gap: '<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap'
-xxxdata from the federal ministry of food and agriculture: '<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH'
+'<u>additional time series:</u> adjusted gender pay gap': '<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap'
+'<u>additional time series:</u> data from the bmleh': '<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH'
 hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
 separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
 difference: Differenz
-xxxdifferenz zwischen 'keine risikolage' und 'mindestens eine risikolage': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
+difference between “no risk situation” and 'at least one risk situation': Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'
 objects with digitised media: Objekte mit Digitalisat
-data from the federal statistical office: '<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes'
-effectiveness: '<u>Zeitreihe des Indikators:</u> Effectiveness'
-employees in emas organisations: '<u>Zusätzliche Zeitreihe:</u> Beschäftigte in EMAS-Organisationen'
+'<u>time series of the indicator:</u> data from the federal statistical office': '<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes'
+'<u>time series of the indicator:</u> effectiveness': '<u>Zeitreihe des Indikators:</u> Effectiveness'
+'<u>additional time series:</u> employees in emas organisations': '<u>Zusätzliche Zeitreihe:</u> Beschäftigte in EMAS-Organisationen'
 energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
 energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
 gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
 gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
-xxxerstausbildung: Erstausbildung
-xxxfachkräftepotenzial (insgesamt): Fachkräftepotenzial (insgesamt)
-xxxtechnical compliance: '<u>Zusätzliche Zeitreihe:</u> Technical Compliance'
+initial training: Erstausbildung
+skilled labour potential (total): Fachkräftepotenzial (insgesamt)
+'<u>additional time series:</u> technical compliance': '<u>Zusätzliche Zeitreihe:</u> Technical Compliance'
+trained personnel still required to achieve the target: Noch fehlende Ausbildungsleistung
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
 gross domestic product (price-adjusted): Bruttoinlandsprodukt (preisbereinigt)
 germans: Deutsche
 goods transport performance: Güterbeförderungsleistung
-xxxhochschulabschlüsse: Hochschulabschluss
-xxxhöherqualifizierende berufsausbildung: Höherqualifizierende Berufsausbildung
-imports: Einfuhren
-'xxx<u>zeitreihe des indikators:</u>nachhaltigkeitszertifizierte kultur- und medieneinrichtungen': '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
-locations of organisation registered with emas: '<u>Zeitreihe des Indikators:</u> EMAS-Standorte'
+university degree: Hochschulabschluss
+higher qualifying vocational training: Höherqualifizierende Berufsausbildung
+'<u>time series of the indicator:</u> imports': '<u>Zeitreihe des Indikators:</u> Einfuhren'
+'<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
+'<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Zeitreihe des Indikators:</u> EMAS-Standorte'
 gini coefficient of market income: Gini-Koeffizient des Markteinkommens
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
 share of msy examined stocks in all managed fish stocks: MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen
 mothers: Mütter
 obese: Adipositas
-emas organisations: '<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen'
+'<u>additional time series:</u> emas organisations': '<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen'
 overweight without obese: Übergewicht ohne Adipositas
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
-xxxnach anzahl der risikolagen: Nach Anzahl der Risikolagen
+by number of risk positions: Nach Anzahl der Risikolagen
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
 mortality avoidable through prevention: Durch Prävention vermeidbare Sterblichkeit
-imports of processed products: Einfuhren von weiterverarbeiteten Produkten
-xxxakademisch qualifizierte und beruflich höherqualifizierte: Akademisch Qualifizierte und beruflich Höherqualifizierte
+'<u>additional time series:</u> imports of processed products': '<u>Zusätzliche Zeitreihe:</u> Einfuhren von weiterverarbeiteten Produkten'
+academically qualified and professionally highly qualified persons: Akademisch Qualifizierte und beruflich Höherqualifizierte
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
-xxxrohstoffeinsatz für konsum und investitionen (rmc): Rohstoffeinsatz für Konsum und Investitionen (RMC)
-xxxrohstoffeinsatz für exporte (rmc): Rohstoffeinsatz für Exporte (RMC)
+raw material consumption and investment: Rohstoffeinsatz für Konsum und Investitionen
+raw material consumption for exports: Rohstoffeinsatz für Exporte
 students from ldcs: Studierende aus LDCs
 students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
 with tertiary qualification: Tertiärer Abschluss
 total: Insgesamt
 all objects: Objekte insgesamt
-xxxunbereinigter gender pay gap: '<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap'
+'<u>time series of the indicator:</u> unadjusted gender pay gap': '<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap'
 fathers: Väter
-'xxx<u>zeitreihe des indikators:</u> kinder, deren väter elterngeld bezogen haben': '<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
-xxxmännliche bezieher an allen genommenen elterngeldmonaten: '<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten'
+'<u>time series of the indicator:</u> children whose fathers have received parental allowance': '<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
+'<u>additional time series:</u> male recipients of all parental allowance months taken': '<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten'
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
 gini coefficient of wealth: Gini-Koeffizient des Vermögens
 objects without digitised media: Objekte ohne Digitalisat
 for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
 for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres
-xxxzweitausbildung, ausbildung nach abitur: Zweitausbildung, Ausbildung nach Abitur
+secondary education, education after abitur: Zweitausbildung, Ausbildung nach Abitur
 divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
-coasts and seas sub-index: Teilindex Küsten/Meere
-farmland sub-index: Teilindex Agrarland
-forest sub-index: Teilindex Wälder
-settlements sub-index: Teilindex Siedlungen
-total: Insgesamt
+'<u>additional time series:</u> coasts and seas': '<u>Zusätzliche Zeitreihe:</u> Küsten/Meere'
+farmland sub-indicator: Teilindikator Agrarland
+forest sub-indicator: Teilindikator Wälder
+settlements sub-indicator: Teilindikator Siedlungen
+'<u>time series of the indicator:</u> total': '<u>Zeitreihe des Indikators:</u> Gesamtindikator'
 inland waters sub-index: Teilindex Binnengewässer
-xxxbranchen-/flächentarifvertrag: Branchen-/Flächentarifvertrag
-xxxfirmen-/haustarifvertrag: Firmen-/Haustarifvertrag
+sector/area collective agreement: Branchen-/Flächentarifvertrag
+company/house collective agreement: Firmen-/Haustarifvertrag
 recreation area, cemetery: Erholungsfläche, Friedhof
 settlement area (built on): Siedlungsfläche (bebaut)
 transport area: Verkehrsfläche
@@ -181,26 +183,27 @@ total: Insgesamt
 age group: Altersklasse
 air pollutant: Luftschadstoff
 area: Gebiet
-xxxart der betreuung: Art der Betreuung
-xxxlevel of compliance: Grad der Umsetzung
+type of care: Art der Betreuung
+level of compliance: Grad der Umsetzung
 calculation method: Berechnungsmethode
 criminal offence: Straftat
 criminal offences: Straftaten
+display: Anzeigen
 county: Kreis
 federal state: Bundesland
 fine particulate matter: Feinstaub
-xxxart der prävention: Art der Maßnahme
+type of treatment: Art der Maßnahme
 qualification: Qualifizierung
-xxxrisikolage: Risikolage
+risk situation: Risikolage
 sea: Meer
-xxxsektoren: Sektoren
+sector: Sektor
 time series: Zeitreihe
 sex: Geschlecht
-sub index: Teilindex
-xxxart der tarifverträge: Art des Tarifvertrags
+sub indicator: Teilindikator
+type of collective bargaining agreement: Art des Tarifvertrags
 type of area: Art der Fläche
 degree of urbanisation: Verstädterungsgrad
-xxxzuordnung: Zuordnung
+categorization: Zuordnung
 
 #Einheiten
 '1.000': '1 000'
@@ -239,69 +242,69 @@ a) material and social deprivation: a) Materielle und soziale Deprivation
 b) severe material and social deprivation: b) Erhebliche materielle und soziale Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
-support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-xxxvermeidbare sterblichkeit: Vermeidbare Sterblichkeit
+support for good governance in attaining appropriate nutrition worldwide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
+mortality avoidable through prevention and treatment: Durch Prävention und Behandlung vermeidbare Sterblichkeit
 c) adolescents: c) Jugendliche
 d) adults: d) Erwachsene
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
 obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
-share of the population with excessive exposure to pm2,5: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
-x: X
-early school leaversxxx: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
-persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder postsekundarem nichttertiärem Abschluss)
-xxx: Schulen mit BNE-Label
+share of the population with excessive exposure to pm2.5: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made progress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+early school and training leavers: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
+persons with an academic or higher vocational qualification: Akademisch Qualifizierte und beruflich Höherqualifizierte
+schools with esd label (education for sustainable development): Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
 a) 0 to 2-year-olds: a) 0- bis 2-Jährige
 b) 3 to 5-year-olds: b) 3- bis 5-Jährige
-xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17- und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
+participation in continuing education: Weiterbildungsbeteiligung
+proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
 b) on supervisory boards of listed and fully co-determined companies: b) In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen
-c) in management positions in the federal civil service: c) Im öffentlichen Dienst des Bundes
-xxxkinder, deren väter elterngeld bezogen haben: Kinder, deren Väter Elterngeld bezogen haben
-xxxerwerbsarbeitszeit von müttern und vätern: Erwerbsarbeitszeit von Müttern und Vätern
+c) in the federal civil service: c) Im öffentlichen Dienst des Bundes
+children whose fathers have received parental allowance: Kinder, deren Väter Elterngeld bezogen haben
+average weekly working hours in relation to all mothers and fathers: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
 vocational qualifications of women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
-xxxgeschlechtergleichstellun in der entwicklungszusammenarbeit: Geschlechtergleichstellun in der Entwicklungszusammenarbeit
+proportion of project funds allocated to gender equality in german development cooperation: Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
 phosphorous in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
-xxxpeople gaining first-time or upgraded access to drinking water: a) Mit einer neuen oder verbesserten Trinkwasserversorgung
-xxxnumber of people gaining first-time or improved access to sanitation: b) Mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung
-xxxpeople gaining first-time or upgraded access to drinking water or sanitation: Mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung
+a) with access to new or improved drinking water supply: a) Mit einer neuen oder verbesserten Trinkwasserversorgung
+b) with access to new or improved basic sanitation or wastewater treatment: b) Mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung
+with a new or higher-quality access to the drinking water supply or connection to the sanitation supply: Mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung
 a) final energy productivity: a) Endenergieproduktivität
 b) primary energy consumption: b) Primärenergieverbrauch
 share of renewable energies in gross final energy consumption: Anteil erneuerbarer Energien am Bruttoendenergieverbrauch
 share of electricity from renewable energy sources in gross electricity consumption: Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch
 raw material input productivity: Gesamtrohstoffproduktivität
 a) government deficit: a) Finanzierungssaldo
-b) structural deficit: b) struktureller Finanzierungssaldo
+b) structural deficit: b) Struktureller Finanzierungssaldo
 government debt: Schuldenstand
-gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum BIP
+gross fixed capital formation in relation to gdp: Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
 gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
-a) 20 to 64-year-olds: a) Insgesamt (20- bis 64-Jährige)
-b) 55 to 64-year-olds: b) Ältere (55- bis 64-Jährige)
-xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
-xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
+a) total (20 to 64-year-olds): a) Insgesamt (20- bis 64-Jährige)
+b) older people (55 to 64-year-olds): b) Ältere (55- bis 64-Jährige)
+collective bargaining coverage: Tarifgebundene Beschäftigungsverhältnisse
+voluntary sustainability reporting by companies: Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
-roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
+rollout of broadband – share of households with access to gigabit broadband services: Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
 foreign school graduates: Ausländische Schulabsolvierende
 gini coefficient of income after social transfers: Gini-Koeffizient des Einkommens nach Sozialtransfers
 expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
 density of settlements: Siedlungsdichte
 final energy consumption in goods transport: Endenergieverbrauch im Güterverkehr
 final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
-accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
-housing cost overload: Überlastung durch Wohnkosten
-xxxgrünflächen in städten: Grünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
+accessibility of mediumsized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
+proportion of people with high housing costs: Anteil der Personen mit hohen Wohnkosten
+accessibility of green spaces suitable for recreation in cities: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
+market share of products with official sustainability labels: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
 ba) direct and indirect use of raw materials: ba) Direkter und indirekter Rohstoffeinsatz
 bb) direct and indirect energy consumption: bb) Direkter und indirekter Energieverbrauch
-bc) direct and indirect co2 emissions: bc) Direkte und indirekte CO₂-Emissionen
-emas eco-management: Umweltmanagementsystem (EMAS)
-xxxkultur- und medieneinrichtungen: Kultur- und Medieneinrichtungen
-xxxa) nachhaltigkeit in vergabeverfahren: a) Nachhaltigkeit in Vergabeverfahren
-b) co2 emissions of commercially available vehicles in the public sector: b) CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge
-xxxc) nachhaltige textilbeschaffung: c) Nachhaltige Textilbeschaffung
-xxxverbraucherverschuldung: Verbraucherverschuldung
+bc) direct and indirect co₂ emissions: bc) Direkte und indirekte CO₂-Emissionen
+eco-management and audit scheme (emas): Umweltmanagementsystem (EMAS)
+cultural and media institutions: Kultur- und Medieneinrichtungen
+a) sustainability in procurement procedures: a) Nachhaltigkeit in Vergabeverfahren
+b) co₂ emissions of commercially available vehicles in the public sector: b) CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge
+c) sustainable textile procurement: c) Nachhaltige Textilbeschaffung
+consumer debt: Verbraucherverschuldung
 greenhouse gas emissions: Treibhausgasemissionen
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
 aa) baltic sea: aa) Ostsee
@@ -309,48 +312,48 @@ ab) north sea: ab) Nordsee
 share of sustainably fished stocks of fish in the north and baltic seas: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
-xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
-xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land, gemessen in hektar: Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
-xxxausgebildetes personal zur kleinwaffenkontrolle: Ausgebildetes Personal zur Kleinwaffenkontrolle
-xxxcorruption perception index in germany: a) Korruptionswahrnehmungsindex in Deutschland
-xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012: b) Korruptionswahrnehmungsindex in den Partnerländern der deutschen Entwicklungszusammenarbeit
+degree of soil sealing: Bodenversiegelungsgrad
+bilateral contributions of german international cooperation to the protection, sustainable use, and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
+personnel trained by the bundeswehr to strengthen small arms control and ammunition security: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
+a) corruption perceptions index in germany: a) Corruption Perceptions Index in Deutschland
+b) corruption perceptions index in partner countries for german development cooperation: b) Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
-official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
-number of students and researchers from developing countries and least developed countries: Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
+official developmentassistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
+number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
 
 #Indikatoren für Statusübersicht
-material deprivation: Materielle und soziale Deprivation
-severe material deprivation: Erhebliche materielle und soziale Deprivation
+material and social deprivation: Materielle und soziale Deprivation
+severe material and social deprivation: Erhebliche materielle und soziale Deprivation
 nitrogen surplus in agriculture: Stickstoffüberschuss der Landwirtschaft
 organic farming: Ökologischer Landbau
-support for good governance in attaining appropriate nutrition world-wide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
-xdurch prävention und behandlung vermeidbare sterblichkeit: Durch Prävention und Behandlung vermeidbare Sterblichkeit
+support for good governance in attaining appropriate nutrition worldwide: Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit
+mortality avoidable through prevention and treatment: Durch Prävention und Behandlung vermeidbare Sterblichkeit
 smoking rate among adolescents: Raucherquote von Jugendlichen
 smoking rate among adults: Raucherquote von Erwachsenen
 obesity rate among children and adolescents: Adipositasquote von Kindern und Jugendlichen
 obesity rate among adults: Adipositasquote von Erwachsenen
 emissions of air pollutants: Emissionen von Luftschadstoffen
-xxxshare of the population with excessive exposure to pm10: Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
-xanteil der länder, die deutschland bei der xxxpandemieprävention, -vorsorge und -reaktion (ppr) unterstützt und die im global health security index (ghsi) fortschritte gemacht haben, an der anzahl der länder, die deutschland im bereich ppr unterstützt: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
-early school leaversxxx: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
-persons with an academic or higher vocational qualification (30 to 34-year-olds with a tertiary or post-secondary non-tertiary level of education): Akademisch Qualifizierte und beruflich Höherqualifizierte (30- bis 34-Jährige mit tertiärem oder postsekundarem nichttertiärem Abschluss)
-xxx: Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
-all-day care provision for 0 to 2-year-old children: Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige
-all-day care provision for 3 to 5-year-old children: Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige
-xxxweiterbildungsbeteiligung: Weiterbildungsbeteiligung
-xxxanteil der 17 und 18-jährigen mit (angestrebter) studienberechtigung: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
+share of the population with excessive exposure to fine particulate matter (pm2.5): Anteil der Bevölkerung mit erhöhter PM₂.₅-Feinstaubexposition
+proportion of countries supported by germany in pandemic prevention, preparedness, and response (ppr) that have made pro-gress in the global health security index (ghsi), relative to the total number of countries supported by germany in the area of ppr: Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt
+early leavers from education and training: Frühe Schul- und Ausbildungsabgängerinnen und -abgänger
+persons with a tertiary or post-secondary non-tertiary level of education: Akademisch Qualifizierte und beruflich Höherqualifizierte
+schools with an esd label (education for sustainable development): Schulen mit BNE-Label (Bildung für nachhaltige Entwicklung)
+all-day care for children <br>(0- to 2-year-olds): Ganztagsbetreuung für Kinder <br>(0- bis 2-Jährige)
+all-day care for children <br>(3- to 5-year-olds): Ganztagsbetreuung für Kinder <br>(3- bis 5-Jährige)
+participation in education and training: Weiterbildungsbeteiligung
+proportion of 17- and 18-year-olds with (aspired) university entrance qualification: Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung
 gender pay gap: Verdienstabstand zwischen Frauen und Männern
-women in management positions in business: Frauen in Führungspositionen in der Wirtschaft
+women in management  positions in business: Frauen in Führungspositionen in der Wirtschaft
 women in management positions in the federal civil service: Frauen in Führungspositionen im öffentlichen Dienst des Bundes
 proportion of fathers receiving parental allowance: Väterbeteiligung beim Elterngeld
-xxxdurchschnittliche wöchentliche erwerbsarbeitszeit bezogen auf alle mütter und väter: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
-vocational qualifications of women and girls through german development assistance: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
-xxxanteil der geschlechtergleichstellung berücksichtigenden projektmittel in der deutschen entwicklungszusammenarbeit: Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
-phosphorous in flowing waters: Phosphor in Fließgewässern
+average weekly working hours of all mothers and fathers: Durchschnittliche wöchentliche Erwerbsarbeitszeit bezogen auf alle Mütter und Väter
+vocational qualifications for women and girls through german development cooperation: Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit
+proportion of project funds allocated to gender equality in german development cooperation: Anteil der Geschlechtergleichstellung berücksichtigenden Projektmittel in der deutschen Entwicklungszusammenarbeit
+phosphorus in flowing waters: Phosphor in Fließgewässern
 nitrate in groundwater: Nitrat im Grundwasser
-xxxnumber of people gaining first-time or upgraded access to drinking water owing to german support: Anzahl der Menschen mit einer neuen oder verbesserten Trinkwasserversorgung
-number of people gaining first-time or improved access to sanitation owing to german support: Anzahl der Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung
+number of people with access to new or improved drinking water supply: Anzahl der Menschen mit einer neuen oder verbesserten Trinkwasserversorgung
+number of people with access to new or improved basic sanitation or wastewater treatment: Anzahl der Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung
 number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support: Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten
 final energy productivity: Endenergieproduktivität
 primary energy consumption: Primärenergieverbrauch
@@ -360,14 +363,14 @@ raw material input productivity: Gesamtrohstoffproduktivität
 government deficit: Staatsdefizit
 structural deficit: Strukturelles Defizit
 government debt: Schuldenstand
-gross fixed capital formation in relation to gross domestic product (gdp): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
-gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
-xxxemployment rate (20 to 64-year-olds): Erwerbstätigenquote insgesamt (20- bis 64-Jährige)
-xxxemployment rate (55 to 64-year-olds): Erwerbstätigenquote Ältere (55- bis 64-Jährige)
-xxxtarifgebundene beschäftigungsverhältnisse: Tarifgebundene Beschäftigungsverhältnisse
-xxxfreiwillige nachhaltigkeitsberichterstattung von unternehmen nach dem deutschen nachhaltigkeitskodex (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
+gross fixed capital formation in relation to gross domestic product (gdp) (investment ratio): Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)
+gross domestic product (gdp) per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
+employment rate, total <br>(20- to 64-year-olds): Erwerbstätigenquote, insgesamt <br>(20- bis 64-Jährige)
+employment rate, older people <br>(55- to 64-year-olds): Erwerbstätigenquote, Ältere <br>(55- bis 64-Jährige)
+collective bargaining coverage: Tarifgebundene Beschäftigungsverhältnisse
+voluntary sustainability reporting by companies according to the german sustainability code (dnk): Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem Deutschen Nachhaltigkeitskodex (DNK)
 private and public expenditure on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
-roll-out of broadband – share of households with access to gigabit broadband services: Breitbandausbau – Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
+rollout of broadband – share of households with access to gigabit broadband services: Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung
 foreign school graduates: Ausländische Schulabsolvierende
 gini coefficient of income after social transfers: Gini-Koeffizient des Einkommens nach Sozialtransfers
 expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
@@ -375,30 +378,30 @@ density of settlements: Siedlungsdichte
 final energy consumption in goods transport: Endenergieverbrauch im Güterverkehr
 final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 accessibility of medium-sized and large cities by public transport: Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln
-xxxpersons overburdened by housing costs: Anteil der Personen mit hohen Wohnkosten
-xxxerreichbarkeit von für die erholung geeigneten grünflächen in städten: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
-xxxmarket share of products certified by publicly managed eco-labelling schemes: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
-global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz
-global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch
-global environmental impact by private household consumption – co2 emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen
-emas eco-management and audit scheme: Umweltmanagementsystem (EMAS)
-xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
-xxxanteil an vergabeverfahren in der öffentlichen beschaffung, bei denen mindestens ein nachhaltigkeitskriterium berücksichtigt wurde: Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
-co2 emissions of commercially available vehicles in the public sector: CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
-xxxnachhaltige textilbeschaffung der bundesverwaltung (exklusive sondertextilien): Nachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
-xxxverbraucherverschuldung: Verbraucherverschuldung
+proportion of people with high housing costs: Anteil der Personen mit hohen Wohnkosten
+accessibility of recreational green spaces in cities: Erreichbarkeit von für die Erholung geeigneten Grünflächen in Städten
+market share of products certified by a state sustainability standard: Marktanteil von Produkten mit staatlichen Nachhaltigkeitssiegeln
+global environmental impact by private household consumption – use of raw materials: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – Rohstoffeinsatz
+global environmental impact by private household consumption – energy consumption: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – Energieverbrauch
+global environmental impact by private household consumption – co₂ emissions: Globale Umweltinanspruchnahme durch den Konsum privater Haushalte – CO₂-Emissionen
+eco-management and audit scheme (emas): Umweltmanagementsystem (EMAS)
+sustainability-certified cultural and media institutions: Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen
+sustainable procurement – share of public procurement procedures in which at least one sustainability criterion has been taken into account: Nachhaltige Beschaffung – Anteil an Vergabeverfahren in der öffentlichen Beschaffung, bei denen mindestens ein Nachhaltigkeitskriterium berücksichtigt wurde
+sustainable procurement – co₂ emissions of commercially available vehicles in the public sector: Nachhaltige Beschaffung – CO₂-Emissionen von handelsüblichen Kraftfahrzeugen der öffentlichen Hand
+sustainable procurement – sustainable textile procurement of the federal administration (excluding special textiles): Nachhaltige Beschaffung – Nachhaltige Textilbeschaffung der Bundesverwaltung (exklusive Sondertextilien)
+consumer debt: Verbraucherverschuldung
 greenhouse gas emissions: Treibhausgasemissionen
 international climate finance for the reduction of greenhouse gases and adaptation to climate change: Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel
-nitrogen input via the inflows into the baltic sea: Stickstoffeintrag über die Zuflüsse in die Ostsee
-nitrogen input via the inflows into the north sea: Stickstoffeintrag über die Zuflüsse in die Nordsee
+nitrogen input in coastal and marine waters – nitrogen input via the inflows into the baltic sea: Nährstoffeinträge in Küsten- und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Ostsee
+nitrogen input in coastal and marine waters – nitrogen input via the inflows into the north sea: Nährstoffeinträge in Küsten- und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Nordsee
 share of sustainably fished stocks of fish in the north and baltic seas: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee
 biodiversity and landscape quality: Artenvielfalt und Landschaftsqualität
 eutrophication of ecosystems: Eutrophierung der Ökosysteme
-xxxbodenversiegelungsgrad: Bodenversiegelungsgrad
-xxxbilaterale beiträge der deutschen internationalen kooperation zum schutz, nachhaltiger nutzung und wiederherstellung von land (inkl. wald): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald), gemessen in Hektar
-xxxvon der bundeswehr ausgebildetes personal zur stärkung der kleinwaffenkontrolle und munitionssicherheit: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
-corruption perceptions index in germany: Corruption Perception Index in Deutschland
-corruption perceptions index in partner countries for german development cooperation: Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
+degree of soil sealing: Bodenversiegelungsgrad
+bilateral contributions from german international cooperation arrangements towards the protection, sustainable use and restoration of land (including forests): Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land (inkl. Wald)
+personnel trained by the bundeswehr to strengthen small arms control and ammunition safety: Von der Bundeswehr ausgebildetes Personal zur Stärkung der Kleinwaffenkontrolle und Munitionssicherheit
+corruption perceptions index in germany: Corruption Perceptions Index in Deutschland
+corruption perceptions index in partner countries for german development cooperation: Corruption Perceptions Index in den Partnerländern der deutschen Entwicklungszusammenarbeit
 financial action task force (fatf) rating effectiveness: Financial Action Task Force (FATF) rating effectiveness
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
