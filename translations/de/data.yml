@@ -104,10 +104,10 @@ objects with digitised media: Objekte mit Digitalisat
 energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
 energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
 energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
-gini coefficient of equivalised disposable income: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens
-gini coefficient of equivalised disposable income before social transfers: Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen
+'<u>time series of the indicator:</u> gini coefficient of equivalised disposable income': '<u>Zeitreihe des Indikators:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
+'<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers': '<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen'
 initial training: Erstausbildung
-skilled labour potential (total): Fachkräftepotenzial (insgesamt)
+'<u>additional time series:</u> skilled labour potential (total)': '<u>Zusätzliche Zeitreihe:</u> Fachkräftepotenzial (insgesamt)'
 '<u>additional time series:</u> technical compliance': '<u>Zusätzliche Zeitreihe:</u> Technical Compliance'
 trained personnel still required to achieve the target: Noch fehlende Ausbildungsleistung
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
@@ -121,7 +121,7 @@ higher qualifying vocational training: Höherqualifizierende Berufsausbildung
 '<u>time series of the indicator:</u> imports': '<u>Zeitreihe des Indikators:</u> Einfuhren'
 '<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Zeitreihe des Indikators:</u> Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen'
 '<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Zeitreihe des Indikators:</u> EMAS-Standorte'
-gini coefficient of market income: Gini-Koeffizient des Markteinkommens
+'<u>additional time series:</u> gini coefficient of market income': '<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Markteinkommens'
 raw material input for consumption, investment and exports: Rohstoffeinsatz für Konsum, Investitionen und Exporte
 raw material input productivity: Gesamtrohstoffproduktivität
 share of msy examined stocks in all managed fish stocks: MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen
@@ -135,7 +135,7 @@ by number of risk positions: Nach Anzahl der Risikolagen
 with post-secondary non-tertiary qualification: Postsekundarer nicht-tertiärer Abschluss
 mortality avoidable through prevention: Durch Prävention vermeidbare Sterblichkeit
 '<u>additional time series:</u> imports of processed products': '<u>Zusätzliche Zeitreihe:</u> Einfuhren von weiterverarbeiteten Produkten'
-academically qualified and professionally highly qualified persons: Akademisch Qualifizierte und beruflich Höherqualifizierte
+'<u>time series of the indicator:</u> academically qualified and professionally highly qualified persons': '<u>Zeitreihe des Indikators:</u> Akademisch Qualifizierte und beruflich Höherqualifizierte'
 researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 raw material consumption and investment: Rohstoffeinsatz für Konsum und Investitionen
@@ -150,7 +150,7 @@ fathers: Väter
 '<u>time series of the indicator:</u> children whose fathers have received parental allowance': '<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben'
 '<u>additional time series:</u> male recipients of all parental allowance months taken': '<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten'
 value of consumption, investment and exports (price-adjusted): Wert von Konsum, Investitionen und Exporten (preisbereinigt)
-gini coefficient of wealth: Gini-Koeffizient des Vermögens
+'<u>additional time series:</u> gini coefficient of wealth': '<u>Zusätzliche Zeitreihe:</u> Gini-Koeffizient des Vermögens'
 objects without digitised media: Objekte ohne Digitalisat
 for the medium-sized and major cities of 2012: Bezogen auf die Mittel- und Oberzentren des Jahres 2012
 for the medium-sized and major cities of the year in question: Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres

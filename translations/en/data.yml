@@ -104,10 +104,10 @@ objects with digitised media: Objects with digitised media
 energy consumption per tonne-kilometre: Energy consumption per tonne-kilometre
 energy consumption in passenger transport: Energy consumption in passenger transport
 energy consumption per passenger-kilometre: Energy consumption per passenger-kilometre
-gini coefficient of equivalised disposable income: Gini coefficient of equivalised disposable income
-gini coefficient of equivalised disposable income before social transfers: Gini coefficient of equivalised disposable income before social transfers
+'<u>time series of the indicator:</u> gini coefficient of equivalised disposable income': '<u>Time series of the indicator:</u> Gini coefficient of equivalised disposable income'
+'<u>additional time series:</u> gini coefficient of equivalised disposable income before social transfers': '<u>Additional time series:</u> Gini coefficient of equivalised disposable income before social transfers'
 initial training: Initial training
-skilled labour potential (total): Skilled labour potential (total)
+'<u>additional time series:</u> skilled labour potential (total)': '<u>Additional time series:</u> Skilled labour potential (total)'
 '<u>additional time series:</u> technical compliance': '<u>Additional time series:</u> Technical compliance'
 trained personnel still required to achieve the target: Trained personnel still required to achieve the target
 final energy consumption for the transport of goods: Final energy consumption for the transport of goods
@@ -121,7 +121,7 @@ higher qualifying vocational training: Higher qualifying vocational training
 '<u>time series of the indicator:</u> imports': '<u>Time series of the indicator:</u> Imports'
 '<u>time series of the indicator:</u> sustainability-certified cultural and media institutions': '<u>Time series of the indicator:</u> Sustainability-certified cultural and media institutions'
 '<u>time series of the indicator:</u> locations of organisation registered with emas': '<u>Time series of the indicator:</u> Locations of organisation registered with EMAS'
-gini coefficient of market income: Gini coefficient of market income
+'<u>additional time series:</u> gini coefficient of market income': '<u>Additional time series:</u> Gini coefficient of market income'
 raw material input for consumption, investment and exports: Raw material input for consumption, investment and exports
 raw material input productivity: Raw material input productivity
 share of msy examined stocks in all managed fish stocks: Share of MSY examined stocks in all managed fish stocks
@@ -135,7 +135,7 @@ by number of risk positions: By number of risk positions
 with post-secondary non-tertiary qualification: With post-secondary non-tertiary qualification
 mortality avoidable through prevention: Mortality avoidable through prevention
 '<u>additional time series:</u> imports of processed products': '<u>Additional time series:</u> Imports of processed products'
-academically qualified and professionally highly qualified persons: Academically qualified and professionally highly qualified persons
+'<u>time series of the indicator:</u> academically qualified and professionally highly qualified persons': '<u>Time series of the indicator:</u> Academically qualified and professionally highly qualified persons'
 researchers from ldcs: Researchers from LDCs
 researchers from other developing and emerging countries: Researchers from other developing and emerging countries
 raw material consumption and investment: Raw material consumption and investment
@@ -150,7 +150,7 @@ fathers: Fathers
 '<u>time series of the indicator:</u> children whose fathers have received parental allowance': '<u>Time series of the indicator:</u> Children whose fathers have received parental allowance'
 '<u>additional time series:</u> male recipients of all parental allowance months taken': '<u>Additional time series:</u> Male recipients of all parental allowance months taken'
 value of consumption, investment and exports (price-adjusted): Value of consumption, investment and exports (price-adjusted)
-gini coefficient of wealth: Gini coefficient of wealth
+'<u>additional time series:</u> gini coefficient of wealth': '<u>Additional time series:</u> Gini coefficient of wealth'
 objects without digitised media: Objects without digitised media
 for the medium-sized and major cities of 2012: For the medium-sized and major cities of 2012
 for the medium-sized and major cities of the year in question: For the medium-sized and major cities of the year in question
