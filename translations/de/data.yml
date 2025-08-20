@@ -33,10 +33,10 @@ eurozone: Eurozone
 germany: Deutschland
 day care centres: Kindertageseinrichtungen
 day care: Kindertagespflege
-effectiveness = low or moderate: Gering oder moderat
-technical compliance = non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
-effectiveness = substantial or high: Solide oder hoch
-technical compliance = largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
+low or moderate: Gering oder moderat
+non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
+substantial or high: Solide oder hoch
+largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 domestic burglary: Wohnungseinbruchsdiebstahl
@@ -69,7 +69,6 @@ pm2.5: PM₂.₅
 no risk situation: Keine Risikolage
 at least one risk situation: Mindestens eine Risikolage
 total: Insgesamt
-difference between "no risk situation" and "at least one risk situation": Differenz zwischen „Keine Risikolage“ und „Mindestens eine Risikolage“
 baltic sea: Ostsee
 north sea: Nordsee
 sustainably farmed area: Nachhaltige bewirtschaftete Fläche
@@ -96,7 +95,7 @@ hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen
 separate amount devoted to curbing the covid-19 pandemic: Eindämmung der COVID-19-Pandemie
 difference: Differenz
-difference between "no risk situation" and "at least one risk situation": Differenz zwischen „Keine Risikolage“ und „Mindestens eine Risikolage“
+difference between <i>no risk situation</i> and <i>at least one risk situation</i>: Differenz zwischen <i>Keine Risikolage</i> und <i>Mindestens eine Risikolage</i>
 objects with digitised media: Objekte mit Digitalisat
 '<u>time series of the indicator:</u> data from the federal statistical office': '<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes'
 '<u>time series of the indicator:</u> effectiveness': '<u>Zeitreihe des Indikators:</u> Effectiveness'
@@ -206,13 +205,13 @@ degree of urbanisation: Verstädterungsgrad
 categorization: Zuordnung
 
 #Einheiten
-'1.000': '1 000'
+1,000: '1 000'
 millions: Millionen
-billion eur: Milliarden EUR
+billion euros: Milliarden Euro
 inhabitants per km² settlement and transport area: Einwohner/-innen pro km² Siedlungs- und Verkehrsfläche
 gini coefficient: Gini-Koeffizient
-hectre: Hektar
-hectre per day: Hektar pro Tag
+hectare: Hektar
+hectares per day: Hektar pro Tag
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
 2000 = 100: 2000 = 100
@@ -220,12 +219,12 @@ hectre per day: Hektar pro Tag
 2008 = 100: 2008 = 100
 2010 = 100: 2010 = 100
 2015 = 100: 2015 = 100
-kilogram per hectare: Kilogramm pro Hektar
+kilograms per hectare: Kilogramm pro Hektar
 milligrams per litre: Milligramm pro Liter
 minutes: Minuten
-million eur: Millionen EUR
+million euros: Millionen Euro
 million inhabitants: Millionen Einwohner/-innen
-million hectre: Millionen Hektar
+million hectares: Millionen Hektar
 number: Anzahl
 number of ratings: Anzahl der Bewertungen
 per 100,000 inhabitants: Je 100 000 Einwohner/-innen
@@ -235,7 +234,7 @@ percentage points: Prozentpunkte
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 hours: Stunden
-1.000 eur: 1 000 EUR
+1,000 euros: 1 000 Euro
 
 #Indikatoren für Auswahlfelder
 a) material and social deprivation: a) Materielle und soziale Deprivation

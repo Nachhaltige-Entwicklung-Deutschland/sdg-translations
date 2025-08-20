@@ -33,10 +33,10 @@ eurozone: Eurozone
 germany: Germany
 day care centres: Day care centres
 day care: Day care
-effectiveness = low or moderate: Effectiveness = Low or moderate
-technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant or partially compliant
-effectiveness = substantial or high: Effectiveness = Substantial or high
-technical compliance = largely compliant or compliant: Technical compliance = Largely compliant or compliant
+low or moderate: Low or moderate
+non-compliant or partially compliant: Non-compliant or partially compliant
+substantial or high: Substantial or high
+largely compliant or compliant: Largely compliant or compliant
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
 domestic burglary: Domestic burglary
@@ -69,7 +69,6 @@ pm2.5: PM₂.₅
 no risk situation: No risk situation
 at least one risk situation: At least one risk situation
 total: Total
-difference between "no risk situation" and "at least one risk situation": Difference between "No risk situation" and "At least one risk situation"
 baltic sea: Baltic Sea
 north sea: North Sea
 sustainably farmed area: Sustainably farmed area
@@ -96,7 +95,7 @@ hybrid fiber coax (hfc): Hybrid Fiber Coax (HFC)
 commercial exploited fish stocks assessed for msy that is fished sustainably: Commercial exploited fish stocks assessed for MSY that is fished sustainably
 separate amount devoted to curbing the covid-19 pandemic: Separate amount devoted to curbing the COVID-19 pandemic
 difference: Difference
-difference between "no risk situation" and "at least one risk situation": Difference between "No risk situation" and "At least one risk situation"
+difference between <i>no risk situation</i> and <i>at least one risk situation</i>: Difference between <i>No risk situation</i> and <i>At least one risk situation</i>
 objects with digitised media: Objects with digitised media
 '<u>time series of the indicator:</u> data from the federal statistical office': '<u>Time series of the indicator:</u> Data from the Federal Statistical Office'
 '<u>time series of the indicator:</u> effectiveness': '<u>Time series of the indicator:</u> Effectiveness'
@@ -206,13 +205,13 @@ degree of urbanisation: Degree of urbanisation
 categorization: Categorization
 
 #Units
-'1.000': '1.000'
+1,000: 1,000
 millions: Millions
-billion eur: Billion EUR
+billion euros: Billion euros
 inhabitants per km² settlement and transport area: Inhabitants per km² settlement and transport area
 gini coefficient: Gini coefficient
-hectre: Hectre
-hectre per day: Hectre per day
+hectare: Hectare
+hectares per day: Hectares per day
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
 2000 = 100: 2000 = 100
@@ -220,12 +219,12 @@ hectre per day: Hectre per day
 2008 = 100: 2008 = 100
 2010 = 100: 2010 = 100
 2015 = 100: 2015 = 100
-kilogram per hectare: Kilogram per hectare
+kilograms per hectare: Kilograms per hectare
 milligrams per litre: Milligrams per litre
 minutes: Minutes
-million eur: Million EUR
+million euros: Million euros
 million inhabitants: Million inhabitants
-million hectre: Million Hectre
+million hectares: Million hectares
 number: Number
 number of ratings: Number of ratings
 per 100,000 inhabitants: Per 100,000 inhabitants
@@ -235,7 +234,7 @@ percentage points: Percentage points
 m² per year: m² per year
 m² per inhabitant and year: m² per inhabitant and year
 hours: Hours
-1.000 eur: 1.000 EUR
+1,000 euros: 1,000 euros
 
 #Indicators for selection filelds
 a) material and social deprivation: a) Material and social deprivation
