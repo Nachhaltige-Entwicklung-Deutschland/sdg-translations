@@ -6,17 +6,16 @@ comparison_sdg: Comparability with global metadata
 content_and_progress: Content and progress
 copyright: Copyright
 data_state: Data state
-data_last_update: Letztes Datenupdate
 goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
-dns_indicator_definition: Definition <small>(Text from the Indicator Report 2022 - State 31.10.2022)</small>
+dns_indicator_definition: Definition
 dns_indicator_definition_new: Definition
-dns_indicator_intention: Target and intention <small>(Text from the Indicator Report 2022 - State 31.10.2022)</small>
+dns_indicator_intention: Intention
 dns_political_intention: Intention
 type_target: Type of target
-target_description: Implemen&shy;tation in weather symbol calculation
+target_description: Assessment #Implemen&shy;tation in weather symbol calculation
 rating: Assessment
 data_state: Data state
 
@@ -28,7 +27,7 @@ indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 info_url_1: Additional Information
 
-national_data_update_url: Last modification of data
+national_data_update_url: <u>Last data update</u><br>
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Time series available
 national_indicator_description: Indicator description

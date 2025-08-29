@@ -32,7 +32,7 @@ overview_blurb: 'In der Übersichtstabelle sind die Bewertungen der Indikatoren 
   Daraus lässt sich ablesen, ob das Wettersymbol eines Indikators in der Vergangenheit stabil oder eher volatil war.<br>
   Grundlage der dargestellten Bewertungen ist der Datenstand Juli 2025. Auf der Online-Plattform können aktuellere
   Daten verfügbar sein, da diese regelmäßig aktualisiert werden.<br>
-  Die Druckversion der Statusübersicht der Indikatoren finden Sie
+  <br>Die Druckversion der Statusübersicht der Indikatoren finden Sie
   <a href="https://dns-indikatoren.de/public/Statusübersicht_2025_DE.pdf" target="_blank">hier</a>.<br><br>
   <h3 class="h3bold">Indikatoren mit mehreren Zielen</h3><br>
   Für Indikatoren mit mehreren Zielen, die nacheinander erreicht werden sollen (zum Beispiel Indikator
@@ -41,12 +41,12 @@ overview_blurb: 'In der Übersichtstabelle sind die Bewertungen der Indikatoren 
   die gleichzeitig erfüllt werden sollen (zum Beispiel Indikator
   <a href="https://dns-indikatoren.de/status_summary/#10.1 Ausländische Schulabsolvierende">10.1</a>).<br><br>
   <h3 class="h3bold">Indikatoren mit Zielanpassungen</h3><br>
-  Neben den aktuell gültigen Zielen der Bundesregierung werden auch solche Ziele dargestellt, die in der VergangenheiAusgegraut
-  dargestellt werden alle Wettersymbole für Ziele, die aktuell keine Gültigkeit haben, weilt galten, inzwischen jedoch angepasst wurden.<br><br>
-  Ausgegraut dargestellt werden alle Wettersymbole für Ziele, die aktuell keine Gültigkeit haben, weil <br>
-    • das Ziel in der Vergangenheit geändert wurde,<br>
-    • zunächst ein zeitlich näher liegendes Ziel erreicht werden muss, oder<br>
-    • das Ziel nur eines von mehreren gleichzeitig zu erfüllenden Zielen ist.'
+  Neben den aktuell gültigen Zielen der Bundesregierung werden auch solche Ziele dargestellt, die in der
+  Vergangenheit galten, inzwischen jedoch angepasst wurden.<br><br>
+  Ausgegraut dargestellt werden alle Wettersymbole für Ziele, die aktuell keine Gültigkeit haben, weil: <ul>
+  <li>das Ziel in der Vergangenheit geändert wurde,</li>
+  <li>zunächst ein zeitlich näher liegendes Ziel erreicht werden muss, oder</li>
+  <li>das Ziel nur eines von mehreren gleichzeitig zu erfüllenden Zielen ist.</li></ul>'
 #<br><br>Die Druckversion der Statusübersicht finden Sie <a href="https://dns-indikatoren.de/public/Statusübersicht.pdf" target="_blank">hier</a>.<br><br>'
 note: Anmerkung
 

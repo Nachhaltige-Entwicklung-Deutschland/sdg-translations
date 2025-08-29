@@ -15,6 +15,7 @@ no_data_hint: No options available because of filters above
 footnote: Note
 footnotes: Notes
 specification: Specification
+data_state: Data state
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
 download_geojson_title: Download geojson file

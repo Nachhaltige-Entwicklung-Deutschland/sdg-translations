@@ -29,19 +29,23 @@ year: Year
 normal_target: Target
 new_target: Target
 old_target: Target
-overview_blurb: 'In the overview table, the ratings of the indicators are given according to the status of the previous years. This shows whether the weather symbol for an indicator
-  has been stable or rather volatile in the past years.<br>
-  The basis for the assessments presented here is the data as of july 2025. The data on this platform is updated regularly, so that more current data may be available.<br>
-  You can download an overview of the assessments of all indicators <a href="https://dns-indikatoren.de/public/Statusübersicht_2025_En.pdf" target="_blank">here</a>.<br>
-  <h3 class="h3bold">Indicators with multiple targets</h3><br>
-  For indicators with multiple targets to be met over time (for example, indicator <a href="https://dns-indikatoren.de/en/status_summary/#7.1.b%20Primary%20energy%20consumption">7.1.b</a>),
-  the ratings for meeting each target are provided. The same applies to indicators with multiple targets to be met simultaneously (for example, indicator <a href="https://dns-indikatoren.de/en/status_summary/#10.1%20Foreign%20school%20graduates">10.1</a>).<br><br>
-  <h3 class="h3bold">Indicators with target changes</h3><br>
-  In addition to the currently valid goals of the federal government, the goals are presented that were valid in the past but have been changed in the meantime.<br><br>
-  In grayed out form, all weather icons are displayed for destinations that are currently not valid, because<br>
-  • the target has been changed in the past,<br>
-  • a goal closer in time must be fulfilled first, or<br>
-  • the target is only one of several targets to be fulfilled at the same time.<br><br>'
+overview_blurb: 'The overview table shows the assessments of the indicators from previous years,
+  indicating whether the weather symbol for an indicator has been stable or rather volatile in the past.<br>
+  The assessments presented are based on the data status as of July 2025. More recent data may be available on the online platform, as it is updated regularly.<br>
+  <br>The print version of the indicator status overview can be found <a href="https://dns-indikatoren.de/public/Statusübersicht_2025_En.pdf" target="_blank">here</a>.<br><br>
+  <h3 class="h3bold">Indicators with several targets</h3><br>
+  For indicators with several targets that are to be achieved sequentially (for example, indicator <a href="https://dns-indikatoren.de/en/status_summary/#7.1.b%20Primary%20energy%20consumption">7.1.b</a>),
+  the assessments for achieving each individual target are provided. The same applies to indicators
+  with several targets that are intended to be achieved simultaneously (for example, indicator
+  <a href="https://dns-indikatoren.de/en/status_summary/#10.1%20Foreign%20school%20graduates">10.1</a>).<br><br>
+  <h3 class="h3bold">Indicators with target adjustments</h3><br>
+  In addition to the currently valid targets of the Federal Government, targets that applied in the past but have since been adjusted are also shown.<br><br>
+  All weather symbols for targets that are currently not valid are shown in grey because:
+  <ul>
+  <li>the target was amended in the past,</li>
+  <li>a nearer-term target must be achieved first, or</li>
+  <li>the target is only one of several that are to be achieved simultaneously.</li>
+  </ul>'
 note: Note
 
 Keine: No assess&shy;ment possible

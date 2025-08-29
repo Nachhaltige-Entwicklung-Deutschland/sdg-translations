@@ -9,13 +9,13 @@ data_state: Datenstand
 data_last_update: Letztes Datenupdate
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
-dns_indicator_definition: Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
+dns_indicator_definition: Definition
 dns_indicator_definition_new: Definition
-dns_indicator_intention: Ziel und Intention <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
+dns_indicator_intention: Intention
 dns_political_intention: Intention
 type_target: Art des Ziels
 political_target: Ziel
-target_description: Umsetzung in der Wetter&shy;symbol&shy;berechnung
+target_description: Bewertung #Umsetzung in der Wetter&shy;symbol&shy;berechnung
 rating: Bewertung
 
 dns_indicator_content: Inhalt und Entwicklung
@@ -24,7 +24,7 @@ dns_content_url_text: Inhalt und Entwicklung
 indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen
-national_data_update_url: Letzte Änderung der Daten
+national_data_update_url: <u>Letzte Datenaktualiserung:</u><br>
 national_geographical_coverage: Geographische Abdeckung
 national_indicator_available: Verfügbare Zeitreihenbezeichnung
 national_indicator_description: Indikatorenbeschreibung
