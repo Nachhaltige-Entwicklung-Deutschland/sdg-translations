@@ -158,12 +158,12 @@ divers: Divers
 female: Female
 male: Male
 unknown: Unknown
-'<u>additional time series:</u> coasts and seas': '<u>Additional time series:</u> Coasts and seas'
+'<u>additional time series:</u> coasts/seas': '<u>Additional time series:</u> Coasts/seas'
 farmland sub-indicator: Farmland sub-indicator
 forest sub-indicator: Forest sub-indicator
 settlements sub-indicator: Settlements sub-indicator
 '<u>time series of the indicator:</u> total': '<u>Time series of the indicator:</u> Total'
-inland waters sub-index: Inland waters sub-index
+inland waters sub-indicator: Inland waters sub-indicator
 sector/area collective agreement: Sector/area collective agreement
 company/house collective agreement: Company/house collective agreement
 recreation area, cemetery: Recreation area, cemetery
@@ -405,3 +405,19 @@ financial action task force (fatf) rating effectiveness: Financial Action Task F
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries
+
+#Data notes
++++symbols: Explanation of symbols
+'+++0': less than half of 1 in the last digit occupied, but more than zero
+'+++‒': no figures or magnitude zero
+'+++…': data will be available later
+'+++/': no data because the numerical value is not sufficiently reliable
+'+++.': numerical value unknown or not be disclosed
+'+++x': cell blocked for logical reasons
+'+++( )': limited informational value because numerical value is of limited statistical reliability
+'+++|': fundamental change within a series affecting comparisons over time
+'+++p': provisional data
+'+++r': revised data
+'+++s': estimated data
+'+++-': no figures or magnitude zero
+'+++X': cell blocked for logical reasons

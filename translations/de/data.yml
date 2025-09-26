@@ -158,12 +158,12 @@ divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
-'<u>additional time series:</u> coasts and seas': '<u>Zusätzliche Zeitreihe:</u> Küsten/Meere'
+'<u>additional time series:</u> coasts/seas': '<u>Zusätzliche Zeitreihe:</u> Küsten/Meere'
 farmland sub-indicator: Teilindikator Agrarland
 forest sub-indicator: Teilindikator Wälder
 settlements sub-indicator: Teilindikator Siedlungen
 '<u>time series of the indicator:</u> total': '<u>Zeitreihe des Indikators:</u> Gesamtindikator'
-inland waters sub-index: Teilindex Binnengewässer
+inland waters sub-indicator: Teilindikator Binnengewässer
 sector/area collective agreement: Branchen-/Flächentarifvertrag
 company/house collective agreement: Firmen-/Haustarifvertrag
 recreation area, cemetery: Erholungsfläche, Friedhof
@@ -405,3 +405,19 @@ financial action task force (fatf) rating effectiveness: Financial Action Task F
 official development assistance as a proportion of gross national income: Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen
 number of students and researchers from developing countries and least developed countries: Studierende und Forschende aus Entwicklungsländern sowie aus am wenigsten entwickelten Ländern
 imports from least developed countries: Einfuhren aus am wenigsten entwickelten Ländern
+
+#Kennzeichen
++++symbols: Zeichenerklärung
+'+++0': weniger als die Hälfte von 1 in der letzten besetzten Stelle, jedoch mehr als nichts
+'+++‒': nichts vorhanden
+'+++…': Angabe fällt später an
+'+++/': keine Angaben, da Zahlenwert nicht sicher genug
+'+++.': Zahlenwert unbekannt oder geheim zu halten
+'+++x': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
+'+++( )': Aussagewert eingeschränkt, da Zahlenwert statistisch relativ unsicher ist
+'+++|': grundsätzliche Änderung innerhalb einer Reihe, die den zeitlichen Vergleich beeinträchtigt
+'+++p': vorläufige Zahl
+'+++r': berichtigte Zahl
+'+++s': geschätzte Zahl
+'+++-': nichts vorhanden
+'+++X': Tabellenfach gesperrt, weil Aussage nicht sinnvoll
