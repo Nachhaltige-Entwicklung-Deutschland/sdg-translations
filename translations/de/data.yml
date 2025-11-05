@@ -125,9 +125,10 @@ raw material input for consumption, investment and exports: Rohstoffeinsatz für
 raw material input productivity: Gesamtrohstoffproduktivität
 share of msy examined stocks in all managed fish stocks: MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen
 mothers: Mütter
-obesity: Adipositas
+'<u>time series of the indicator:</u> obesity rate': '<u>Zeitreihe des Indikators:</u> Adipositasquote'
 '<u>additional time series:</u> emas organisations': '<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen'
-overweight without obese: Übergewicht ohne Adipositas
+'<u>additional time series:</u> overweight rate (with obese)': '<u>Zusätzliche Zeitreihe:</u> Übergewichtsquote (mit Adipositas)'
+'<u>additional time series:</u> overweight rate (without obese)': '<u>Zusätzliche Zeitreihe:</u> Übergewichtsquote (ohne Adipositas)'
 pandemic prevention and response: Pandemieprävention und -reaktion
 passenger transport performance: Personenbeförderungsleistung
 by number of risk positions: Nach Anzahl der Risikolagen

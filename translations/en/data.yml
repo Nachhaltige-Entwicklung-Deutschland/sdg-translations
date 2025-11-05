@@ -125,9 +125,10 @@ raw material input for consumption, investment and exports: Raw material input f
 raw material input productivity: Raw material input productivity
 share of msy examined stocks in all managed fish stocks: Share of MSY examined stocks in all managed fish stocks
 mothers: Mothers
-obesity: Obesity
+'<u>time series of the indicator:</u> obesity rate': '<u>Time series of the indicator:</u> Obesity rate'
 '<u>additional time series:</u> emas organisations': '<u>Additional time series:</u> EMAS organisations'
-overweight without obese: Overweight without obese
+'<u>additional time series:</u> overweight rate (with obese)': '<u>Additional time series:</u> Overweight rate (with obese)'
+'<u>additional time series:</u> overweight rate (without obese)': '<u>Additional time series:</u> Overweight rate (without obese)'
 pandemic prevention and response: Pandemic prevention and response
 passenger transport performance: Passenger transport performance
 by number of risk positions: By number of risk positions
