@@ -16,9 +16,17 @@ dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik 
 data_not_available: Für die getroffene Auswahl stehen keine Daten zur Verfügung.
 details: Details
 dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu den oben dargestellten Indikatoren, wie eine kurze Definition des Indikators und eine Beschreibung des politisch festgelegten Zielwertes sowie die politische Intention für die Auswahl des Indikators.
+downloads: Downloads
+indicator: Indikator
+download_indicator: Indikator herunterladen
+data: Daten
+download_data: Daten im CSV-Format herunterladen
+chart: Grafik
+download_chart: Grafik herunterladen
+download_blurb: ''
 download_geojson_title: Karte als geoJson Datei speichern
 download_geojson: Karte im geojson Format speichern
-download_chart: Grafik im CSV-Format speichern
+#download_chart: Grafik im CSV-Format speichern
 download_chart_image: Grafik als Bild speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern

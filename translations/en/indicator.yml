@@ -18,13 +18,21 @@ specification: Specification
 data_state: Data state
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
+downloads: Downloads
+indicator: Indicator
+download_indicator: Download indicator
+data: Data
+download_data: Download data csv
+chart: Chart
+download_chart: Download chart
+download_blurb: ''
 download_geojson_title: Download geojson file
 download_geojson: Save map as geojson
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV
 download_source_title: Download source data as CSV
-download_chart: Download Chart CSV
+#download_chart: Download Chart CSV
 download_chart_image: Download Chart Image
 download_table: Download Table CSV
 download_csv: Download CSV
