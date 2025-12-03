@@ -20,11 +20,12 @@ data_not_available:  No data available for this selection of sub-categories and 
 details: Details
 downloads: Downloads
 indicator: Indicator
-download_indicator: Download indicator
+download_indicator: Download indicator as pdf file
+download_indicator_addition: File meets accessibility standards.
 data: Data
-download_data: Download data csv
+download_data: Download data as csv file
 chart: Chart
-download_chart: Download chart
+download_chart: Download chart as png file
 download_blurb: ''
 download_geojson_title: Download geojson file
 download_geojson: Save map as geojson
