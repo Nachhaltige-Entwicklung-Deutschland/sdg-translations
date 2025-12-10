@@ -21,12 +21,12 @@ details: Details
 downloads: Downloads
 indicator: Indicator
 download_indicator: Download indicator as pdf file
-download_indicator_addition: File meets accessibility standards.  Only available in German.
+download_indicator_addition: File meets accessibility standards. Only available in German.
 data: Data
 download_data: Download data as csv file
 chart: Chart
 download_chart: Download chart as png file
-download_blurb: ''
+download_post_blurb: The download for the ‘Indicator’ contains data as of July 2025. ‘Data’ and ‘Charts’ may be more up to date, as the data on the online platform is updated regularly.
 download_geojson_title: Download geojson file
 download_geojson: Save map as geojson
 download_headline: Download Headline CSV

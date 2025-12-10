@@ -24,7 +24,7 @@ data: Daten
 download_data: Daten im CSV-Format herunterladen
 chart: Grafik
 download_chart: Grafik im PNG-Format herunterladen
-download_blurb: ''
+download_post_blurb: Der Download zum "Indikator" hat den Datenstand Juli 2025. "Daten" und "Grafik" können aktueller verfügbar sein, da die Daten auf der Online-Plattform regelmäßig aktualisiert werden.
 download_geojson_title: Karte als geoJson Datei speichern
 download_geojson: Karte im geojson Format speichern
 #download_chart: Grafik im CSV-Format speichern
