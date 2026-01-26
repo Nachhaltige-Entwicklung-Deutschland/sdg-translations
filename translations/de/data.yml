@@ -110,6 +110,7 @@ initial training: Erstausbildung
 '<u>additional time series:</u> technical compliance': '<u>Zusätzliche Zeitreihe:</u> Technical Compliance'
 trained personnel still required to achieve the target: Noch fehlende Ausbildungsleistung
 final energy consumption for the transport of goods: Endenergieverbrauch durch Güterbeförderung
+a) government deficit: a) Finanzierungssaldo
 foreigns: Ausländer
 fibre-to-the-building/home (fttb/h): Reine Glasfasernetze (FTTB/H)
 gross domestic product (price-adjusted): Bruttoinlandsprodukt (preisbereinigt)
@@ -140,6 +141,7 @@ researchers from ldcs: Forschende aus LDCs
 researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
 raw material consumption and investment: Rohstoffeinsatz für Konsum und Investitionen
 raw material consumption for exports: Rohstoffeinsatz für Exporte
+b) structural deficit: b) Struktureller Finanzierungssaldo
 students from ldcs: Studierende aus LDCs
 students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
 with tertiary qualification: Tertiärer Abschluss
@@ -193,7 +195,7 @@ county: Kreis
 länder: Bundesland
 fine particulate matter: Feinstaub
 type of treatment: Art der Maßnahme
-qualification: Qualifizierung
+type of qualification: Art der Qualifizierung
 risk situation: Risikolage
 sea: Meer
 sector: Sektor
